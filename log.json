@@ -1,7 +1,28 @@
 {
-  "timestamp": 1402445677000,
+  "timestamp": 1402441814000,
   "issueLabels": {},
   "pullRequests": {
+    "7934": {
+      "title": "Create strings.js",
+      "assignee": "redmunds",
+      "user": "haziqgeek",
+      "created": 1400976696000,
+      "state": "in triage"
+    },
+    "7955": {
+      "title": "Addresses #1976 by implementing click->hold to rename for the project tr...",
+      "assignee": "njx",
+      "user": "ryanstewart",
+      "created": 1401261981000,
+      "state": "in triage"
+    },
+    "7957": {
+      "title": "some tests to clarify what convertToNativePath does. Issue #3872",
+      "assignee": "ingorichter",
+      "user": "chirayu11",
+      "created": 1401267211000,
+      "state": "in triage"
+    },
     "7988": {
       "title": "Defer most Quick View processing until after delay",
       "assignee": "dangoor",
@@ -14,6 +35,20 @@
       "assignee": "dangoor",
       "user": "SAPlayer",
       "created": 1401528621000,
+      "state": "in triage"
+    },
+    "8008": {
+      "title": "Use correct error message when renaming/deleting folder",
+      "assignee": "JeffryBooher",
+      "user": "SAPlayer",
+      "created": 1401716909000,
+      "state": "in triage"
+    },
+    "8029": {
+      "title": "Add Replace in... to context menus",
+      "assignee": "peterflynn",
+      "user": "redmunds",
+      "created": 1401832813000,
       "state": "in triage"
     },
     "8043": {
@@ -36,6 +71,13 @@
       "user": "JeffryBooher",
       "created": 1401988609000,
       "state": "in triage"
+    },
+    "8056": {
+      "title": "Fix for [Linux Only] Extension Test Suite has failures #7816",
+      "assignee": null,
+      "user": "ingorichter",
+      "created": 1402093785000,
+      "state": "new"
     },
     "8057": {
       "title": "made whitespace character optional",
@@ -70,6 +112,20 @@
       "assignee": null,
       "user": "loganallenc",
       "created": 1402252118000,
+      "state": "new"
+    },
+    "8080": {
+      "title": "added a force reload command for live preview",
+      "assignee": null,
+      "user": "maltemuth",
+      "created": 1402262573000,
+      "state": "new"
+    },
+    "8091": {
+      "title": "Update Images Changed on Disk",
+      "assignee": null,
+      "user": "JeffryBooher",
+      "created": 1402351145000,
       "state": "new"
     },
     "8094": {
