@@ -15,26 +15,401 @@
     }
   },
   "pullRequests": {
+    "3240": {
+      "title": "[PM] Wrap Selection with Tag",
+      "assignee": "jadbox",
+      "user": "TomMalbran",
+      "created": 1364178628000,
+      "state": "in triage",
+      "latestUserComment": 1400106455000
+    },
+    "4341": {
+      "title": "Call new shell api setModal to enforce the modality of a JS dialog.",
+      "assignee": "gruehle",
+      "user": "RaymondLim",
+      "created": 1372195718000,
+      "state": "in triage",
+      "latestAssigneeComment": 1400096537000
+    },
+    "4633": {
+      "title": "+ link to http://brackets.io/contribute/#get-coding",
+      "assignee": "njx",
+      "user": "tomByrer",
+      "created": 1375402655000,
+      "state": "in triage"
+    },
+    "4951": {
+      "title": "[NOT READY] Add unit test for browser reload during live dev",
+      "assignee": "jasonsanjose",
+      "user": "jasonsanjose",
+      "created": 1377556994000,
+      "state": "in triage"
+    },
+    "5186": {
+      "title": "Update strings.js",
+      "assignee": "RaymondLim",
+      "user": "jbvc97",
+      "created": 1379029743000,
+      "state": "in triage"
+    },
+    "5316": {
+      "title": "Guard against concurrent array mutation in Async.doInParallel",
+      "assignee": "peterflynn",
+      "user": "iwehrman",
+      "created": 1379982115000,
+      "state": "in triage"
+    },
+    "6099": {
+      "title": "For #6093: Added button to show all results in a list",
+      "assignee": "njx",
+      "user": "SAPlayer",
+      "created": 1385319064000,
+      "state": "in triage",
+      "latestAssigneeComment": 1401822964000,
+      "latestUserComment": 1394565639000
+    },
+    "6167": {
+      "title": "Duplicate file feature in project tree",
+      "assignee": "redmunds",
+      "user": "EricSmekens",
+      "created": 1386096398000,
+      "state": "in triage",
+      "latestUserComment": 1401257692000,
+      "latestAssigneeComment": 1401228116000
+    },
+    "6243": {
+      "title": "Update for Finnish translation",
+      "assignee": "ingorichter",
+      "user": "valtlait",
+      "created": 1386958292000,
+      "state": "in triage",
+      "latestAssigneeComment": 1395273043000,
+      "latestUserComment": 1395172454000
+    },
+    "6321": {
+      "title": "Refactor Getting Started main.css as suggested in issue #6320",
+      "assignee": "redmunds",
+      "user": "Merri",
+      "created": 1388001499000,
+      "state": "in triage",
+      "latestUserComment": 1388009198000
+    },
+    "6325": {
+      "title": "Resize QuickOpen results if the window size is changed, and add scroll bars",
+      "assignee": "peterflynn",
+      "user": "ishanatmuz",
+      "created": 1388151416000,
+      "state": "in triage",
+      "latestUserComment": 1400254513000,
+      "latestAssigneeComment": 1400196422000
+    },
+    "6409": {
+      "title": "Switch language / syntax mode of current document",
+      "assignee": "peterflynn",
+      "user": "peterflynn",
+      "created": 1389173540000,
+      "state": "in triage",
+      "latestAssigneeComment": 1399311187000
+    },
+    "6461": {
+      "title": "#5059 chmod all sub files and folders in temp directory",
+      "assignee": "ingorichter",
+      "user": "sriram-dev",
+      "created": 1389371617000,
+      "state": "in triage",
+      "latestUserComment": 1399780824000
+    },
+    "6510": {
+      "title": "Use file watchers instead of document saved event",
+      "assignee": "peterflynn",
+      "user": "jasonsanjose",
+      "created": 1389655642000,
+      "state": "in triage",
+      "latestUserComment": 1394656944000,
+      "latestAssigneeComment": 1389737947000
+    },
+    "6513": {
+      "title": "Clicking an Image file in the project tree calls FileOpen command twice",
+      "assignee": "peterflynn",
+      "user": "couzteau",
+      "created": 1389684633000,
+      "state": "in triage",
+      "latestUserComment": 1401995182000,
+      "latestAssigneeComment": 1389748959000
+    },
+    "6594": {
+      "title": "Full width inputs in the Search/Replace modal bars",
+      "assignee": "peterflynn",
+      "user": "TomMalbran",
+      "created": 1390188336000,
+      "state": "in triage",
+      "latestUserComment": 1398726651000
+    },
+    "6605": {
+      "title": "Allow loading custom application shells.",
+      "assignee": "JeffryBooher",
+      "user": "busykai",
+      "created": 1390326875000,
+      "state": "in triage",
+      "latestUserComment": 1400781468000,
+      "latestAssigneeComment": 1400780121000
+    },
+    "6622": {
+      "title": "[REVIEW ONLY] Prototype launching browser via node domain",
+      "assignee": null,
+      "user": "jasonsanjose",
+      "created": 1390508523000,
+      "state": "new",
+      "latestUserComment": 1400523620000
+    },
+    "6852": {
+      "title": "[DISCUSSION ONLY] Abstracts browser launching",
+      "assignee": null,
+      "user": "dangoor",
+      "created": 1392221239000,
+      "state": "new",
+      "latestUserComment": 1392258523000
+    },
+    "6854": {
+      "title": "Add browser zoom commands",
+      "assignee": "JeffryBooher",
+      "user": "jasonsanjose",
+      "created": 1392233958000,
+      "state": "in triage",
+      "latestUserComment": 1400682730000,
+      "latestAssigneeComment": 1395111191000
+    },
+    "6893": {
+      "title": "Catalan_ca branch for Catalan language for Brackets",
+      "assignee": "TomMalbran",
+      "user": "rogervila",
+      "created": 1392635762000,
+      "state": "in triage",
+      "latestAssigneeComment": 1400105352000,
+      "latestUserComment": 1395046870000
+    },
+    "7010": {
+      "title": "Update inspector protocol JSON to M31 branch 1650",
+      "assignee": "redmunds",
+      "user": "jasonsanjose",
+      "created": 1393380953000,
+      "state": "in triage",
+      "latestUserComment": 1393550614000
+    },
+    "7166": {
+      "title": "API to make exclude list user controllable (6781)",
+      "assignee": "peterflynn",
+      "user": "oliver-moran",
+      "created": 1394573358000,
+      "state": "in triage"
+    },
+    "7227": {
+      "title": "Replace 'smart autocomplete' with a purpose-built QuickSearchField module",
+      "assignee": "ingorichter",
+      "user": "peterflynn",
+      "created": 1395126464000,
+      "state": "in triage"
+    },
+    "7231": {
+      "title": "Replace String.trimRight() with regex in order to support IE10+",
+      "assignee": "peterflynn",
+      "user": "humphd",
+      "created": 1395152291000,
+      "state": "in triage",
+      "latestUserComment": 1395360477000,
+      "latestAssigneeComment": 1395350825000
+    },
+    "7306": {
+      "title": "use Chinese punctuation,add new item for string.js",
+      "assignee": "RaymondLim",
+      "user": "michaeljayt",
+      "created": 1395640571000,
+      "state": "in triage",
+      "latestUserComment": 1396913663000,
+      "latestAssigneeComment": 1395803303000
+    },
+    "7337": {
+      "title": "Fix for #6904 - Pressing [Enter] in Extension Manager Search box closes Extension Manager",
+      "assignee": "njx",
+      "user": "ingorichter",
+      "created": 1395954821000,
+      "state": "in triage",
+      "latestUserComment": 1399319320000
+    },
+    "7362": {
+      "title": "[REVIEW ONLY] Fix #6661. Configurable multiple linters.",
+      "assignee": null,
+      "user": "busykai",
+      "created": 1396234686000,
+      "state": "new",
+      "latestUserComment": 1396460875000
+    },
+    "7377": {
+      "title": "Added filename validation for Mac",
+      "assignee": "bchintx",
+      "user": "thomastaylor312",
+      "created": 1396400842000,
+      "state": "in triage",
+      "latestAssigneeComment": 1401317113000,
+      "latestUserComment": 1401247906000
+    },
+    "7379": {
+      "title": "[IN PROGRESS] zaggino/preferences-ui",
+      "assignee": null,
+      "user": "zaggino",
+      "created": 1396416782000,
+      "state": "new",
+      "latestUserComment": 1397092599000
+    },
+    "7493": {
+      "title": "prevent event from being used to enter a newline into editor",
+      "assignee": "zaggino",
+      "user": "zaggino",
+      "created": 1397255808000,
+      "state": "in triage",
+      "latestAssigneeComment": 1401841978000
+    },
+    "7582": {
+      "title": "Simplify (?) FindReplace helper function parseDollars",
+      "assignee": "njx",
+      "user": "SAPlayer",
+      "created": 1397949747000,
+      "state": "in triage",
+      "latestAssigneeComment": 1398298296000
+    },
+    "7604": {
+      "title": "[REVIEW ONLY] Add Find whole word functionality",
+      "assignee": "JeffryBooher",
+      "user": "SAPlayer",
+      "created": 1398201759000,
+      "state": "in triage",
+      "latestUserComment": 1398885383000,
+      "latestAssigneeComment": 1398708224000
+    },
+    "7616": {
+      "title": "Themes in Brackets core",
+      "assignee": "dangoor",
+      "user": "MiguelCastillo",
+      "created": 1398301731000,
+      "state": "in triage",
+      "latestUserComment": 1402250400000,
+      "latestAssigneeComment": 1401895477000
+    },
+    "7670": {
+      "title": "Sidebar Bug #6822",
+      "assignee": "JeffryBooher",
+      "user": "garethnic",
+      "created": 1398632934000,
+      "state": "in triage",
+      "latestUserComment": 1400420723000,
+      "latestAssigneeComment": 1399052890000
+    },
+    "7705": {
+      "title": "[replace-across-files] Unify Find Bars across FindReplace/FindInFiles",
+      "assignee": "peterflynn",
+      "user": "njx",
+      "created": 1398878560000,
+      "state": "in triage",
+      "latestUserComment": 1401921191000
+    },
+    "7708": {
+      "title": "Update Getting Started (How to change the project, why?)",
+      "assignee": "njx",
+      "user": "SAPlayer",
+      "created": 1398884735000,
+      "state": "in triage",
+      "latestUserComment": 1398945326000
+    },
+    "7759": {
+      "title": "实施预览 -> 实时预览",
+      "assignee": "RaymondLim",
+      "user": "XadillaX",
+      "created": 1399366089000,
+      "state": "in triage"
+    },
+    "7770": {
+      "title": "Set highlighted list element before scrolling it into view",
+      "assignee": "ingorichter",
+      "user": "redmunds",
+      "created": 1399476646000,
+      "state": "in triage",
+      "latestUserComment": 1401813102000
+    },
+    "7789": {
+      "title": "Display current project name in main window",
+      "assignee": "peterflynn",
+      "user": "le717",
+      "created": 1399581531000,
+      "state": "in triage",
+      "latestUserComment": 1400958027000
+    },
+    "7809": {
+      "title": "[replace-across-files] Replace in Files",
+      "assignee": "peterflynn",
+      "user": "njx",
+      "created": 1399706306000,
+      "state": "in triage",
+      "latestUserComment": 1400264840000
+    },
+    "7820": {
+      "title": "Allow the user to drag faster",
+      "assignee": "njx",
+      "user": "TomMalbran",
+      "created": 1399849544000,
+      "state": "in triage",
+      "latestAssigneeComment": 1401931007000,
+      "latestUserComment": 1400286830000
+    },
+    "7872": {
+      "title": "sprint 39 - czech language",
+      "assignee": "RaymondLim",
+      "user": "kvarel",
+      "created": 1400316622000,
+      "state": "in triage",
+      "latestAssigneeComment": 1401486255000
+    },
+    "7875": {
+      "title": "Reveal cursor on panel expand",
+      "assignee": "peterflynn",
+      "user": "albertxing",
+      "created": 1400353766000,
+      "state": "in triage",
+      "latestUserComment": 1402353615000,
+      "latestAssigneeComment": 1402349907000
+    },
+    "7889": {
+      "title": "Fix #6558. Resurrect language layer",
+      "assignee": "dangoor",
+      "user": "busykai",
+      "created": 1400596446000,
+      "state": "in triage",
+      "latestUserComment": 1400856642000,
+      "latestAssigneeComment": 1400854931000
+    },
     "7934": {
       "title": "Create strings.js",
       "assignee": "redmunds",
       "user": "haziqgeek",
       "created": 1400976696000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1401299467000
     },
     "7955": {
       "title": "Addresses #1976 by implementing click->hold to rename for the project tr...",
       "assignee": "njx",
       "user": "ryanstewart",
       "created": 1401261981000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestUserComment": 1401728496000,
+      "latestAssigneeComment": 1401295229000
     },
     "7957": {
       "title": "some tests to clarify what convertToNativePath does. Issue #3872",
       "assignee": "ingorichter",
       "user": "chirayu11",
       "created": 1401267211000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1401316077000
     },
     "7988": {
       "title": "Defer most Quick View processing until after delay",
@@ -42,7 +417,8 @@
       "user": "redmunds",
       "created": 1401472582000,
       "state": "in triage",
-      "latestAssigneeComment": 1402405158000
+      "latestAssigneeComment": 1402405158000,
+      "latestUserComment": 1402369624000
     },
     "7995": {
       "title": "Support package.json i18n key and show a hint in case the extension is t...",
@@ -64,28 +440,33 @@
       "assignee": "peterflynn",
       "user": "redmunds",
       "created": 1401832813000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestUserComment": 1401898597000
     },
     "8043": {
       "title": "Update HtmlTags.json",
       "assignee": "redmunds",
       "user": "coliff",
       "created": 1401954083000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1402365706000
     },
     "8044": {
       "title": "Update HtmlAttributes.json",
       "assignee": "redmunds",
       "user": "coliff",
       "created": 1401955198000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestUserComment": 1401982841000,
+      "latestAssigneeComment": 1401982688000
     },
     "8045": {
       "title": "[REVIEW ONLY] Split View Refactoring",
       "assignee": "redmunds",
       "user": "JeffryBooher",
       "created": 1401988609000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1402357949000
     },
     "8056": {
       "title": "Fix for [Linux Only] Extension Test Suite has failures #7816",
@@ -100,7 +481,8 @@
       "user": "HighwayChile",
       "created": 1402112408000,
       "state": "in triage",
-      "latestUserComment": 1402374472000
+      "latestUserComment": 1402374472000,
+      "latestAssigneeComment": 1402368309000
     },
     "8060": {
       "title": "sprint 40 - czech language",
