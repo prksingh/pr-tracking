@@ -1,0 +1,83 @@
+{
+  "timestamp": 1402445677000,
+  "issueLabels": {},
+  "pullRequests": {
+    "7988": {
+      "title": "Defer most Quick View processing until after delay",
+      "assignee": "dangoor",
+      "user": "redmunds",
+      "created": 1401472582000,
+      "state": "in triage"
+    },
+    "7995": {
+      "title": "Support package.json i18n key and show a hint in case the extension is t...",
+      "assignee": "dangoor",
+      "user": "SAPlayer",
+      "created": 1401528621000,
+      "state": "in triage"
+    },
+    "8043": {
+      "title": "Update HtmlTags.json",
+      "assignee": "redmunds",
+      "user": "coliff",
+      "created": 1401954083000,
+      "state": "in triage"
+    },
+    "8044": {
+      "title": "Update HtmlAttributes.json",
+      "assignee": "redmunds",
+      "user": "coliff",
+      "created": 1401955198000,
+      "state": "in triage"
+    },
+    "8045": {
+      "title": "[REVIEW ONLY] Split View Refactoring",
+      "assignee": "redmunds",
+      "user": "JeffryBooher",
+      "created": 1401988609000,
+      "state": "in triage"
+    },
+    "8057": {
+      "title": "made whitespace character optional",
+      "assignee": "redmunds",
+      "user": "HighwayChile",
+      "created": 1402112408000,
+      "state": "in triage"
+    },
+    "8060": {
+      "title": "sprint 40 - czech language",
+      "assignee": "bchintx",
+      "user": "kvarel",
+      "created": 1402132443000,
+      "state": "in triage"
+    },
+    "8062": {
+      "title": "Initial attempt at implementing appReadyDeferred",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1402155465000,
+      "state": "new"
+    },
+    "8070": {
+      "title": "Update zh-cn/strings.js",
+      "assignee": "bchintx",
+      "user": "fengdi",
+      "created": 1402211702000,
+      "state": "in triage"
+    },
+    "8076": {
+      "title": "Fixes bug #7667: Keyboard shortcut overlap with Chrome",
+      "assignee": null,
+      "user": "loganallenc",
+      "created": 1402252118000,
+      "state": "new"
+    },
+    "8094": {
+      "title": "Increase timeout for AnimationUtils.animateUsingClass()",
+      "assignee": "njx",
+      "user": "redmunds",
+      "created": 1402368202000,
+      "state": "in triage"
+    }
+  }
+}
