@@ -1,6 +1,19 @@
 {
-  "timestamp": 1402441814000,
-  "issueLabels": {},
+  "timestamp": 1402456002000,
+  "issueLabels": {
+    "8094": {
+      "changes": {
+        "1402456002000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    }
+  },
   "pullRequests": {
     "7934": {
       "title": "Create strings.js",
