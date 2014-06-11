@@ -41,14 +41,16 @@
       "assignee": "dangoor",
       "user": "redmunds",
       "created": 1401472582000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1402405158000
     },
     "7995": {
       "title": "Support package.json i18n key and show a hint in case the extension is t...",
       "assignee": "dangoor",
       "user": "SAPlayer",
       "created": 1401528621000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1402413149000
     },
     "8008": {
       "title": "Use correct error message when renaming/deleting folder",
@@ -97,35 +99,40 @@
       "assignee": "redmunds",
       "user": "HighwayChile",
       "created": 1402112408000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestUserComment": 1402374472000
     },
     "8060": {
       "title": "sprint 40 - czech language",
       "assignee": "bchintx",
       "user": "kvarel",
       "created": 1402132443000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1402426655000
     },
     "8062": {
       "title": "Initial attempt at implementing appReadyDeferred",
       "assignee": null,
       "user": "redmunds",
       "created": 1402155465000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1402441814000
     },
     "8070": {
       "title": "Update zh-cn/strings.js",
       "assignee": "bchintx",
       "user": "fengdi",
       "created": 1402211702000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1402422617000
     },
     "8076": {
       "title": "Fixes bug #7667: Keyboard shortcut overlap with Chrome",
       "assignee": null,
       "user": "loganallenc",
       "created": 1402252118000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1402423029000
     },
     "8080": {
       "title": "added a force reload command for live preview",
