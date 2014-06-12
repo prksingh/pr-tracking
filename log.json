@@ -1,5 +1,5 @@
 {
-  "timestamp": 1402515197000,
+  "timestamp": 1402586384000,
   "issueLabels": {
     "7616": {
       "changes": {
@@ -13,9 +13,45 @@
         "PR Triage Complete"
       ]
     },
+    "7889": {
+      "changes": {
+        "1402586384000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "7988": {
+      "changes": {
+        "1402586384000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "7995": {
       "changes": {
         "1402515197000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8080": {
+      "changes": {
+        "1402586384000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -186,14 +222,6 @@
       "state": "new",
       "latestUserComment": 1400523620000
     },
-    "6852": {
-      "title": "[DISCUSSION ONLY] Abstracts browser launching",
-      "assignee": null,
-      "user": "dangoor",
-      "created": 1392221239000,
-      "state": "new",
-      "latestUserComment": 1392258523000
-    },
     "6854": {
       "title": "Add browser zoom commands",
       "assignee": "JeffryBooher",
@@ -277,21 +305,13 @@
       "latestAssigneeComment": 1401317113000,
       "latestUserComment": 1401247906000
     },
-    "7379": {
-      "title": "[IN PROGRESS] zaggino/preferences-ui",
-      "assignee": null,
-      "user": "zaggino",
-      "created": 1396416782000,
-      "state": "new",
-      "latestUserComment": 1397092599000
-    },
     "7493": {
       "title": "prevent event from being used to enter a newline into editor",
       "assignee": "zaggino",
       "user": "zaggino",
       "created": 1397255808000,
       "state": "in triage",
-      "latestAssigneeComment": 1401841978000
+      "latestAssigneeComment": 1402527993000
     },
     "7582": {
       "title": "Simplify (?) FindReplace helper function parseDollars",
@@ -374,7 +394,8 @@
       "user": "njx",
       "created": 1399706306000,
       "state": "in triage",
-      "latestUserComment": 1400264840000
+      "latestUserComment": 1400264840000,
+      "latestAssigneeComment": 1402565382000
     },
     "7820": {
       "title": "Allow the user to drag faster",
@@ -407,7 +428,7 @@
       "assignee": "dangoor",
       "user": "busykai",
       "created": 1400596446000,
-      "state": "in triage",
+      "state": "in review",
       "latestUserComment": 1402505130000,
       "latestAssigneeComment": 1402506594000
     },
@@ -441,7 +462,7 @@
       "assignee": "dangoor",
       "user": "redmunds",
       "created": 1401472582000,
-      "state": "in triage",
+      "state": "in review",
       "latestAssigneeComment": 1402405158000,
       "latestUserComment": 1402369624000
     },
@@ -539,7 +560,7 @@
       "assignee": null,
       "user": "maltemuth",
       "created": 1402262573000,
-      "state": "new"
+      "state": "triaged"
     },
     "8091": {
       "title": "Update Images Changed on Disk",
