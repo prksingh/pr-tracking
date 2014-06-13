@@ -1,9 +1,33 @@
 {
-  "timestamp": 1402586384000,
+  "timestamp": 1402649244000,
   "issueLabels": {
+    "6854": {
+      "changes": {
+        "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "7616": {
       "changes": {
         "1402515197000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "7670": {
+      "changes": {
+        "1402649244000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -49,9 +73,69 @@
         "PR Triage Complete"
       ]
     },
+    "8008": {
+      "changes": {
+        "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8060": {
+      "changes": {
+        "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8070": {
+      "changes": {
+        "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8076": {
+      "changes": {
+        "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8080": {
       "changes": {
         "1402586384000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8091": {
+      "changes": {
+        "1402649244000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -125,7 +209,7 @@
       "user": "SAPlayer",
       "created": 1385319064000,
       "state": "in triage",
-      "latestAssigneeComment": 1401822964000,
+      "latestAssigneeComment": 1402593814000,
       "latestUserComment": 1394565639000
     },
     "6167": {
@@ -205,15 +289,6 @@
       "state": "in triage",
       "latestUserComment": 1398726651000
     },
-    "6605": {
-      "title": "Allow loading custom application shells.",
-      "assignee": "JeffryBooher",
-      "user": "busykai",
-      "created": 1390326875000,
-      "state": "in triage",
-      "latestUserComment": 1400781468000,
-      "latestAssigneeComment": 1400780121000
-    },
     "6622": {
       "title": "[REVIEW ONLY] Prototype launching browser via node domain",
       "assignee": null,
@@ -227,9 +302,9 @@
       "assignee": "JeffryBooher",
       "user": "jasonsanjose",
       "created": 1392233958000,
-      "state": "in triage",
+      "state": "in review",
       "latestUserComment": 1400682730000,
-      "latestAssigneeComment": 1395111191000
+      "latestAssigneeComment": 1402594734000
     },
     "6893": {
       "title": "Catalan_ca branch for Catalan language for Brackets",
@@ -296,23 +371,6 @@
       "state": "new",
       "latestUserComment": 1396460875000
     },
-    "7377": {
-      "title": "Added filename validation for Mac",
-      "assignee": "bchintx",
-      "user": "thomastaylor312",
-      "created": 1396400842000,
-      "state": "in triage",
-      "latestAssigneeComment": 1401317113000,
-      "latestUserComment": 1401247906000
-    },
-    "7493": {
-      "title": "prevent event from being used to enter a newline into editor",
-      "assignee": "zaggino",
-      "user": "zaggino",
-      "created": 1397255808000,
-      "state": "in triage",
-      "latestAssigneeComment": 1402527993000
-    },
     "7582": {
       "title": "Simplify (?) FindReplace helper function parseDollars",
       "assignee": "njx",
@@ -321,41 +379,14 @@
       "state": "in triage",
       "latestAssigneeComment": 1398298296000
     },
-    "7604": {
-      "title": "[REVIEW ONLY] Add Find whole word functionality",
-      "assignee": "JeffryBooher",
-      "user": "SAPlayer",
-      "created": 1398201759000,
-      "state": "in triage",
-      "latestUserComment": 1398885383000,
-      "latestAssigneeComment": 1398708224000
-    },
     "7616": {
       "title": "Themes in Brackets core",
       "assignee": "dangoor",
       "user": "MiguelCastillo",
       "created": 1398301731000,
       "state": "in review",
-      "latestUserComment": 1402250400000,
+      "latestUserComment": 1402601867000,
       "latestAssigneeComment": 1401895477000
-    },
-    "7670": {
-      "title": "Sidebar Bug #6822",
-      "assignee": "JeffryBooher",
-      "user": "garethnic",
-      "created": 1398632934000,
-      "state": "in triage",
-      "latestUserComment": 1400420723000,
-      "latestAssigneeComment": 1399052890000
-    },
-    "7705": {
-      "title": "[replace-across-files] Unify Find Bars across FindReplace/FindInFiles",
-      "assignee": "peterflynn",
-      "user": "njx",
-      "created": 1398878560000,
-      "state": "in triage",
-      "latestUserComment": 1402507531000,
-      "latestAssigneeComment": 1402474228000
     },
     "7708": {
       "title": "Update Getting Started (How to change the project, why?)",
@@ -387,15 +418,6 @@
       "created": 1399581531000,
       "state": "in triage",
       "latestUserComment": 1400958027000
-    },
-    "7809": {
-      "title": "[replace-across-files] Replace in Files",
-      "assignee": "peterflynn",
-      "user": "njx",
-      "created": 1399706306000,
-      "state": "in triage",
-      "latestUserComment": 1400264840000,
-      "latestAssigneeComment": 1402565382000
     },
     "7820": {
       "title": "Allow the user to drag faster",
@@ -479,15 +501,7 @@
       "assignee": "JeffryBooher",
       "user": "SAPlayer",
       "created": 1401716909000,
-      "state": "in triage"
-    },
-    "8029": {
-      "title": "Add Replace in... to context menus",
-      "assignee": "peterflynn",
-      "user": "redmunds",
-      "created": 1401832813000,
-      "state": "in triage",
-      "latestUserComment": 1401898597000
+      "state": "in review"
     },
     "8043": {
       "title": "Update HtmlTags.json",
@@ -507,20 +521,13 @@
       "latestUserComment": 1401982841000,
       "latestAssigneeComment": 1401982688000
     },
-    "8056": {
-      "title": "Fix for [Linux Only] Extension Test Suite has failures #7816",
-      "assignee": null,
-      "user": "ingorichter",
-      "created": 1402093785000,
-      "state": "new"
-    },
     "8057": {
       "title": "made whitespace character optional",
       "assignee": "redmunds",
       "user": "HighwayChile",
       "created": 1402112408000,
       "state": "in triage",
-      "latestUserComment": 1402374472000,
+      "latestUserComment": 1402636176000,
       "latestAssigneeComment": 1402368309000
     },
     "8060": {
@@ -528,7 +535,7 @@
       "assignee": "bchintx",
       "user": "kvarel",
       "created": 1402132443000,
-      "state": "in triage",
+      "state": "in review",
       "latestAssigneeComment": 1402426655000
     },
     "8062": {
@@ -544,7 +551,7 @@
       "assignee": "bchintx",
       "user": "fengdi",
       "created": 1402211702000,
-      "state": "in triage",
+      "state": "in review",
       "latestAssigneeComment": 1402422617000
     },
     "8076": {
@@ -552,7 +559,7 @@
       "assignee": null,
       "user": "loganallenc",
       "created": 1402252118000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1402423029000
     },
     "8080": {
@@ -567,14 +574,7 @@
       "assignee": null,
       "user": "JeffryBooher",
       "created": 1402351145000,
-      "state": "new"
-    },
-    "8094": {
-      "title": "Increase timeout for AnimationUtils.animateUsingClass()",
-      "assignee": "njx",
-      "user": "redmunds",
-      "created": 1402368202000,
-      "state": "in review"
+      "state": "triaged"
     },
     "8105": {
       "title": "SplitView Refactoring",
@@ -584,6 +584,29 @@
       "state": "in triage",
       "latestAssigneeComment": 1402509423000,
       "latestUserComment": 1402463853000
+    },
+    "8113": {
+      "title": "Remove vendor prefix",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1402611128000,
+      "state": "new",
+      "latestUserComment": 1402615085000
+    },
+    "8119": {
+      "title": "Fix unit test to click on Cancel in File Filters dialog when OK button is disabled",
+      "assignee": null,
+      "user": "njx",
+      "created": 1402624250000,
+      "state": "new",
+      "latestUserComment": 1402624784000
+    },
+    "8121": {
+      "title": "Add Link to Brackets-Dev on Help Menu",
+      "assignee": null,
+      "user": "HighwayChile",
+      "created": 1402642034000,
+      "state": "new"
     }
   }
 }
