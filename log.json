@@ -1,5 +1,5 @@
 {
-  "timestamp": 1403010574000,
+  "timestamp": 1403013025000,
   "issueLabels": {
     "6854": {
       "changes": {
@@ -247,20 +247,6 @@
       "state": "in triage",
       "latestAssigneeComment": 1400096537000
     },
-    "4633": {
-      "title": "+ link to http://brackets.io/contribute/#get-coding",
-      "assignee": "njx",
-      "user": "tomByrer",
-      "created": 1375402655000,
-      "state": "in triage"
-    },
-    "4951": {
-      "title": "[NOT READY] Add unit test for browser reload during live dev",
-      "assignee": "jasonsanjose",
-      "user": "jasonsanjose",
-      "created": 1377556994000,
-      "state": "in triage"
-    },
     "5186": {
       "title": "Update strings.js",
       "assignee": "RaymondLim",
@@ -445,11 +431,11 @@
     },
     "7582": {
       "title": "Simplify (?) FindReplace helper function parseDollars",
-      "assignee": "njx",
+      "assignee": "dangoor",
       "user": "SAPlayer",
       "created": 1397949747000,
       "state": "in triage",
-      "latestAssigneeComment": 1398298296000
+      "latestAssigneeComment": 1403013011000
     },
     "7616": {
       "title": "Themes in Brackets core",
@@ -457,7 +443,7 @@
       "user": "MiguelCastillo",
       "created": 1398301731000,
       "state": "in review",
-      "latestUserComment": 1402601867000,
+      "latestUserComment": 1403012886000,
       "latestAssigneeComment": 1401895477000
     },
     "7708": {
@@ -525,14 +511,6 @@
       "state": "in review",
       "latestUserComment": 1402505130000,
       "latestAssigneeComment": 1402506594000
-    },
-    "7934": {
-      "title": "Create strings.js",
-      "assignee": "redmunds",
-      "user": "haziqgeek",
-      "created": 1400976696000,
-      "state": "in review",
-      "latestAssigneeComment": 1401299467000
     },
     "7955": {
       "title": "Addresses #1976 by implementing click->hold to rename for the project tr...",
