@@ -1,9 +1,33 @@
 {
-  "timestamp": 1403013025000,
+  "timestamp": 1403100576000,
   "issueLabels": {
     "6854": {
       "changes": {
         "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "7231": {
+      "changes": {
+        "1403100576000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "7582": {
+      "changes": {
+        "1403100576000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -259,7 +283,9 @@
       "assignee": "peterflynn",
       "user": "iwehrman",
       "created": 1379982115000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1403036944000,
+      "latestUserComment": 1403015556000
     },
     "6099": {
       "title": "For #6093: Added button to show all results in a list",
@@ -278,15 +304,6 @@
       "state": "in triage",
       "latestUserComment": 1401257692000,
       "latestAssigneeComment": 1401228116000
-    },
-    "6243": {
-      "title": "Update for Finnish translation",
-      "assignee": "ingorichter",
-      "user": "valtlait",
-      "created": 1386958292000,
-      "state": "in triage",
-      "latestAssigneeComment": 1395273043000,
-      "latestUserComment": 1395172454000
     },
     "6321": {
       "title": "Refactor Getting Started main.css as suggested in issue #6320",
@@ -383,10 +400,10 @@
     },
     "7166": {
       "title": "API to make exclude list user controllable (6781)",
-      "assignee": "peterflynn",
+      "assignee": null,
       "user": "oliver-moran",
       "created": 1394573358000,
-      "state": "in triage"
+      "state": "new"
     },
     "7227": {
       "title": "Replace 'smart autocomplete' with a purpose-built QuickSearchField module",
@@ -397,10 +414,10 @@
     },
     "7231": {
       "title": "Replace String.trimRight() with regex in order to support IE10+",
-      "assignee": "peterflynn",
+      "assignee": null,
       "user": "humphd",
       "created": 1395152291000,
-      "state": "in triage",
+      "state": "triaged",
       "latestUserComment": 1395360477000,
       "latestAssigneeComment": 1395350825000
     },
@@ -427,15 +444,16 @@
       "user": "busykai",
       "created": 1396234686000,
       "state": "new",
-      "latestUserComment": 1396460875000
+      "latestUserComment": 1403020854000
     },
     "7582": {
       "title": "Simplify (?) FindReplace helper function parseDollars",
       "assignee": "dangoor",
       "user": "SAPlayer",
       "created": 1397949747000,
-      "state": "in triage",
-      "latestAssigneeComment": 1403013011000
+      "state": "in review",
+      "latestAssigneeComment": 1403099836000,
+      "latestUserComment": 1403045180000
     },
     "7616": {
       "title": "Themes in Brackets core",
@@ -444,7 +462,7 @@
       "created": 1398301731000,
       "state": "in review",
       "latestUserComment": 1403012886000,
-      "latestAssigneeComment": 1401895477000
+      "latestAssigneeComment": 1403019030000
     },
     "7708": {
       "title": "Update Getting Started (How to change the project, why?)",
@@ -518,8 +536,8 @@
       "user": "ryanstewart",
       "created": 1401261981000,
       "state": "in triage",
-      "latestUserComment": 1402996113000,
-      "latestAssigneeComment": 1401295229000
+      "latestUserComment": 1403075147000,
+      "latestAssigneeComment": 1403048000000
     },
     "7957": {
       "title": "some tests to clarify what convertToNativePath does. Issue #3872",
@@ -569,7 +587,8 @@
       "user": "redmunds",
       "created": 1402155465000,
       "state": "in review",
-      "latestUserComment": 1402673832000
+      "latestUserComment": 1402673832000,
+      "latestAssigneeComment": 1403021458000
     },
     "8070": {
       "title": "Update zh-cn/strings.js",
@@ -616,13 +635,51 @@
       "user": "njx",
       "created": 1402967385000,
       "state": "in review",
-      "latestUserComment": 1403000816000
+      "latestUserComment": 1403030495000,
+      "latestAssigneeComment": 1403068953000
     },
     "8144": {
       "title": "Fix Live CSS with an iframe element",
       "assignee": null,
       "user": "SAPlayer",
       "created": 1403006880000,
+      "state": "new"
+    },
+    "8146": {
+      "title": "Update CSSProperties.json",
+      "assignee": null,
+      "user": "coliff",
+      "created": 1403016765000,
+      "state": "new"
+    },
+    "8155": {
+      "title": "JS Code Hints Crash Preventer",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1403042265000,
+      "state": "new",
+      "latestUserComment": 1403043167000
+    },
+    "8156": {
+      "title": "Limit QuickView to literal color names in some languages",
+      "assignee": null,
+      "user": "SAPlayer",
+      "created": 1403044797000,
+      "state": "new",
+      "latestUserComment": 1403084682000
+    },
+    "8157": {
+      "title": "Fix live highlight when starting from a CSSDocument",
+      "assignee": null,
+      "user": "SAPlayer",
+      "created": 1403047416000,
+      "state": "new"
+    },
+    "8158": {
+      "title": "Fix error when checking for exclusions",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1403053732000,
       "state": "new"
     }
   }
