@@ -1,5 +1,5 @@
 {
-  "timestamp": 1403100576000,
+  "timestamp": 1403185644000,
   "issueLabels": {
     "6854": {
       "changes": {
@@ -252,6 +252,78 @@
       "current": [
         "PR Triage Complete"
       ]
+    },
+    "8144": {
+      "changes": {
+        "1403185644000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8158": {
+      "changes": {
+        "1403185644000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8171": {
+      "changes": {
+        "1403185644000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8172": {
+      "changes": {
+        "1403185644000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8174": {
+      "changes": {
+        "1403185644000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8177": {
+      "changes": {
+        "1403185644000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -284,7 +356,7 @@
       "user": "iwehrman",
       "created": 1379982115000,
       "state": "in triage",
-      "latestAssigneeComment": 1403036944000,
+      "latestAssigneeComment": 1403113551000,
       "latestUserComment": 1403015556000
     },
     "6099": {
@@ -293,7 +365,7 @@
       "user": "SAPlayer",
       "created": 1385319064000,
       "state": "in triage",
-      "latestAssigneeComment": 1402593814000,
+      "latestAssigneeComment": 1403124586000,
       "latestUserComment": 1403007557000
     },
     "6167": {
@@ -328,7 +400,7 @@
       "user": "peterflynn",
       "created": 1389173540000,
       "state": "in triage",
-      "latestAssigneeComment": 1399311187000
+      "latestAssigneeComment": 1403170086000
     },
     "6461": {
       "title": "#5059 chmod all sub files and folders in temp directory",
@@ -530,15 +602,6 @@
       "latestUserComment": 1402505130000,
       "latestAssigneeComment": 1402506594000
     },
-    "7955": {
-      "title": "Addresses #1976 by implementing click->hold to rename for the project tr...",
-      "assignee": "njx",
-      "user": "ryanstewart",
-      "created": 1401261981000,
-      "state": "in triage",
-      "latestUserComment": 1403075147000,
-      "latestAssigneeComment": 1403048000000
-    },
     "7957": {
       "title": "some tests to clarify what convertToNativePath does. Issue #3872",
       "assignee": "ingorichter",
@@ -629,21 +692,12 @@
       "latestAssigneeComment": 1402509423000,
       "latestUserComment": 1402463853000
     },
-    "8137": {
-      "title": "[replace-across-files] Code review fixes",
-      "assignee": "peterflynn",
-      "user": "njx",
-      "created": 1402967385000,
-      "state": "in review",
-      "latestUserComment": 1403030495000,
-      "latestAssigneeComment": 1403068953000
-    },
     "8144": {
       "title": "Fix Live CSS with an iframe element",
       "assignee": null,
       "user": "SAPlayer",
       "created": 1403006880000,
-      "state": "new"
+      "state": "triaged"
     },
     "8146": {
       "title": "Update CSSProperties.json",
@@ -654,11 +708,12 @@
     },
     "8155": {
       "title": "JS Code Hints Crash Preventer",
-      "assignee": null,
+      "assignee": "dangoor",
       "user": "redmunds",
       "created": 1403042265000,
-      "state": "new",
-      "latestUserComment": 1403043167000
+      "state": "in triage",
+      "latestUserComment": 1403134323000,
+      "latestAssigneeComment": 1403123136000
     },
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
@@ -675,11 +730,54 @@
       "created": 1403047416000,
       "state": "new"
     },
-    "8158": {
-      "title": "Fix error when checking for exclusions",
+    "8166": {
+      "title": "Drag and drop local zip file install for ExtensionManager",
       "assignee": null,
-      "user": "redmunds",
-      "created": 1403053732000,
+      "user": "jasonsanjose",
+      "created": 1403119620000,
+      "state": "new",
+      "latestUserComment": 1403119860000
+    },
+    "8172": {
+      "title": "Do replacements in memory if a file is in the working set but not yet open",
+      "assignee": "peterflynn",
+      "user": "njx",
+      "created": 1403138378000,
+      "state": "in review"
+    },
+    "8174": {
+      "title": "Break out query parsing from setting the query in the model...",
+      "assignee": "peterflynn",
+      "user": "njx",
+      "created": 1403141806000,
+      "state": "in review"
+    },
+    "8177": {
+      "title": "Properly track offsets for multiline regexps in Find/Replace in Files",
+      "assignee": "peterflynn",
+      "user": "njx",
+      "created": 1403144958000,
+      "state": "in review"
+    },
+    "8179": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1403153638000,
+      "state": "new"
+    },
+    "8183": {
+      "title": "Fix #8182 by adding a check for left mouse click.",
+      "assignee": null,
+      "user": "ryanstewart",
+      "created": 1403169037000,
+      "state": "new"
+    },
+    "8186": {
+      "title": "Finnish translation update",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1403185055000,
       "state": "new"
     }
   }
