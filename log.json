@@ -1,5 +1,5 @@
 {
-  "timestamp": 1403271355000,
+  "timestamp": 1403526125000,
   "issueLabels": {
     "6854": {
       "changes": {
@@ -352,6 +352,30 @@
     "8183": {
       "changes": {
         "1403271355000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8204": {
+      "changes": {
+        "1403526125000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8209": {
+      "changes": {
+        "1403526125000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -731,11 +755,12 @@
     },
     "8144": {
       "title": "Fix Live CSS with an iframe element",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "SAPlayer",
       "created": 1403006880000,
-      "state": "triaged",
-      "latestUserComment": 1403205111000
+      "state": "in review",
+      "latestUserComment": 1403305880000,
+      "latestAssigneeComment": 1403304230000
     },
     "8146": {
       "title": "Update CSSProperties.json",
@@ -767,32 +792,61 @@
       "state": "triaged",
       "latestUserComment": 1403225198000
     },
-    "8172": {
-      "title": "Do replacements in memory if a file is in the working set but not yet open",
-      "assignee": "peterflynn",
-      "user": "njx",
-      "created": 1403138378000,
-      "state": "in review"
-    },
     "8174": {
       "title": "Break out query parsing from setting the query in the model...",
       "assignee": "peterflynn",
       "user": "njx",
       "created": 1403141806000,
-      "state": "in review"
-    },
-    "8177": {
-      "title": "Properly track offsets for multiline regexps in Find/Replace in Files",
-      "assignee": "peterflynn",
-      "user": "njx",
-      "created": 1403144958000,
-      "state": "in review"
+      "state": "in review",
+      "latestAssigneeComment": 1403307273000
     },
     "8186": {
       "title": "Finnish translation update",
       "assignee": null,
       "user": "valtlait",
       "created": 1403185055000,
+      "state": "new"
+    },
+    "8198": {
+      "title": "[Review Only] JS Code Hints: Remember timed out files, notify user",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1403275895000,
+      "state": "new"
+    },
+    "8214": {
+      "title": "Fix for 8192",
+      "assignee": null,
+      "user": "ryanstewart",
+      "created": 1403340077000,
+      "state": "new"
+    },
+    "8215": {
+      "title": "German translation (Sprint 41)",
+      "assignee": null,
+      "user": "SAPlayer",
+      "created": 1403384248000,
+      "state": "new"
+    },
+    "8218": {
+      "title": "Turkish translation improvements",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1403445235000,
+      "state": "new"
+    },
+    "8223": {
+      "title": "Danish language translation",
+      "assignee": null,
+      "user": "bodhiBit",
+      "created": 1403489778000,
+      "state": "new"
+    },
+    "8226": {
+      "title": "Add Galician translation",
+      "assignee": null,
+      "user": "ivarcia",
+      "created": 1403517492000,
       "state": "new"
     }
   }
