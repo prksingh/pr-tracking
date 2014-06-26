@@ -1,5 +1,5 @@
 {
-  "timestamp": 1403699381000,
+  "timestamp": 1403789464000,
   "issueLabels": {
     "6099": {
       "changes": {
@@ -492,6 +492,18 @@
       "current": [
         "PR Triage Complete"
       ]
+    },
+    "8254": {
+      "changes": {
+        "1403789464000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -678,15 +690,6 @@
       "state": "new",
       "latestUserComment": 1403530834000
     },
-    "7582": {
-      "title": "Simplify FindUtils.parseDollars",
-      "assignee": "dangoor",
-      "user": "SAPlayer",
-      "created": 1397949747000,
-      "state": "in review",
-      "latestAssigneeComment": 1403099836000,
-      "latestUserComment": 1403224969000
-    },
     "7616": {
       "title": "Themes in Brackets core",
       "assignee": "dangoor",
@@ -815,13 +818,6 @@
       "latestAssigneeComment": 1402422617000,
       "latestUserComment": 1403634297000
     },
-    "8080": {
-      "title": "added a force reload command for live preview",
-      "assignee": "dangoor",
-      "user": "maltemuth",
-      "created": 1402262573000,
-      "state": "in review"
-    },
     "8091": {
       "title": "Update Images Changed on Disk",
       "assignee": null,
@@ -898,7 +894,8 @@
       "user": "SAPlayer",
       "created": 1403384248000,
       "state": "in triage",
-      "latestAssigneeComment": 1403613975000
+      "latestAssigneeComment": 1403613975000,
+      "latestUserComment": 1403756736000
     },
     "8226": {
       "title": "Add Galician translation",
@@ -906,31 +903,8 @@
       "user": "ivarcia",
       "created": 1403517492000,
       "state": "in triage",
-      "latestAssigneeComment": 1403565383000,
-      "latestUserComment": 1403682274000
-    },
-    "8237": {
-      "title": "Danish language.. to the release branch this time..",
-      "assignee": "redmunds",
-      "user": "bodhiBit",
-      "created": 1403573123000,
-      "state": "in review",
-      "latestUserComment": 1403610908000,
-      "latestAssigneeComment": 1403644582000
-    },
-    "8244": {
-      "title": "Isolated fix for changing height of modal bar with filter picker",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1403670238000,
-      "state": "new"
-    },
-    "8245": {
-      "title": "Spanish translations for Release 0.41",
-      "assignee": null,
-      "user": "TomMalbran",
-      "created": 1403677014000,
-      "state": "new"
+      "latestAssigneeComment": 1403739196000,
+      "latestUserComment": 1403770858000
     }
   }
 }
