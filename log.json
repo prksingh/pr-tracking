@@ -1,6 +1,30 @@
 {
-  "timestamp": 1403789464000,
+  "timestamp": 1403795923000,
   "issueLabels": {
+    "4690": {
+      "changes": {
+        "1403795923000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "6073": {
+      "changes": {
+        "1403795923000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
     "6099": {
       "changes": {
         "1403620982000": {
@@ -19,10 +43,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1403795923000": {
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "PR Triage Complete"
+        "PR Triage Complete",
+        "Review"
       ]
     },
     "6854": {
@@ -43,10 +73,28 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1403795923000": {
+          "added": [
+            "Ready"
+          ]
         }
       },
       "current": [
-        "PR Triage Complete"
+        "PR Triage Complete",
+        "Ready"
+      ]
+    },
+    "7420": {
+      "changes": {
+        "1403795923000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
       ]
     },
     "7582": {
@@ -67,9 +115,15 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1403795923000": {
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
+        "Development",
         "PR Triage Complete"
       ]
     },
@@ -83,6 +137,18 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "7752": {
+      "changes": {
+        "1403795923000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     },
     "7889": {
@@ -469,6 +535,18 @@
         "PR Triage Complete"
       ]
     },
+    "8226": {
+      "changes": {
+        "1403795923000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8237": {
       "changes": {
         "1403699381000": {
@@ -820,10 +898,10 @@
     },
     "8091": {
       "title": "Update Images Changed on Disk",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "JeffryBooher",
       "created": 1402351145000,
-      "state": "triaged"
+      "state": "in review"
     },
     "8144": {
       "title": "Fix Live CSS with an iframe element",
@@ -888,21 +966,12 @@
       "created": 1403340077000,
       "state": "new"
     },
-    "8215": {
-      "title": "German translation (Sprint 41)",
-      "assignee": "ingorichter",
-      "user": "SAPlayer",
-      "created": 1403384248000,
-      "state": "in triage",
-      "latestAssigneeComment": 1403613975000,
-      "latestUserComment": 1403756736000
-    },
     "8226": {
       "title": "Add Galician translation",
       "assignee": "redmunds",
       "user": "ivarcia",
       "created": 1403517492000,
-      "state": "in triage",
+      "state": "in review",
       "latestAssigneeComment": 1403739196000,
       "latestUserComment": 1403770858000
     }
