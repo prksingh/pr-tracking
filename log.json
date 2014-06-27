@@ -1,5 +1,5 @@
 {
-  "timestamp": 1403795923000,
+  "timestamp": 1403873033000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -391,6 +391,18 @@
         "PR Triage Complete"
       ]
     },
+    "8157": {
+      "changes": {
+        "1403873033000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8158": {
       "changes": {
         "1403185644000": {
@@ -577,11 +589,14 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1403873033000": {
+          "removed": [
+            "PR Triage Complete"
+          ]
         }
       },
-      "current": [
-        "PR Triage Complete"
-      ]
+      "current": []
     }
   },
   "pullRequests": {
@@ -901,7 +916,8 @@
       "assignee": "redmunds",
       "user": "JeffryBooher",
       "created": 1402351145000,
-      "state": "in review"
+      "state": "in review",
+      "latestAssigneeComment": 1403820450000
     },
     "8144": {
       "title": "Fix Live CSS with an iframe element",
@@ -926,14 +942,6 @@
       "created": 1403044797000,
       "state": "triaged",
       "latestUserComment": 1403084682000
-    },
-    "8157": {
-      "title": "Fix live highlight when starting from a CSSDocument",
-      "assignee": "redmunds",
-      "user": "SAPlayer",
-      "created": 1403047416000,
-      "state": "in triage",
-      "latestAssigneeComment": 1403623921000
     },
     "8166": {
       "title": "Drag and drop local zip file install for ExtensionManager",
@@ -974,6 +982,35 @@
       "state": "in review",
       "latestAssigneeComment": 1403739196000,
       "latestUserComment": 1403770858000
+    },
+    "8258": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1403800944000,
+      "state": "new"
+    },
+    "8260": {
+      "title": "Implement checkbox option for individual file in search result panel.",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1403805948000,
+      "state": "new",
+      "latestUserComment": 1403813790000
+    },
+    "8262": {
+      "title": "Update Korean translation",
+      "assignee": null,
+      "user": "revi-wm",
+      "created": 1403855639000,
+      "state": "new"
+    },
+    "8264": {
+      "title": "Update Italian strings.js",
+      "assignee": null,
+      "user": "Denisov21",
+      "created": 1403861621000,
+      "state": "new"
     }
   }
 }
