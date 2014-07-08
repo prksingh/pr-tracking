@@ -1,5 +1,5 @@
 {
-  "timestamp": 1404725605000,
+  "timestamp": 1404822213000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -24,9 +24,16 @@
           "removed": [
             "Waiting/Dependent"
           ]
+        },
+        "1404822213000": {
+          "added": [
+            "Development"
+          ]
         }
       },
-      "current": []
+      "current": [
+        "Development"
+      ]
     },
     "6099": {
       "changes": {
@@ -454,6 +461,18 @@
         "PR Triage Complete"
       ]
     },
+    "8173": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
     "8174": {
       "changes": {
         "1403185644000": {
@@ -609,9 +628,16 @@
           "removed": [
             "PR Triage Complete"
           ]
+        },
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
         }
       },
-      "current": []
+      "current": [
+        "Ready"
+      ]
     },
     "8269": {
       "changes": {
@@ -623,6 +649,126 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "8319": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8320": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8321": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8322": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8323": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8324": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8326": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Review"
+          ]
+        }
+      },
+      "current": [
+        "Review"
+      ]
+    },
+    "8328": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "8329": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "8330": {
+      "changes": {
+        "1404822213000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     }
   },
@@ -1045,7 +1191,8 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1403898863000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1404751977000
     },
     "8279": {
       "title": "sprint 41 - czech language",
@@ -1074,7 +1221,7 @@
       "user": "le717",
       "created": 1404075330000,
       "state": "new",
-      "latestUserComment": 1404323132000
+      "latestUserComment": 1404750129000
     },
     "8297": {
       "title": "Consistency in StatusBar UI",
@@ -1088,7 +1235,8 @@
       "assignee": null,
       "user": "jamiestevens",
       "created": 1404372608000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1404757314000
     },
     "8301": {
       "title": "Code hint for React.js text/jsx scripts",
@@ -1104,14 +1252,15 @@
       "user": "MiguelCastillo",
       "created": 1404397902000,
       "state": "new",
-      "latestUserComment": 1404415163000
+      "latestUserComment": 1404759651000
     },
     "8305": {
       "title": "Adding interfaces to change font size, font family, and line height.",
       "assignee": null,
       "user": "MiguelCastillo",
       "created": 1404411044000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1404783444000
     },
     "8307": {
       "title": "Romanian locale update",
@@ -1140,6 +1289,22 @@
       "user": "mohammadyaghobi",
       "created": 1404605459000,
       "state": "new"
+    },
+    "8332": {
+      "title": "[WIP] Added Traditional Chinese translation.",
+      "assignee": null,
+      "user": "tan9",
+      "created": 1404753749000,
+      "state": "new",
+      "latestUserComment": 1404796692000
+    },
+    "8333": {
+      "title": "Use XML highlighting for .xaml files",
+      "assignee": null,
+      "user": "le717",
+      "created": 1404755413000,
+      "state": "new",
+      "latestUserComment": 1404780264000
     }
   }
 }
