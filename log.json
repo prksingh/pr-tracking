@@ -1,5 +1,5 @@
 {
-  "timestamp": 1404822213000,
+  "timestamp": 1404895441000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -149,6 +149,18 @@
         "PR Triage Complete"
       ]
     },
+    "7708": {
+      "changes": {
+        "1404895441000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "7752": {
       "changes": {
         "1403795923000": {
@@ -159,6 +171,18 @@
       },
       "current": [
         "Development"
+      ]
+    },
+    "7820": {
+      "changes": {
+        "1404895441000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
       ]
     },
     "7889": {
@@ -203,10 +227,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1404895441000": {
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "PR Triage Complete"
+        "PR Triage Complete",
+        "Review"
       ]
     },
     "8008": {
@@ -651,6 +681,46 @@
         "PR Triage Complete"
       ]
     },
+    "8282": {
+      "changes": {
+        "1404895441000": {
+          "added": [
+            "PR Triage Complete",
+            "Review"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete",
+        "Review"
+      ]
+    },
+    "8302": {
+      "changes": {
+        "1404895441000": {
+          "added": [
+            "PR Triage Complete",
+            "Review"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete",
+        "Review"
+      ]
+    },
+    "8305": {
+      "changes": {
+        "1404895441000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8319": {
       "changes": {
         "1404822213000": {
@@ -807,10 +877,10 @@
     },
     "6099": {
       "title": "For #6093: Added button to show all results in a list",
-      "assignee": "njx",
+      "assignee": null,
       "user": "SAPlayer",
       "created": 1385319064000,
-      "state": "in review",
+      "state": "triaged",
       "latestAssigneeComment": 1403202489000,
       "latestUserComment": 1403007557000
     },
@@ -942,10 +1012,10 @@
     },
     "7337": {
       "title": "Fix for #6904 - Pressing [Enter] in Extension Manager Search box closes Extension Manager",
-      "assignee": "njx",
+      "assignee": null,
       "user": "ingorichter",
       "created": 1395954821000,
-      "state": "in triage",
+      "state": "new",
       "latestUserComment": 1399319320000
     },
     "7362": {
@@ -956,22 +1026,14 @@
       "state": "new",
       "latestUserComment": 1403530834000
     },
-    "7616": {
-      "title": "Themes in Brackets core",
-      "assignee": "dangoor",
-      "user": "MiguelCastillo",
-      "created": 1398301731000,
-      "state": "in review",
-      "latestUserComment": 1403012886000,
-      "latestAssigneeComment": 1403019030000
-    },
     "7708": {
       "title": "Update Getting Started (How to change the project, why?)",
       "assignee": "njx",
       "user": "SAPlayer",
       "created": 1398884735000,
-      "state": "in triage",
-      "latestUserComment": 1398945326000
+      "state": "in review",
+      "latestUserComment": 1398945326000,
+      "latestAssigneeComment": 1404846371000
     },
     "7759": {
       "title": "实施预览 -> 实时预览",
@@ -990,12 +1052,12 @@
     },
     "7820": {
       "title": "Allow the user to drag faster",
-      "assignee": "njx",
+      "assignee": null,
       "user": "TomMalbran",
       "created": 1399849544000,
-      "state": "in triage",
+      "state": "triaged",
       "latestAssigneeComment": 1401931007000,
-      "latestUserComment": 1400286830000
+      "latestUserComment": 1404848274000
     },
     "7872": {
       "title": "sprint 39 - czech language",
@@ -1033,10 +1095,10 @@
     },
     "7988": {
       "title": "Defer most Quick View processing until after delay",
-      "assignee": "dangoor",
+      "assignee": null,
       "user": "redmunds",
       "created": 1401472582000,
-      "state": "in review",
+      "state": "triaged",
       "latestAssigneeComment": 1402405158000,
       "latestUserComment": 1402369624000
     },
@@ -1046,8 +1108,8 @@
       "user": "SAPlayer",
       "created": 1401528621000,
       "state": "in review",
-      "latestAssigneeComment": 1403879390000,
-      "latestUserComment": 1404504924000
+      "latestAssigneeComment": 1404826565000,
+      "latestUserComment": 1404842853000
     },
     "8008": {
       "title": "Use correct error message when renaming/deleting folder",
@@ -1217,10 +1279,10 @@
     },
     "8282": {
       "title": "Truncate extension descriptions",
-      "assignee": null,
+      "assignee": "TomMalbran",
       "user": "le717",
       "created": 1404075330000,
-      "state": "new",
+      "state": "in review",
       "latestUserComment": 1404750129000
     },
     "8297": {
@@ -1248,19 +1310,20 @@
     },
     "8302": {
       "title": "Themes in Core v1",
-      "assignee": null,
+      "assignee": "dangoor",
       "user": "MiguelCastillo",
       "created": 1404397902000,
-      "state": "new",
-      "latestUserComment": 1404759651000
+      "state": "in review",
+      "latestUserComment": 1404849780000,
+      "latestAssigneeComment": 1404849573000
     },
     "8305": {
       "title": "Adding interfaces to change font size, font family, and line height.",
       "assignee": null,
       "user": "MiguelCastillo",
       "created": 1404411044000,
-      "state": "new",
-      "latestUserComment": 1404783444000
+      "state": "triaged",
+      "latestUserComment": 1404829739000
     },
     "8307": {
       "title": "Romanian locale update",
@@ -1281,7 +1344,8 @@
       "assignee": null,
       "user": "SAPlayer",
       "created": 1404511546000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1404842549000
     },
     "8313": {
       "title": "Persian translation for sprint 41",
@@ -1296,7 +1360,7 @@
       "user": "tan9",
       "created": 1404753749000,
       "state": "new",
-      "latestUserComment": 1404796692000
+      "latestUserComment": 1404858559000
     },
     "8333": {
       "title": "Use XML highlighting for .xaml files",
@@ -1304,7 +1368,22 @@
       "user": "le717",
       "created": 1404755413000,
       "state": "new",
-      "latestUserComment": 1404780264000
+      "latestUserComment": 1404839120000
+    },
+    "8340": {
+      "title": "added .bash to bash highlighting and .ino to cpp highlighting",
+      "assignee": null,
+      "user": "tylucaskelley",
+      "created": 1404845874000,
+      "state": "new",
+      "latestUserComment": 1404846489000
+    },
+    "8341": {
+      "title": "Fix #8273: \"sortDirectoriesFirst\": true in .brackets.json not always working properly ",
+      "assignee": null,
+      "user": "TomMalbran",
+      "created": 1404849194000,
+      "state": "new"
     }
   }
 }
