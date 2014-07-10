@@ -1,5 +1,5 @@
 {
-  "timestamp": 1404895441000,
+  "timestamp": 1405018616000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -147,6 +147,18 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "7683": {
+      "changes": {
+        "1405018616000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     },
     "7708": {
@@ -681,6 +693,18 @@
         "PR Triage Complete"
       ]
     },
+    "8274": {
+      "changes": {
+        "1405018616000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
     "8282": {
       "changes": {
         "1404895441000": {
@@ -882,7 +906,7 @@
       "created": 1385319064000,
       "state": "triaged",
       "latestAssigneeComment": 1403202489000,
-      "latestUserComment": 1403007557000
+      "latestUserComment": 1404917356000
     },
     "6167": {
       "title": "Duplicate file feature in project tree",
@@ -1026,15 +1050,6 @@
       "state": "new",
       "latestUserComment": 1403530834000
     },
-    "7708": {
-      "title": "Update Getting Started (How to change the project, why?)",
-      "assignee": "njx",
-      "user": "SAPlayer",
-      "created": 1398884735000,
-      "state": "in review",
-      "latestUserComment": 1398945326000,
-      "latestAssigneeComment": 1404846371000
-    },
     "7759": {
       "title": "实施预览 -> 实时预览",
       "assignee": "RaymondLim",
@@ -1109,7 +1124,7 @@
       "created": 1401528621000,
       "state": "in review",
       "latestAssigneeComment": 1404826565000,
-      "latestUserComment": 1404842853000
+      "latestUserComment": 1404918185000
     },
     "8008": {
       "title": "Use correct error message when renaming/deleting folder",
@@ -1120,14 +1135,6 @@
       "latestUserComment": 1403216990000,
       "latestAssigneeComment": 1403212288000
     },
-    "8060": {
-      "title": "sprint 40 - czech language",
-      "assignee": "bchintx",
-      "user": "kvarel",
-      "created": 1402132443000,
-      "state": "in review",
-      "latestAssigneeComment": 1402426655000
-    },
     "8062": {
       "title": "[Review Only] appReadyDeferred",
       "assignee": "dangoor",
@@ -1136,15 +1143,6 @@
       "state": "in review",
       "latestUserComment": 1402673832000,
       "latestAssigneeComment": 1403021458000
-    },
-    "8070": {
-      "title": "Update zh-cn/strings.js",
-      "assignee": "bchintx",
-      "user": "fengdi",
-      "created": 1402211702000,
-      "state": "in review",
-      "latestAssigneeComment": 1402422617000,
-      "latestUserComment": 1403634297000
     },
     "8091": {
       "title": "Update Images Changed on Disk",
@@ -1160,7 +1158,7 @@
       "user": "SAPlayer",
       "created": 1403006880000,
       "state": "in review",
-      "latestUserComment": 1403305880000,
+      "latestUserComment": 1405010851000,
       "latestAssigneeComment": 1403304230000
     },
     "8146": {
@@ -1254,7 +1252,7 @@
       "user": "RaymondLim",
       "created": 1403898863000,
       "state": "new",
-      "latestUserComment": 1404751977000
+      "latestUserComment": 1405015600000
     },
     "8279": {
       "title": "sprint 41 - czech language",
@@ -1314,8 +1312,8 @@
       "user": "MiguelCastillo",
       "created": 1404397902000,
       "state": "in review",
-      "latestUserComment": 1404849780000,
-      "latestAssigneeComment": 1404849573000
+      "latestUserComment": 1404918869000,
+      "latestAssigneeComment": 1404937288000
     },
     "8305": {
       "title": "Adding interfaces to change font size, font family, and line height.",
@@ -1361,14 +1359,6 @@
       "created": 1404753749000,
       "state": "new",
       "latestUserComment": 1404858559000
-    },
-    "8333": {
-      "title": "Use XML highlighting for .xaml files",
-      "assignee": null,
-      "user": "le717",
-      "created": 1404755413000,
-      "state": "new",
-      "latestUserComment": 1404839120000
     },
     "8340": {
       "title": "added .bash to bash highlighting and .ino to cpp highlighting",
