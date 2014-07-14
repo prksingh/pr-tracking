@@ -1,5 +1,5 @@
 {
-  "timestamp": 1405082963000,
+  "timestamp": 1405341753000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -58,11 +58,19 @@
           "added": [
             "Review"
           ]
+        },
+        "1405341753000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
         "PR Triage Complete",
-        "Review"
+        "Testing"
       ]
     },
     "6854": {
@@ -864,6 +872,18 @@
       "current": [
         "Development"
       ]
+    },
+    "8332": {
+      "changes": {
+        "1405341753000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -1273,7 +1293,7 @@
       "user": "le717",
       "created": 1404075330000,
       "state": "in review",
-      "latestUserComment": 1404750129000
+      "latestUserComment": 1405109995000
     },
     "8297": {
       "title": "Consistency in StatusBar UI",
@@ -1327,7 +1347,8 @@
       "assignee": null,
       "user": "SAPlayer",
       "created": 1404499916000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1405186061000
     },
     "8310": {
       "title": "[REVIEW ONLY] Add Find Whole Word functionality",
@@ -1345,12 +1366,12 @@
       "state": "new"
     },
     "8332": {
-      "title": "[WIP] Added Traditional Chinese translation.",
+      "title": "Added Traditional Chinese translation.",
       "assignee": null,
       "user": "tan9",
       "created": 1404753749000,
-      "state": "new",
-      "latestUserComment": 1404858559000
+      "state": "triaged",
+      "latestUserComment": 1405322528000
     },
     "8340": {
       "title": "added .bash to bash highlighting and .ino to cpp highlighting",
@@ -1367,11 +1388,64 @@
       "created": 1404849194000,
       "state": "new"
     },
-    "8354": {
-      "title": "ALF Automation",
+    "8362": {
+      "title": "Dark Core UI [Review Only]",
       "assignee": null,
-      "user": "walfgithub",
-      "created": 1405059745000,
+      "user": "larz0",
+      "created": 1405118532000,
+      "state": "new",
+      "latestUserComment": 1405119207000
+    },
+    "8365": {
+      "title": "Prevent window.open() from loading untrusted web content",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1405122320000,
+      "state": "new"
+    },
+    "8366": {
+      "title": "Updated Russian locale for Release 0.41",
+      "assignee": "busykai",
+      "user": "gthacoder",
+      "created": 1405127032000,
+      "state": "in triage",
+      "latestUserComment": 1405189079000,
+      "latestAssigneeComment": 1405183498000
+    },
+    "8370": {
+      "title": "Add missing cursor properties",
+      "assignee": "RaymondLim",
+      "user": "sprintr",
+      "created": 1405183063000,
+      "state": "in triage",
+      "latestUserComment": 1405330040000
+    },
+    "8371": {
+      "title": "Russian Locale Update",
+      "assignee": null,
+      "user": "gthacoder",
+      "created": 1405191947000,
+      "state": "new"
+    },
+    "8372": {
+      "title": "Create strings.js",
+      "assignee": null,
+      "user": "yiming",
+      "created": 1405222624000,
+      "state": "new"
+    },
+    "8373": {
+      "title": "Finnish translation update (release 0.42)",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1405261605000,
+      "state": "new"
+    },
+    "8375": {
+      "title": "[Review Only] Create a list of long running promises and quit only when all of them are done.",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1405294683000,
       "state": "new"
     }
   }
