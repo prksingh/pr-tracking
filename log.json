@@ -1,5 +1,5 @@
 {
-  "timestamp": 1405341753000,
+  "timestamp": 1405426828000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -163,10 +163,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1405426828000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "7708": {
@@ -607,6 +615,18 @@
         "PR Triage Complete"
       ]
     },
+    "8214": {
+      "changes": {
+        "1405426828000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8218": {
       "changes": {
         "1403620982000": {
@@ -725,6 +745,18 @@
       "current": [
         "PR Triage Complete",
         "Review"
+      ]
+    },
+    "8297": {
+      "changes": {
+        "1405426828000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
       ]
     },
     "8302": {
@@ -1204,13 +1236,6 @@
       "state": "in review",
       "latestAssigneeComment": 1403307273000
     },
-    "8214": {
-      "title": "Fix for 8192",
-      "assignee": null,
-      "user": "ryanstewart",
-      "created": 1403340077000,
-      "state": "new"
-    },
     "8260": {
       "title": "Implement checkbox option for individual file in search result panel.",
       "assignee": null,
@@ -1227,13 +1252,6 @@
       "state": "new",
       "latestUserComment": 1403937152000
     },
-    "8264": {
-      "title": "Update Italian strings.js",
-      "assignee": null,
-      "user": "Denisov21",
-      "created": 1403861621000,
-      "state": "new"
-    },
     "8266": {
       "title": "Sinhala Language",
       "assignee": null,
@@ -1244,11 +1262,12 @@
     },
     "8267": {
       "title": "Update root strings.js ",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "Denisov21",
       "created": 1403889815000,
-      "state": "new",
-      "latestUserComment": 1403893461000
+      "state": "in triage",
+      "latestUserComment": 1403893461000,
+      "latestAssigneeComment": 1405386550000
     },
     "8269": {
       "title": "Remember files that timed out in Tern",
@@ -1275,17 +1294,18 @@
     },
     "8280": {
       "title": "Dutch language updated",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "githrdw",
       "created": 1403986815000,
-      "state": "new"
+      "state": "in triage"
     },
     "8281": {
       "title": "Dutch language updated (2)",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "githrdw",
       "created": 1404053234000,
-      "state": "new"
+      "state": "in triage",
+      "latestAssigneeComment": 1405386262000
     },
     "8282": {
       "title": "Truncate extension descriptions",
@@ -1297,10 +1317,11 @@
     },
     "8297": {
       "title": "Consistency in StatusBar UI",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "josericaurte",
       "created": 1404337671000,
-      "state": "new"
+      "state": "in review",
+      "latestAssigneeComment": 1405353588000
     },
     "8299": {
       "title": "Image optimization.",
@@ -1312,20 +1333,12 @@
     },
     "8301": {
       "title": "Code hint for React.js text/jsx scripts",
-      "assignee": null,
+      "assignee": "dangoor",
       "user": "jackunion",
       "created": 1404393328000,
-      "state": "new",
-      "latestUserComment": 1404401685000
-    },
-    "8302": {
-      "title": "Themes in Core v1",
-      "assignee": "dangoor",
-      "user": "MiguelCastillo",
-      "created": 1404397902000,
-      "state": "in review",
-      "latestUserComment": 1404918869000,
-      "latestAssigneeComment": 1404937288000
+      "state": "in triage",
+      "latestUserComment": 1405369954000,
+      "latestAssigneeComment": 1405366179000
     },
     "8305": {
       "title": "Adding interfaces to change font size, font family, and line height.",
@@ -1371,7 +1384,7 @@
       "user": "tan9",
       "created": 1404753749000,
       "state": "triaged",
-      "latestUserComment": 1405322528000
+      "latestUserComment": 1405416908000
     },
     "8340": {
       "title": "added .bash to bash highlighting and .ino to cpp highlighting",
@@ -1403,30 +1416,6 @@
       "created": 1405122320000,
       "state": "new"
     },
-    "8366": {
-      "title": "Updated Russian locale for Release 0.41",
-      "assignee": "busykai",
-      "user": "gthacoder",
-      "created": 1405127032000,
-      "state": "in triage",
-      "latestUserComment": 1405189079000,
-      "latestAssigneeComment": 1405183498000
-    },
-    "8370": {
-      "title": "Add missing cursor properties",
-      "assignee": "RaymondLim",
-      "user": "sprintr",
-      "created": 1405183063000,
-      "state": "in triage",
-      "latestUserComment": 1405330040000
-    },
-    "8371": {
-      "title": "Russian Locale Update",
-      "assignee": null,
-      "user": "gthacoder",
-      "created": 1405191947000,
-      "state": "new"
-    },
     "8372": {
       "title": "Create strings.js",
       "assignee": null,
@@ -1446,6 +1435,41 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1405294683000,
+      "state": "new"
+    },
+    "8382": {
+      "title": "Saving Theme changes when pressing enter",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1405355832000,
+      "state": "new"
+    },
+    "8383": {
+      "title": "Fix item highlighting issues in dropdown list.",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1405356756000,
+      "state": "new"
+    },
+    "8397": {
+      "title": "Change the border style of the language button in the status bar",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1405376712000,
+      "state": "new"
+    },
+    "8399": {
+      "title": "Add null checks before calling PopUpManager.removePopUp()",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1405385214000,
+      "state": "new"
+    },
+    "8400": {
+      "title": "[Themes] Changed default line height to 1.25",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1405396960000,
       "state": "new"
     }
   }
