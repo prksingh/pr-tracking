@@ -1,5 +1,5 @@
 {
-  "timestamp": 1405426828000,
+  "timestamp": 1405506772000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -709,9 +709,45 @@
         "Ready"
       ]
     },
+    "8260": {
+      "changes": {
+        "1405506772000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8262": {
+      "changes": {
+        "1405506772000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8269": {
       "changes": {
         "1404725605000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8272": {
+      "changes": {
+        "1405506772000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -759,6 +795,18 @@
         "PR Triage Complete"
       ]
     },
+    "8299": {
+      "changes": {
+        "1405506772000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8302": {
       "changes": {
         "1404895441000": {
@@ -776,6 +824,18 @@
     "8305": {
       "changes": {
         "1404895441000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8309": {
+      "changes": {
+        "1405506772000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -908,6 +968,42 @@
     "8332": {
       "changes": {
         "1405341753000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8341": {
+      "changes": {
+        "1405506772000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8365": {
+      "changes": {
+        "1405506772000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8375": {
+      "changes": {
+        "1405506772000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1177,7 +1273,7 @@
       "created": 1401716909000,
       "state": "in review",
       "latestUserComment": 1403216990000,
-      "latestAssigneeComment": 1403212288000
+      "latestAssigneeComment": 1405450546000
     },
     "8062": {
       "title": "[Review Only] appReadyDeferred",
@@ -1204,13 +1300,6 @@
       "state": "in review",
       "latestUserComment": 1405010851000,
       "latestAssigneeComment": 1403304230000
-    },
-    "8146": {
-      "title": "Update CSSProperties.json",
-      "assignee": null,
-      "user": "coliff",
-      "created": 1403016765000,
-      "state": "triaged"
     },
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
@@ -1241,7 +1330,7 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1403805948000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1403813790000
     },
     "8262": {
@@ -1249,7 +1338,7 @@
       "assignee": null,
       "user": "revi",
       "created": 1403855639000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1403937152000
     },
     "8266": {
@@ -1258,7 +1347,7 @@
       "user": "iamchathu",
       "created": 1403888794000,
       "state": "new",
-      "latestUserComment": 1403900957000
+      "latestUserComment": 1405481317000
     },
     "8267": {
       "title": "Update root strings.js ",
@@ -1266,8 +1355,8 @@
       "user": "Denisov21",
       "created": 1403889815000,
       "state": "in triage",
-      "latestUserComment": 1403893461000,
-      "latestAssigneeComment": 1405386550000
+      "latestUserComment": 1405443715000,
+      "latestAssigneeComment": 1405462774000
     },
     "8269": {
       "title": "Remember files that timed out in Tern",
@@ -1275,15 +1364,16 @@
       "user": "redmunds",
       "created": 1403891726000,
       "state": "in review",
-      "latestUserComment": 1403891846000
+      "latestUserComment": 1405478183000
     },
     "8272": {
       "title": "Simple code hints preferences to enable/disable individual/all code hints providers.",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "RaymondLim",
       "created": 1403898863000,
-      "state": "new",
-      "latestUserComment": 1405057907000
+      "state": "in review",
+      "latestUserComment": 1405486711000,
+      "latestAssigneeComment": 1405470496000
     },
     "8279": {
       "title": "sprint 41 - czech language",
@@ -1328,17 +1418,8 @@
       "assignee": null,
       "user": "jamiestevens",
       "created": 1404372608000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1404757314000
-    },
-    "8301": {
-      "title": "Code hint for React.js text/jsx scripts",
-      "assignee": "dangoor",
-      "user": "jackunion",
-      "created": 1404393328000,
-      "state": "in triage",
-      "latestUserComment": 1405369954000,
-      "latestAssigneeComment": 1405366179000
     },
     "8305": {
       "title": "Adding interfaces to change font size, font family, and line height.",
@@ -1346,7 +1427,7 @@
       "user": "MiguelCastillo",
       "created": 1404411044000,
       "state": "triaged",
-      "latestUserComment": 1404829739000
+      "latestUserComment": 1405432130000
     },
     "8307": {
       "title": "Romanian locale update",
@@ -1360,7 +1441,7 @@
       "assignee": null,
       "user": "SAPlayer",
       "created": 1404499916000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1405186061000
     },
     "8310": {
@@ -1378,50 +1459,27 @@
       "created": 1404605459000,
       "state": "new"
     },
-    "8332": {
-      "title": "Added Traditional Chinese translation.",
-      "assignee": null,
-      "user": "tan9",
-      "created": 1404753749000,
-      "state": "triaged",
-      "latestUserComment": 1405416908000
-    },
-    "8340": {
-      "title": "added .bash to bash highlighting and .ino to cpp highlighting",
-      "assignee": null,
-      "user": "tylucaskelley",
-      "created": 1404845874000,
-      "state": "new",
-      "latestUserComment": 1404846489000
-    },
     "8341": {
       "title": "Fix #8273: \"sortDirectoriesFirst\": true in .brackets.json not always working properly ",
       "assignee": null,
       "user": "TomMalbran",
       "created": 1404849194000,
-      "state": "new"
+      "state": "triaged"
     },
     "8362": {
-      "title": "Dark Core UI [Review Only]",
+      "title": "[HOLD] Dark Core UI",
       "assignee": null,
       "user": "larz0",
       "created": 1405118532000,
       "state": "new",
-      "latestUserComment": 1405119207000
+      "latestUserComment": 1405456888000
     },
     "8365": {
       "title": "Prevent window.open() from loading untrusted web content",
       "assignee": null,
       "user": "peterflynn",
       "created": 1405122320000,
-      "state": "new"
-    },
-    "8372": {
-      "title": "Create strings.js",
-      "assignee": null,
-      "user": "yiming",
-      "created": 1405222624000,
-      "state": "new"
+      "state": "triaged"
     },
     "8373": {
       "title": "Finnish translation update (release 0.42)",
@@ -1432,17 +1490,11 @@
     },
     "8375": {
       "title": "[Review Only] Create a list of long running promises and quit only when all of them are done.",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "RaymondLim",
       "created": 1405294683000,
-      "state": "new"
-    },
-    "8382": {
-      "title": "Saving Theme changes when pressing enter",
-      "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1405355832000,
-      "state": "new"
+      "state": "in review",
+      "latestAssigneeComment": 1405481182000
     },
     "8383": {
       "title": "Fix item highlighting issues in dropdown list.",
@@ -1459,18 +1511,35 @@
       "state": "new"
     },
     "8399": {
-      "title": "Add null checks before calling PopUpManager.removePopUp()",
+      "title": "Disable Integration Test",
       "assignee": null,
       "user": "redmunds",
       "created": 1405385214000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1405459451000
     },
-    "8400": {
-      "title": "[Themes] Changed default line height to 1.25",
+    "8405": {
+      "title": "[Themes] Revert theme settings when cancelling out of the themes dialog",
       "assignee": null,
       "user": "MiguelCastillo",
-      "created": 1405396960000,
+      "created": 1405436209000,
+      "state": "new",
+      "latestUserComment": 1405462245000
+    },
+    "8418": {
+      "title": "[Themes] Removed code that's causing issues closing inline widgets",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1405473863000,
       "state": "new"
+    },
+    "8419": {
+      "title": "[Themes] Removed waiting until to app is ready to apply themes in order to get ri...",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1405475597000,
+      "state": "new",
+      "latestUserComment": 1405480117000
     }
   }
 }
