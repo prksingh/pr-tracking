@@ -1,5 +1,5 @@
 {
-  "timestamp": 1405506772000,
+  "timestamp": 1405597564000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -525,10 +525,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1405597564000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "8174": {
@@ -724,6 +732,18 @@
     "8262": {
       "changes": {
         "1405506772000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8266": {
+      "changes": {
+        "1405597564000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1272,17 +1292,8 @@
       "user": "SAPlayer",
       "created": 1401716909000,
       "state": "in review",
-      "latestUserComment": 1403216990000,
+      "latestUserComment": 1405524945000,
       "latestAssigneeComment": 1405450546000
-    },
-    "8062": {
-      "title": "[Review Only] appReadyDeferred",
-      "assignee": "dangoor",
-      "user": "redmunds",
-      "created": 1402155465000,
-      "state": "in review",
-      "latestUserComment": 1402673832000,
-      "latestAssigneeComment": 1403021458000
     },
     "8091": {
       "title": "Update Images Changed on Disk",
@@ -1346,7 +1357,7 @@
       "assignee": null,
       "user": "iamchathu",
       "created": 1403888794000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1405481317000
     },
     "8267": {
@@ -1358,14 +1369,6 @@
       "latestUserComment": 1405443715000,
       "latestAssigneeComment": 1405462774000
     },
-    "8269": {
-      "title": "Remember files that timed out in Tern",
-      "assignee": "dangoor",
-      "user": "redmunds",
-      "created": 1403891726000,
-      "state": "in review",
-      "latestUserComment": 1405478183000
-    },
     "8272": {
       "title": "Simple code hints preferences to enable/disable individual/all code hints providers.",
       "assignee": "redmunds",
@@ -1373,7 +1376,7 @@
       "created": 1403898863000,
       "state": "in review",
       "latestUserComment": 1405486711000,
-      "latestAssigneeComment": 1405470496000
+      "latestAssigneeComment": 1405523854000
     },
     "8279": {
       "title": "sprint 41 - czech language",
@@ -1387,7 +1390,8 @@
       "assignee": "redmunds",
       "user": "githrdw",
       "created": 1403986815000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestAssigneeComment": 1405556811000
     },
     "8281": {
       "title": "Dutch language updated (2)",
@@ -1403,7 +1407,8 @@
       "user": "le717",
       "created": 1404075330000,
       "state": "in review",
-      "latestUserComment": 1405109995000
+      "latestUserComment": 1405542044000,
+      "latestAssigneeComment": 1405538600000
     },
     "8297": {
       "title": "Consistency in StatusBar UI",
@@ -1452,27 +1457,13 @@
       "state": "new",
       "latestUserComment": 1404842549000
     },
-    "8313": {
-      "title": "Persian translation for sprint 41",
-      "assignee": null,
-      "user": "mohammadyaghobi",
-      "created": 1404605459000,
-      "state": "new"
-    },
-    "8341": {
-      "title": "Fix #8273: \"sortDirectoriesFirst\": true in .brackets.json not always working properly ",
-      "assignee": null,
-      "user": "TomMalbran",
-      "created": 1404849194000,
-      "state": "triaged"
-    },
     "8362": {
       "title": "[HOLD] Dark Core UI",
       "assignee": null,
       "user": "larz0",
       "created": 1405118532000,
       "state": "new",
-      "latestUserComment": 1405456888000
+      "latestUserComment": 1405518129000
     },
     "8365": {
       "title": "Prevent window.open() from loading untrusted web content",
@@ -1494,7 +1485,7 @@
       "user": "RaymondLim",
       "created": 1405294683000,
       "state": "in review",
-      "latestAssigneeComment": 1405481182000
+      "latestAssigneeComment": 1405532848000
     },
     "8383": {
       "title": "Fix item highlighting issues in dropdown list.",
@@ -1518,28 +1509,34 @@
       "state": "new",
       "latestUserComment": 1405459451000
     },
-    "8405": {
-      "title": "[Themes] Revert theme settings when cancelling out of the themes dialog",
+    "8421": {
+      "title": "myaghobi/persian translation",
       "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1405436209000,
+      "user": "mohammadyaghobi",
+      "created": 1405521340000,
       "state": "new",
-      "latestUserComment": 1405462245000
+      "latestUserComment": 1405597564000
     },
-    "8418": {
-      "title": "[Themes] Removed code that's causing issues closing inline widgets",
+    "8426": {
+      "title": "fix issue 8395",
       "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1405473863000,
+      "user": "mackenza",
+      "created": 1405544235000,
       "state": "new"
     },
-    "8419": {
-      "title": "[Themes] Removed waiting until to app is ready to apply themes in order to get ri...",
+    "8429": {
+      "title": "Tiny Sprint 42 Fixes",
       "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1405475597000,
-      "state": "new",
-      "latestUserComment": 1405480117000
+      "user": "larz0",
+      "created": 1405551630000,
+      "state": "new"
+    },
+    "8435": {
+      "title": "Dutch version for 'Getting Started'",
+      "assignee": null,
+      "user": "githrdw",
+      "created": 1405593365000,
+      "state": "new"
     }
   }
 }
