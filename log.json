@@ -1,5 +1,5 @@
 {
-  "timestamp": 1405684905000,
+  "timestamp": 1405945794000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -539,11 +539,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1405945794000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "8174": {
       "changes": {
@@ -725,11 +728,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1405945794000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "8260": {
       "changes": {
@@ -1078,6 +1084,54 @@
       "current": [
         "PR Triage Complete"
       ]
+    },
+    "8438": {
+      "changes": {
+        "1405945794000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8447": {
+      "changes": {
+        "1405945794000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8458": {
+      "changes": {
+        "1405945794000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8469": {
+      "changes": {
+        "1405945794000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -1269,7 +1323,7 @@
       "user": "le717",
       "created": 1399581531000,
       "state": "in triage",
-      "latestUserComment": 1400958027000
+      "latestUserComment": 1405813392000
     },
     "7820": {
       "title": "Allow the user to drag faster",
@@ -1355,8 +1409,8 @@
       "user": "SAPlayer",
       "created": 1403006880000,
       "state": "in review",
-      "latestUserComment": 1405010851000,
-      "latestAssigneeComment": 1403304230000
+      "latestUserComment": 1405812132000,
+      "latestAssigneeComment": 1405880425000
     },
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
@@ -1372,8 +1426,8 @@
       "user": "jasonsanjose",
       "created": 1403119620000,
       "state": "in review",
-      "latestUserComment": 1403225198000,
-      "latestAssigneeComment": 1405650049000
+      "latestUserComment": 1405696420000,
+      "latestAssigneeComment": 1405702843000
     },
     "8174": {
       "title": "Break out query parsing from setting the query in the model...",
@@ -1383,22 +1437,13 @@
       "state": "in review",
       "latestAssigneeComment": 1403307273000
     },
-    "8260": {
-      "title": "Implement checkbox option for individual file in search result panel.",
-      "assignee": "redmunds",
-      "user": "RaymondLim",
-      "created": 1403805948000,
-      "state": "in review",
-      "latestUserComment": 1405612373000,
-      "latestAssigneeComment": 1405615185000
-    },
     "8266": {
       "title": "Sinhala Language",
       "assignee": null,
       "user": "iamchathu",
       "created": 1403888794000,
       "state": "triaged",
-      "latestUserComment": 1405481317000
+      "latestUserComment": 1405699993000
     },
     "8267": {
       "title": "Update root strings.js ",
@@ -1408,15 +1453,6 @@
       "state": "in triage",
       "latestUserComment": 1405626462000,
       "latestAssigneeComment": 1405462774000
-    },
-    "8272": {
-      "title": "Simple code hints preferences to enable/disable individual/all code hints providers.",
-      "assignee": "redmunds",
-      "user": "RaymondLim",
-      "created": 1403898863000,
-      "state": "in review",
-      "latestUserComment": 1405486711000,
-      "latestAssigneeComment": 1405523854000
     },
     "8279": {
       "title": "sprint 41 - czech language",
@@ -1466,14 +1502,6 @@
       "state": "triaged",
       "latestUserComment": 1405432130000
     },
-    "8309": {
-      "title": "Fix autotrimmed leading space",
-      "assignee": null,
-      "user": "SAPlayer",
-      "created": 1404499916000,
-      "state": "triaged",
-      "latestUserComment": 1405186061000
-    },
     "8310": {
       "title": "[REVIEW ONLY] Add Find Whole Word functionality",
       "assignee": null,
@@ -1505,35 +1533,12 @@
       "state": "in review",
       "latestAssigneeComment": 1405532848000
     },
-    "8383": {
-      "title": "Fix item highlighting issues in dropdown list.",
-      "assignee": null,
-      "user": "RaymondLim",
-      "created": 1405356756000,
-      "state": "new"
-    },
     "8397": {
       "title": "Change the border style of the language button in the status bar",
       "assignee": null,
       "user": "RaymondLim",
       "created": 1405376712000,
       "state": "new"
-    },
-    "8399": {
-      "title": "Disable Integration Test",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1405385214000,
-      "state": "new",
-      "latestUserComment": 1405459451000
-    },
-    "8421": {
-      "title": "myaghobi/persian translation",
-      "assignee": null,
-      "user": "mohammadyaghobi",
-      "created": 1405521340000,
-      "state": "triaged",
-      "latestUserComment": 1405597564000
     },
     "8435": {
       "title": "Dutch version for 'Getting Started'",
@@ -1553,11 +1558,12 @@
     },
     "8438": {
       "title": "nls readme.md update",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "tan9",
       "created": 1405619285000,
-      "state": "new",
-      "latestUserComment": 1405620164000
+      "state": "in review",
+      "latestUserComment": 1405620164000,
+      "latestAssigneeComment": 1405698536000
     },
     "8439": {
       "title": "fix for #8395 ",
@@ -1572,7 +1578,7 @@
       "user": "FezVrasta",
       "created": 1405631010000,
       "state": "new",
-      "latestUserComment": 1405667790000
+      "latestUserComment": 1405705836000
     },
     "8444": {
       "title": "Language switcher: connect to prefs & clean up some code",
@@ -1581,13 +1587,63 @@
       "created": 1405633196000,
       "state": "new"
     },
-    "8447": {
-      "title": "Scoped themes to apply only to the editor (#editor-holder)",
+    "8459": {
+      "title": "[Themes] Logic to reuse theme style node",
       "assignee": null,
       "user": "MiguelCastillo",
-      "created": 1405642467000,
+      "created": 1405709111000,
       "state": "new",
-      "latestUserComment": 1405652048000
+      "latestUserComment": 1405709283000
+    },
+    "8460": {
+      "title": "Increase tern timeout",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1405709269000,
+      "state": "new"
+    },
+    "8462": {
+      "title": "(REVIEW ONLY) Redoing the dark theme to be more plain CSS and not rely on central variables",
+      "assignee": null,
+      "user": "dangoor",
+      "created": 1405714234000,
+      "state": "new"
+    },
+    "8467": {
+      "title": "[REVIEW ONLY] Replace all instances of .click() with .trigger(\"click\")",
+      "assignee": null,
+      "user": "le717",
+      "created": 1405743368000,
+      "state": "new"
+    },
+    "8469": {
+      "title": "Update strings.js",
+      "assignee": "redmunds",
+      "user": "diomed",
+      "created": 1405778173000,
+      "state": "in review"
+    },
+    "8470": {
+      "title": "Only use first selection line when populating FindInFiles bar",
+      "assignee": null,
+      "user": "SAPlayer",
+      "created": 1405787115000,
+      "state": "new"
+    },
+    "8475": {
+      "title": "Renamed preferences key from \"brackets-themes\" to \"themes\" to avoid conf...",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1405861552000,
+      "state": "new",
+      "latestUserComment": 1405891363000
+    },
+    "8476": {
+      "title": "Add pref to prevent js code hints on dot",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1405891584000,
+      "state": "new"
     }
   }
 }
