@@ -1,5 +1,5 @@
 {
-  "timestamp": 1406114241000,
+  "timestamp": 1406287786000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1312,7 +1312,7 @@
       "created": 1392233958000,
       "state": "in review",
       "latestUserComment": 1402677048000,
-      "latestAssigneeComment": 1402594734000
+      "latestAssigneeComment": 1406136802000
     },
     "6893": {
       "title": "Catalan_ca branch for Catalan language for Brackets",
@@ -1396,11 +1396,11 @@
     },
     "7820": {
       "title": "Allow the user to drag faster",
-      "assignee": null,
+      "assignee": "JeffryBooher",
       "user": "TomMalbran",
       "created": 1399849544000,
-      "state": "triaged",
-      "latestAssigneeComment": 1401931007000,
+      "state": "in review",
+      "latestAssigneeComment": 1406136984000,
       "latestUserComment": 1404848274000
     },
     "7875": {
@@ -1457,10 +1457,10 @@
     },
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "SAPlayer",
       "created": 1403044797000,
-      "state": "triaged",
+      "state": "in review",
       "latestUserComment": 1404500815000
     },
     "8174": {
@@ -1487,13 +1487,6 @@
       "state": "in triage",
       "latestUserComment": 1405626462000,
       "latestAssigneeComment": 1405462774000
-    },
-    "8279": {
-      "title": "sprint 41 - czech language",
-      "assignee": null,
-      "user": "kvarel",
-      "created": 1403961240000,
-      "state": "new"
     },
     "8297": {
       "title": "Consistency in StatusBar UI",
@@ -1580,7 +1573,8 @@
       "assignee": null,
       "user": "peterflynn",
       "created": 1405633196000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1406141540000
     },
     "8470": {
       "title": "Only use first selection line when populating FindInFiles bar",
@@ -1624,7 +1618,7 @@
       "user": "ramsundhar20",
       "created": 1406049267000,
       "state": "new",
-      "latestUserComment": 1406097371000
+      "latestUserComment": 1406134126000
     },
     "8511": {
       "title": "Update unit tests for extension manager keepFile flag",
@@ -1655,13 +1649,36 @@
       "created": 1406082010000,
       "state": "new"
     },
-    "8526": {
-      "title": "Removes line height setting",
+    "8529": {
+      "title": "[REVIEW ONLY] Dark UI theme for inline editors",
       "assignee": null,
       "user": "dangoor",
-      "created": 1406083489000,
+      "created": 1406132509000,
       "state": "new",
-      "latestUserComment": 1406086743000
+      "latestUserComment": 1406169619000
+    },
+    "8532": {
+      "title": "Update twitter URL.",
+      "assignee": null,
+      "user": "wormeyman",
+      "created": 1406137247000,
+      "state": "new",
+      "latestUserComment": 1406142811000
+    },
+    "8533": {
+      "title": "Fix capitalization error in name=\"keywords\" meta attribute",
+      "assignee": null,
+      "user": "le717",
+      "created": 1406137570000,
+      "state": "new"
+    },
+    "8550": {
+      "title": "fix #8541",
+      "assignee": null,
+      "user": "JeffryBooher",
+      "created": 1406235694000,
+      "state": "new",
+      "latestUserComment": 1406236047000
     }
   }
 }
