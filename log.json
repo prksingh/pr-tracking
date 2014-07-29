@@ -1,5 +1,5 @@
 {
-  "timestamp": 1406548761000,
+  "timestamp": 1406634045000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1216,6 +1216,18 @@
       "current": [
         "PR Triage Complete"
       ]
+    },
+    "8569": {
+      "changes": {
+        "1406634045000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -1360,7 +1372,7 @@
       "created": 1395152291000,
       "state": "in review",
       "latestUserComment": 1395360477000,
-      "latestAssigneeComment": 1395350825000
+      "latestAssigneeComment": 1406561893000
     },
     "7306": {
       "title": "use Chinese punctuation,add new item for string.js",
@@ -1481,10 +1493,10 @@
     },
     "8266": {
       "title": "Sinhala Language",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "iamchathu",
       "created": 1403888794000,
-      "state": "triaged",
+      "state": "in review",
       "latestUserComment": 1406508792000
     },
     "8267": {
@@ -1674,9 +1686,17 @@
     },
     "8569": {
       "title": "String.js (Italian Language) for Release 0.42",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "Denisov21",
       "created": 1406391053000,
+      "state": "in review",
+      "latestAssigneeComment": 1406598835000
+    },
+    "8585": {
+      "title": "Spanish update for Release 0.42",
+      "assignee": null,
+      "user": "TomMalbran",
+      "created": 1406602729000,
       "state": "new"
     }
   }
