@@ -1,5 +1,5 @@
 {
-  "timestamp": 1406634045000,
+  "timestamp": 1406713164000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1205,6 +1205,54 @@
         "PR Triage Complete"
       ]
     },
+    "8476": {
+      "changes": {
+        "1406713164000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8480": {
+      "changes": {
+        "1406713164000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8495": {
+      "changes": {
+        "1406713164000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8497": {
+      "changes": {
+        "1406713164000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8511": {
       "changes": {
         "1406114241000": {
@@ -1372,7 +1420,7 @@
       "created": 1395152291000,
       "state": "in review",
       "latestUserComment": 1395360477000,
-      "latestAssigneeComment": 1406561893000
+      "latestAssigneeComment": 1406662510000
     },
     "7306": {
       "title": "use Chinese punctuation,add new item for string.js",
@@ -1458,22 +1506,14 @@
       "latestAssigneeComment": 1402405158000,
       "latestUserComment": 1402369624000
     },
-    "8091": {
-      "title": "Update Images Changed on Disk",
-      "assignee": "redmunds",
-      "user": "JeffryBooher",
-      "created": 1402351145000,
-      "state": "in review",
-      "latestAssigneeComment": 1403820450000
-    },
     "8144": {
       "title": "Fix Live CSS with an iframe element",
       "assignee": "redmunds",
       "user": "SAPlayer",
       "created": 1403006880000,
       "state": "in review",
-      "latestUserComment": 1405812132000,
-      "latestAssigneeComment": 1405880425000
+      "latestUserComment": 1406670401000,
+      "latestAssigneeComment": 1406669898000
     },
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
@@ -1600,28 +1640,28 @@
       "assignee": null,
       "user": "redmunds",
       "created": 1405891584000,
-      "state": "new"
+      "state": "triaged"
     },
     "8480": {
       "title": "Fix the issue with parsing @keyframes.",
       "assignee": null,
       "user": "RaymondLim",
       "created": 1405966552000,
-      "state": "new"
+      "state": "triaged"
     },
     "8495": {
       "title": "Fix bug #8416 (Preview for SVG url data types does not work)",
       "assignee": null,
       "user": "peterflynn",
       "created": 1406016037000,
-      "state": "new"
+      "state": "triaged"
     },
     "8497": {
       "title": "Clear up bug #6722 (Linux: menu items cut/copy/paste not working)",
       "assignee": null,
       "user": "peterflynn",
       "created": 1406018546000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1406059714000
     },
     "8504": {
@@ -1652,7 +1692,8 @@
       "assignee": null,
       "user": "MiguelCastillo",
       "created": 1406082010000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1406679457000
     },
     "8532": {
       "title": "Update twitter URL.",
@@ -1684,19 +1725,39 @@
       "state": "new",
       "latestUserComment": 1406483555000
     },
-    "8569": {
-      "title": "String.js (Italian Language) for Release 0.42",
-      "assignee": "redmunds",
-      "user": "Denisov21",
-      "created": 1406391053000,
-      "state": "in review",
-      "latestAssigneeComment": 1406598835000
-    },
     "8585": {
       "title": "Spanish update for Release 0.42",
       "assignee": null,
       "user": "TomMalbran",
       "created": 1406602729000,
+      "state": "new"
+    },
+    "8588": {
+      "title": "Prevent InlineColorEditor's own changes from changing input values",
+      "assignee": null,
+      "user": "SAPlayer",
+      "created": 1406637850000,
+      "state": "new"
+    },
+    "8589": {
+      "title": "Batch InlineTimingFunctionEditor's changes",
+      "assignee": null,
+      "user": "SAPlayer",
+      "created": 1406639663000,
+      "state": "new"
+    },
+    "8591": {
+      "title": "Show match index in place of match count",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1406652961000,
+      "state": "new"
+    },
+    "8593": {
+      "title": "[Review Only] Brackets polyfill support",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1406662066000,
       "state": "new"
     }
   }
