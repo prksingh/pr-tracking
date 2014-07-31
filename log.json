@@ -1,5 +1,5 @@
 {
-  "timestamp": 1406713164000,
+  "timestamp": 1406791761000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -925,6 +925,18 @@
         "PR Triage Complete"
       ]
     },
+    "8310": {
+      "changes": {
+        "1406791761000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8319": {
       "changes": {
         "1404822213000": {
@@ -1276,6 +1288,30 @@
       "current": [
         "PR Triage Complete"
       ]
+    },
+    "8585": {
+      "changes": {
+        "1406791761000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8588": {
+      "changes": {
+        "1406791761000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -1420,7 +1456,7 @@
       "created": 1395152291000,
       "state": "in review",
       "latestUserComment": 1395360477000,
-      "latestAssigneeComment": 1406662510000
+      "latestAssigneeComment": 1406756644000
     },
     "7306": {
       "title": "use Chinese punctuation,add new item for string.js",
@@ -1569,7 +1605,7 @@
       "assignee": null,
       "user": "SAPlayer",
       "created": 1404511546000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1404842549000
     },
     "8365": {
@@ -1695,14 +1731,6 @@
       "state": "new",
       "latestUserComment": 1406679457000
     },
-    "8532": {
-      "title": "Update twitter URL.",
-      "assignee": null,
-      "user": "wormeyman",
-      "created": 1406137247000,
-      "state": "new",
-      "latestUserComment": 1406142811000
-    },
     "8533": {
       "title": "Fix capitalization error in name=\"keywords\" meta attribute",
       "assignee": null,
@@ -1717,27 +1745,13 @@
       "created": 1406330108000,
       "state": "new"
     },
-    "8568": {
-      "title": "German Translation (Release 0.42)",
-      "assignee": null,
-      "user": "SAPlayer",
-      "created": 1406375363000,
-      "state": "new",
-      "latestUserComment": 1406483555000
-    },
-    "8585": {
-      "title": "Spanish update for Release 0.42",
-      "assignee": null,
-      "user": "TomMalbran",
-      "created": 1406602729000,
-      "state": "new"
-    },
     "8588": {
       "title": "Prevent InlineColorEditor's own changes from changing input values",
-      "assignee": null,
+      "assignee": "RaymondLim",
       "user": "SAPlayer",
       "created": 1406637850000,
-      "state": "new"
+      "state": "in review",
+      "latestAssigneeComment": 1406739179000
     },
     "8589": {
       "title": "Batch InlineTimingFunctionEditor's changes",
@@ -1758,6 +1772,36 @@
       "assignee": null,
       "user": "redmunds",
       "created": 1406662066000,
+      "state": "new"
+    },
+    "8595": {
+      "title": "Fix PR 7231 for minified build",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1406733597000,
+      "state": "new",
+      "latestUserComment": 1406747961000
+    },
+    "8596": {
+      "title": "Codeclimate fix",
+      "assignee": null,
+      "user": "Zayelion",
+      "created": 1406744893000,
+      "state": "new",
+      "latestUserComment": 1406749137000
+    },
+    "8602": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1406782045000,
+      "state": "new"
+    },
+    "8603": {
+      "title": "Improve search highlight maintainability / themability",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1406788214000,
       "state": "new"
     }
   }
