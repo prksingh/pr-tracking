@@ -1,5 +1,5 @@
 {
-  "timestamp": 1406791761000,
+  "timestamp": 1406896759000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1157,6 +1157,18 @@
         "PR Triage Complete"
       ]
     },
+    "8444": {
+      "changes": {
+        "1406896759000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8447": {
       "changes": {
         "1405945794000": {
@@ -1217,6 +1229,18 @@
         "PR Triage Complete"
       ]
     },
+    "8470": {
+      "changes": {
+        "1406896759000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8476": {
       "changes": {
         "1406713164000": {
@@ -1268,6 +1292,30 @@
     "8511": {
       "changes": {
         "1406114241000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8533": {
+      "changes": {
+        "1406896759000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8566": {
+      "changes": {
+        "1406896759000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1661,7 +1709,7 @@
       "assignee": null,
       "user": "peterflynn",
       "created": 1405633196000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1406141540000
     },
     "8470": {
@@ -1669,7 +1717,7 @@
       "assignee": null,
       "user": "SAPlayer",
       "created": 1405787115000,
-      "state": "new"
+      "state": "triaged"
     },
     "8476": {
       "title": "Add pref to prevent js code hints on dot",
@@ -1680,17 +1728,11 @@
     },
     "8480": {
       "title": "Fix the issue with parsing @keyframes.",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "RaymondLim",
       "created": 1405966552000,
-      "state": "triaged"
-    },
-    "8495": {
-      "title": "Fix bug #8416 (Preview for SVG url data types does not work)",
-      "assignee": null,
-      "user": "peterflynn",
-      "created": 1406016037000,
-      "state": "triaged"
+      "state": "in review",
+      "latestAssigneeComment": 1406848029000
     },
     "8497": {
       "title": "Clear up bug #6722 (Linux: menu items cut/copy/paste not working)",
@@ -1731,34 +1773,21 @@
       "state": "new",
       "latestUserComment": 1406679457000
     },
-    "8533": {
-      "title": "Fix capitalization error in name=\"keywords\" meta attribute",
-      "assignee": null,
-      "user": "le717",
-      "created": 1406137570000,
-      "state": "new"
-    },
     "8566": {
       "title": "Fix bug #8556 (Find/Replace in Files with /^/ finds 100K matches at start of file)",
       "assignee": null,
       "user": "peterflynn",
       "created": 1406330108000,
-      "state": "new"
-    },
-    "8588": {
-      "title": "Prevent InlineColorEditor's own changes from changing input values",
-      "assignee": "RaymondLim",
-      "user": "SAPlayer",
-      "created": 1406637850000,
-      "state": "in review",
-      "latestAssigneeComment": 1406739179000
+      "state": "triaged"
     },
     "8589": {
       "title": "Batch InlineTimingFunctionEditor's changes",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "SAPlayer",
       "created": 1406639663000,
-      "state": "new"
+      "state": "in triage",
+      "latestUserComment": 1406826510000,
+      "latestAssigneeComment": 1406822485000
     },
     "8591": {
       "title": "Show match index in place of match count",
@@ -1772,7 +1801,8 @@
       "assignee": null,
       "user": "redmunds",
       "created": 1406662066000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1406846382000
     },
     "8595": {
       "title": "Fix PR 7231 for minified build",
@@ -1790,19 +1820,48 @@
       "state": "new",
       "latestUserComment": 1406749137000
     },
-    "8602": {
-      "title": "ALF Automation",
-      "assignee": null,
-      "user": "walfgithub",
-      "created": 1406782045000,
-      "state": "new"
-    },
     "8603": {
       "title": "Improve search highlight maintainability / themability",
       "assignee": null,
       "user": "peterflynn",
       "created": 1406788214000,
       "state": "new"
+    },
+    "8605": {
+      "title": "Fix Live Preview for Docs not in Working Set",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1406820298000,
+      "state": "new"
+    },
+    "8606": {
+      "title": "Update getting started (en-us)",
+      "assignee": null,
+      "user": "wormeyman",
+      "created": 1406821088000,
+      "state": "new"
+    },
+    "8607": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1406824963000,
+      "state": "new"
+    },
+    "8608": {
+      "title": "Allow .xhtml files for Live Preview",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1406825213000,
+      "state": "new"
+    },
+    "8617": {
+      "title": "Tweak to notice in Extension Manager",
+      "assignee": null,
+      "user": "dangoor",
+      "created": 1406896643000,
+      "state": "new",
+      "latestUserComment": 1406896759000
     }
   }
 }
