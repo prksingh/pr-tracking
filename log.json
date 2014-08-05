@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407151580000,
+  "timestamp": 1407240363000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -76,6 +76,18 @@
     "6854": {
       "changes": {
         "1402649244000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "7227": {
+      "changes": {
+        "1407240363000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1136,6 +1148,18 @@
         "PR Triage Complete"
       ]
     },
+    "8436": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8438": {
       "changes": {
         "1405945794000": {
@@ -1363,6 +1387,90 @@
       "current": [
         "PR Triage Complete"
       ]
+    },
+    "8591": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8593": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8603": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8605": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8606": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8617": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8656": {
+      "changes": {
+        "1407240363000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     }
   },
   "pullRequests": {
@@ -1498,7 +1606,7 @@
       "assignee": "ingorichter",
       "user": "peterflynn",
       "created": 1395126464000,
-      "state": "in triage"
+      "state": "in review"
     },
     "7231": {
       "title": "Replace String.trimRight() with regex in order to support IE10+",
@@ -1586,11 +1694,11 @@
     },
     "7988": {
       "title": "Defer most Quick View processing until after delay",
-      "assignee": null,
+      "assignee": "JeffryBooher",
       "user": "redmunds",
       "created": 1401472582000,
-      "state": "triaged",
-      "latestAssigneeComment": 1402405158000,
+      "state": "in review",
+      "latestAssigneeComment": 1407198394000,
       "latestUserComment": 1402369624000
     },
     "8144": {
@@ -1635,26 +1743,10 @@
       "latestUserComment": 1405626462000,
       "latestAssigneeComment": 1405462774000
     },
-    "8297": {
-      "title": "Consistency in StatusBar UI",
-      "assignee": "redmunds",
-      "user": "josericaurte",
-      "created": 1404337671000,
-      "state": "in review",
-      "latestAssigneeComment": 1407000950000
-    },
-    "8299": {
-      "title": "Image optimization.",
-      "assignee": null,
-      "user": "jamiestevens",
-      "created": 1404372608000,
-      "state": "triaged",
-      "latestUserComment": 1404757314000
-    },
     "8310": {
       "title": "[REVIEW ONLY] Add Find Whole Word functionality",
       "assignee": null,
-      "user": "SAPlayer",
+      "user": "MarcelGerber",
       "created": 1404511546000,
       "state": "triaged",
       "latestUserComment": 1404842549000
@@ -1664,7 +1756,8 @@
       "assignee": null,
       "user": "peterflynn",
       "created": 1405122320000,
-      "state": "triaged"
+      "state": "triaged",
+      "latestUserComment": 1407190343000
     },
     "8375": {
       "title": "[Review Only] Create a list of long running promises and quit only when all of them are done.",
@@ -1685,27 +1778,10 @@
     },
     "8436": {
       "title": "Created index.html in Dutch language",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "githrdw",
       "created": 1405611930000,
-      "state": "new"
-    },
-    "8438": {
-      "title": "nls readme.md update",
-      "assignee": "redmunds",
-      "user": "tan9",
-      "created": 1405619285000,
-      "state": "in review",
-      "latestUserComment": 1405620164000,
-      "latestAssigneeComment": 1405698536000
-    },
-    "8442": {
-      "title": "replaced png with CSS gradient in file tree bg",
-      "assignee": null,
-      "user": "FezVrasta",
-      "created": 1405631010000,
-      "state": "new",
-      "latestUserComment": 1405705836000
+      "state": "in review"
     },
     "8444": {
       "title": "Language switcher: connect to prefs & clean up some code",
@@ -1713,14 +1789,16 @@
       "user": "peterflynn",
       "created": 1405633196000,
       "state": "triaged",
-      "latestUserComment": 1406141540000
+      "latestUserComment": 1407231967000
     },
     "8470": {
       "title": "Only use first selection line when populating FindInFiles bar",
-      "assignee": null,
-      "user": "SAPlayer",
+      "assignee": "JeffryBooher",
+      "user": "MarcelGerber",
       "created": 1405787115000,
-      "state": "triaged"
+      "state": "in review",
+      "latestUserComment": 1407233994000,
+      "latestAssigneeComment": 1407198284000
     },
     "8476": {
       "title": "Add pref to prevent js code hints on dot",
@@ -1728,30 +1806,6 @@
       "user": "redmunds",
       "created": 1405891584000,
       "state": "triaged"
-    },
-    "8480": {
-      "title": "Fix the issue with parsing @keyframes.",
-      "assignee": "redmunds",
-      "user": "RaymondLim",
-      "created": 1405966552000,
-      "state": "in review",
-      "latestAssigneeComment": 1406848029000
-    },
-    "8497": {
-      "title": "Clear up bug #6722 (Linux: menu items cut/copy/paste not working)",
-      "assignee": null,
-      "user": "peterflynn",
-      "created": 1406018546000,
-      "state": "triaged",
-      "latestUserComment": 1406059714000
-    },
-    "8504": {
-      "title": "ctrlKey toggles the hint list",
-      "assignee": null,
-      "user": "ramsundhar20",
-      "created": 1406049267000,
-      "state": "new",
-      "latestUserComment": 1406134126000
     },
     "8511": {
       "title": "Update unit tests for extension manager keepFile flag",
@@ -1763,41 +1817,36 @@
     },
     "8522": {
       "title": "[REVIEW_ONLY] Splitview",
-      "assignee": null,
+      "assignee": "peterflynn",
       "user": "JeffryBooher",
       "created": 1406072138000,
-      "state": "new"
+      "state": "in triage",
+      "latestUserComment": 1407174229000
     },
     "8566": {
       "title": "Fix bug #8556 (Find/Replace in Files with /^/ finds 100K matches at start of file)",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "peterflynn",
       "created": 1406330108000,
-      "state": "triaged"
-    },
-    "8589": {
-      "title": "Batch InlineTimingFunctionEditor's changes",
-      "assignee": "redmunds",
-      "user": "SAPlayer",
-      "created": 1406639663000,
-      "state": "in triage",
-      "latestUserComment": 1406826510000,
-      "latestAssigneeComment": 1406822485000
+      "state": "in review",
+      "latestUserComment": 1407228814000,
+      "latestAssigneeComment": 1407197697000
     },
     "8591": {
       "title": "Show match index in place of match count",
-      "assignee": null,
+      "assignee": "JeffryBooher",
       "user": "RaymondLim",
       "created": 1406652961000,
-      "state": "new"
+      "state": "in review",
+      "latestAssigneeComment": 1407184611000
     },
     "8593": {
       "title": "[Review Only] Brackets polyfill support",
       "assignee": null,
       "user": "redmunds",
       "created": 1406662066000,
-      "state": "new",
-      "latestUserComment": 1406846382000
+      "state": "triaged",
+      "latestUserComment": 1407186685000
     },
     "8595": {
       "title": "Fix PR 7231 for minified build",
@@ -1805,7 +1854,7 @@
       "user": "redmunds",
       "created": 1406733597000,
       "state": "new",
-      "latestUserComment": 1406747961000
+      "latestUserComment": 1407186851000
     },
     "8596": {
       "title": "Codeclimate fix",
@@ -1815,33 +1864,14 @@
       "state": "new",
       "latestUserComment": 1406749137000
     },
-    "8603": {
-      "title": "Improve search highlight maintainability / themability",
-      "assignee": null,
-      "user": "peterflynn",
-      "created": 1406788214000,
-      "state": "new"
-    },
     "8605": {
       "title": "Fix Live Preview for Docs not in Working Set",
-      "assignee": null,
+      "assignee": "JeffryBooher",
       "user": "redmunds",
       "created": 1406820298000,
-      "state": "new"
-    },
-    "8606": {
-      "title": "Update getting started (en-us)",
-      "assignee": null,
-      "user": "wormeyman",
-      "created": 1406821088000,
-      "state": "new"
-    },
-    "8607": {
-      "title": "ALF Automation",
-      "assignee": null,
-      "user": "walfgithub",
-      "created": 1406824963000,
-      "state": "new"
+      "state": "in review",
+      "latestUserComment": 1407191085000,
+      "latestAssigneeComment": 1407177914000
     },
     "8608": {
       "title": "Allow .xhtml files for Live Preview",
@@ -1855,22 +1885,24 @@
       "assignee": null,
       "user": "dangoor",
       "created": 1406896643000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1406896759000
     },
     "8623": {
       "title": "switch the key designations for hide and replace all across files",
-      "assignee": null,
+      "assignee": "RaymondLim",
       "user": "JeffryBooher",
       "created": 1406938509000,
-      "state": "new"
+      "state": "in triage"
     },
     "8633": {
       "title": "trimming whitespaces",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "vaziuok",
       "created": 1407058567000,
-      "state": "new"
+      "state": "in triage",
+      "latestUserComment": 1407224269000,
+      "latestAssigneeComment": 1407191863000
     },
     "8635": {
       "title": "Font smoothing",
@@ -1879,6 +1911,35 @@
       "created": 1407069015000,
       "state": "new",
       "latestUserComment": 1407112388000
+    },
+    "8654": {
+      "title": "Status Bar consistency fixes",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1407206615000,
+      "state": "new",
+      "latestUserComment": 1407211642000
+    },
+    "8656": {
+      "title": "Brushing off SVG",
+      "assignee": null,
+      "user": "DmitryBaranovskiy",
+      "created": 1407212671000,
+      "state": "triaged"
+    },
+    "8658": {
+      "title": "Restore 'browser: false' to Brackets core's JSLint setup",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1407223920000,
+      "state": "new"
+    },
+    "8659": {
+      "title": "Show cause of error when opening drag-&-dropped files fails",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1407227634000,
+      "state": "new"
     }
   }
 }
