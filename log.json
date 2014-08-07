@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407407257000,
+  "timestamp": 1407435702000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1528,9 +1528,69 @@
         "PR Triage Complete"
       ]
     },
+    "8667": {
+      "changes": {
+        "1407435702000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8668": {
+      "changes": {
+        "1407435702000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8674": {
       "changes": {
         "1407407257000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8677": {
+      "changes": {
+        "1407435702000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8684": {
+      "changes": {
+        "1407435702000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8687": {
+      "changes": {
+        "1407435702000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1800,22 +1860,6 @@
       "latestUserComment": 1407361023000,
       "latestAssigneeComment": 1407358250000
     },
-    "8476": {
-      "title": "Add pref to prevent js code hints on dot",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1405891584000,
-      "state": "triaged",
-      "latestUserComment": 1407358113000
-    },
-    "8511": {
-      "title": "Update unit tests for extension manager keepFile flag",
-      "assignee": "dangoor",
-      "user": "jasonsanjose",
-      "created": 1406054305000,
-      "state": "in review",
-      "latestUserComment": 1406061409000
-    },
     "8522": {
       "title": "[REVIEW_ONLY] Splitview",
       "assignee": "peterflynn",
@@ -1858,10 +1902,11 @@
     },
     "8659": {
       "title": "Show cause of error when opening drag-&-dropped files fails",
-      "assignee": null,
+      "assignee": "dangoor",
       "user": "peterflynn",
       "created": 1407227634000,
-      "state": "new"
+      "state": "in triage",
+      "latestAssigneeComment": 1407435289000
     },
     "8661": {
       "title": "Remove trailing white spaces",
@@ -1878,11 +1923,11 @@
       "state": "new"
     },
     "8667": {
-      "title": "Eat Keys",
+      "title": "Fix focus jump from status bar to working set",
       "assignee": null,
       "user": "JeffryBooher",
       "created": 1407263026000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1407278976000
     },
     "8668": {
@@ -1890,7 +1935,7 @@
       "assignee": null,
       "user": "JeffryBooher",
       "created": 1407264876000,
-      "state": "new"
+      "state": "triaged"
     },
     "8672": {
       "title": "Fix Find In Files test for non-English locales",
@@ -1908,14 +1953,6 @@
       "state": "in review",
       "latestUserComment": 1407396126000
     },
-    "8677": {
-      "title": "Fixed issue with regex not properly handling dot in file names without e...",
-      "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1407348425000,
-      "state": "new",
-      "latestUserComment": 1407374135000
-    },
     "8678": {
       "title": "update recent language changes",
       "assignee": null,
@@ -1932,19 +1969,19 @@
       "state": "new",
       "latestUserComment": 1407405621000
     },
-    "8682": {
-      "title": "ALF Automation",
-      "assignee": null,
-      "user": "walfgithub",
-      "created": 1407387237000,
-      "state": "new"
-    },
     "8684": {
       "title": "Pre-Dark-UI CSS Cleanup",
       "assignee": null,
       "user": "larz0",
       "created": 1407389086000,
-      "state": "new"
+      "state": "triaged"
+    },
+    "8687": {
+      "title": "update recent translations",
+      "assignee": null,
+      "user": "airycanon",
+      "created": 1407424162000,
+      "state": "triaged"
     }
   }
 }
