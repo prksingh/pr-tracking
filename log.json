@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407320291000,
+  "timestamp": 1407407257000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1468,6 +1468,18 @@
         "PR Triage Complete"
       ]
     },
+    "8608": {
+      "changes": {
+        "1407407257000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8617": {
       "changes": {
         "1407240363000": {
@@ -1492,9 +1504,33 @@
         "PR Triage Complete"
       ]
     },
+    "8658": {
+      "changes": {
+        "1407407257000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8663": {
       "changes": {
         "1407320291000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8674": {
+      "changes": {
+        "1407407257000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1680,15 +1716,6 @@
       "state": "in triage",
       "latestUserComment": 1405813392000
     },
-    "7820": {
-      "title": "Allow the user to drag faster",
-      "assignee": "JeffryBooher",
-      "user": "TomMalbran",
-      "created": 1399849544000,
-      "state": "in review",
-      "latestAssigneeComment": 1406136984000,
-      "latestUserComment": 1404848274000
-    },
     "7875": {
       "title": "Reveal cursor on panel expand",
       "assignee": "peterflynn",
@@ -1714,24 +1741,6 @@
       "created": 1401267211000,
       "state": "in triage",
       "latestAssigneeComment": 1401316077000
-    },
-    "7988": {
-      "title": "Defer most Quick View processing until after delay",
-      "assignee": "JeffryBooher",
-      "user": "redmunds",
-      "created": 1401472582000,
-      "state": "in review",
-      "latestAssigneeComment": 1407292143000,
-      "latestUserComment": 1407301424000
-    },
-    "8144": {
-      "title": "Fix Live CSS with an iframe element",
-      "assignee": "redmunds",
-      "user": "MarcelGerber",
-      "created": 1403006880000,
-      "state": "in review",
-      "latestUserComment": 1407320291000,
-      "latestAssigneeComment": 1407285283000
     },
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
@@ -1782,37 +1791,29 @@
       "state": "in review",
       "latestAssigneeComment": 1405532848000
     },
-    "8444": {
-      "title": "Language switcher: connect to prefs & clean up some code",
-      "assignee": "JeffryBooher",
-      "user": "peterflynn",
-      "created": 1405633196000,
-      "state": "in review",
-      "latestUserComment": 1407307129000,
-      "latestAssigneeComment": 1407256500000
-    },
     "8470": {
-      "title": "Only use first selection line when populating FindInFiles bar",
+      "title": "Only use first line of primary selection when populating FindInFiles bar",
       "assignee": "JeffryBooher",
       "user": "MarcelGerber",
       "created": 1405787115000,
       "state": "in review",
-      "latestUserComment": 1407242665000,
-      "latestAssigneeComment": 1407198284000
+      "latestUserComment": 1407361023000,
+      "latestAssigneeComment": 1407358250000
     },
     "8476": {
       "title": "Add pref to prevent js code hints on dot",
       "assignee": null,
       "user": "redmunds",
       "created": 1405891584000,
-      "state": "triaged"
+      "state": "triaged",
+      "latestUserComment": 1407358113000
     },
     "8511": {
       "title": "Update unit tests for extension manager keepFile flag",
-      "assignee": null,
+      "assignee": "dangoor",
       "user": "jasonsanjose",
       "created": 1406054305000,
-      "state": "triaged",
+      "state": "in review",
       "latestUserComment": 1406061409000
     },
     "8522": {
@@ -1829,7 +1830,8 @@
       "user": "RaymondLim",
       "created": 1406652961000,
       "state": "in review",
-      "latestAssigneeComment": 1407184611000
+      "latestAssigneeComment": 1407184611000,
+      "latestUserComment": 1407383452000
     },
     "8596": {
       "title": "Codeclimate fix",
@@ -1839,22 +1841,6 @@
       "state": "new",
       "latestUserComment": 1406749137000
     },
-    "8605": {
-      "title": "Fix Live Preview for Docs not in Working Set",
-      "assignee": "JeffryBooher",
-      "user": "redmunds",
-      "created": 1406820298000,
-      "state": "in review",
-      "latestUserComment": 1407191085000,
-      "latestAssigneeComment": 1407177914000
-    },
-    "8608": {
-      "title": "Allow .xhtml files for Live Preview",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1406825213000,
-      "state": "new"
-    },
     "8617": {
       "title": "Tweak to notice in Extension Manager",
       "assignee": null,
@@ -1863,35 +1849,12 @@
       "state": "triaged",
       "latestUserComment": 1407244824000
     },
-    "8635": {
-      "title": "Font smoothing",
-      "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1407069015000,
-      "state": "new",
-      "latestUserComment": 1407112388000
-    },
-    "8654": {
-      "title": "Status Bar consistency fixes",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1407206615000,
-      "state": "new",
-      "latestUserComment": 1407211642000
-    },
-    "8656": {
-      "title": "Brushing off SVG",
-      "assignee": null,
-      "user": "DmitryBaranovskiy",
-      "created": 1407212671000,
-      "state": "triaged"
-    },
     "8658": {
       "title": "Restore 'browser: false' to Brackets core's JSLint setup",
       "assignee": null,
       "user": "peterflynn",
       "created": 1407223920000,
-      "state": "new"
+      "state": "triaged"
     },
     "8659": {
       "title": "Show cause of error when opening drag-&-dropped files fails",
@@ -1937,11 +1900,50 @@
       "state": "new",
       "latestUserComment": 1407319685000
     },
-    "8673": {
-      "title": "Changes to allow backward compatibility with plain ole CodeMirror themes",
+    "8674": {
+      "title": "jslint: remove whitespaces using simple regex",
+      "assignee": "ingorichter",
+      "user": "MartinMa",
+      "created": 1407331661000,
+      "state": "in review",
+      "latestUserComment": 1407396126000
+    },
+    "8677": {
+      "title": "Fixed issue with regex not properly handling dot in file names without e...",
       "assignee": null,
       "user": "MiguelCastillo",
-      "created": 1407300118000,
+      "created": 1407348425000,
+      "state": "new",
+      "latestUserComment": 1407374135000
+    },
+    "8678": {
+      "title": "update recent language changes",
+      "assignee": null,
+      "user": "airycanon",
+      "created": 1407348642000,
+      "state": "new",
+      "latestUserComment": 1407384421000
+    },
+    "8680": {
+      "title": "Sprint -> Release",
+      "assignee": null,
+      "user": "MarcelGerber",
+      "created": 1407368130000,
+      "state": "new",
+      "latestUserComment": 1407405621000
+    },
+    "8682": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1407387237000,
+      "state": "new"
+    },
+    "8684": {
+      "title": "Pre-Dark-UI CSS Cleanup",
+      "assignee": null,
+      "user": "larz0",
+      "created": 1407389086000,
       "state": "new"
     }
   }
