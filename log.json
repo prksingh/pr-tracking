@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407435702000,
+  "timestamp": 1407488780000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1874,16 +1874,8 @@
       "user": "RaymondLim",
       "created": 1406652961000,
       "state": "in review",
-      "latestAssigneeComment": 1407184611000,
+      "latestAssigneeComment": 1407436949000,
       "latestUserComment": 1407383452000
-    },
-    "8596": {
-      "title": "Codeclimate fix",
-      "assignee": null,
-      "user": "Zayelion",
-      "created": 1406744893000,
-      "state": "new",
-      "latestUserComment": 1406749137000
     },
     "8617": {
       "title": "Tweak to notice in Extension Manager",
@@ -1945,14 +1937,6 @@
       "state": "new",
       "latestUserComment": 1407319685000
     },
-    "8674": {
-      "title": "jslint: remove whitespaces using simple regex",
-      "assignee": "ingorichter",
-      "user": "MartinMa",
-      "created": 1407331661000,
-      "state": "in review",
-      "latestUserComment": 1407396126000
-    },
     "8678": {
       "title": "update recent language changes",
       "assignee": null,
@@ -1982,6 +1966,34 @@
       "user": "airycanon",
       "created": 1407424162000,
       "state": "triaged"
+    },
+    "8693": {
+      "title": "Finnish translation update (release 0.43)",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1407438231000,
+      "state": "new"
+    },
+    "8696": {
+      "title": "Finnish translation for “Getting Started” project update (release 0.43)",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1407449167000,
+      "state": "new"
+    },
+    "8699": {
+      "title": "Turkish language files were synchronized with your root file.",
+      "assignee": null,
+      "user": "yasinkuyu",
+      "created": 1407455370000,
+      "state": "new"
+    },
+    "8701": {
+      "title": "Update strings.js (Italian Translate for Brackets 0.43)",
+      "assignee": null,
+      "user": "Denisov21",
+      "created": 1407488600000,
+      "state": "new"
     }
   }
 }
