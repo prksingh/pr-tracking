@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407488780000,
+  "timestamp": 1407751390000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1851,15 +1851,6 @@
       "state": "in review",
       "latestAssigneeComment": 1405532848000
     },
-    "8470": {
-      "title": "Only use first line of primary selection when populating FindInFiles bar",
-      "assignee": "JeffryBooher",
-      "user": "MarcelGerber",
-      "created": 1405787115000,
-      "state": "in review",
-      "latestUserComment": 1407361023000,
-      "latestAssigneeComment": 1407358250000
-    },
     "8522": {
       "title": "[REVIEW_ONLY] Splitview",
       "assignee": "peterflynn",
@@ -1868,29 +1859,13 @@
       "state": "in review",
       "latestUserComment": 1407255762000
     },
-    "8591": {
-      "title": "Show match index in place of match count",
-      "assignee": "JeffryBooher",
-      "user": "RaymondLim",
-      "created": 1406652961000,
-      "state": "in review",
-      "latestAssigneeComment": 1407436949000,
-      "latestUserComment": 1407383452000
-    },
-    "8617": {
-      "title": "Tweak to notice in Extension Manager",
-      "assignee": null,
-      "user": "dangoor",
-      "created": 1406896643000,
-      "state": "triaged",
-      "latestUserComment": 1407244824000
-    },
     "8658": {
       "title": "Restore 'browser: false' to Brackets core's JSLint setup",
       "assignee": null,
       "user": "peterflynn",
       "created": 1407223920000,
-      "state": "triaged"
+      "state": "triaged",
+      "latestUserComment": 1407522095000
     },
     "8659": {
       "title": "Show cause of error when opening drag-&-dropped files fails",
@@ -1988,11 +1963,39 @@
       "created": 1407455370000,
       "state": "new"
     },
-    "8701": {
-      "title": "Update strings.js (Italian Translate for Brackets 0.43)",
+    "8703": {
+      "title": "Exclude `node_modules` by default from JS Code Hints.",
+      "assignee": null,
+      "user": "dangoor",
+      "created": 1407510254000,
+      "state": "new"
+    },
+    "8707": {
+      "title": "Fix outdated comments in StringUtils `truncate()`",
+      "assignee": null,
+      "user": "le717",
+      "created": 1407543262000,
+      "state": "new"
+    },
+    "8714": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1407732726000,
+      "state": "new"
+    },
+    "8715": {
+      "title": "Update themes-settings.html",
       "assignee": null,
       "user": "Denisov21",
-      "created": 1407488600000,
+      "created": 1407750953000,
+      "state": "new"
+    },
+    "8716": {
+      "title": "Update strings.js",
+      "assignee": null,
+      "user": "Denisov21",
+      "created": 1407751184000,
       "state": "new"
     }
   }
