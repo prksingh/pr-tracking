@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407751390000,
+  "timestamp": 1407843569000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1528,6 +1528,18 @@
         "PR Triage Complete"
       ]
     },
+    "8664": {
+      "changes": {
+        "1407843569000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8667": {
       "changes": {
         "1407435702000": {
@@ -1591,6 +1603,30 @@
     "8687": {
       "changes": {
         "1407435702000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8703": {
+      "changes": {
+        "1407843569000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8707": {
+      "changes": {
+        "1407843569000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1875,19 +1911,12 @@
       "state": "in triage",
       "latestAssigneeComment": 1407435289000
     },
-    "8661": {
-      "title": "Remove trailing white spaces",
-      "assignee": null,
-      "user": "vaziuok",
-      "created": 1407245150000,
-      "state": "new"
-    },
     "8664": {
       "title": "Update Galician language",
       "assignee": null,
       "user": "ivarcia",
       "created": 1407252165000,
-      "state": "new"
+      "state": "triaged"
     },
     "8667": {
       "title": "Fix focus jump from status bar to working set",
@@ -1896,13 +1925,6 @@
       "created": 1407263026000,
       "state": "triaged",
       "latestUserComment": 1407278976000
-    },
-    "8668": {
-      "title": "add languages to langauge switcher after they are installed",
-      "assignee": null,
-      "user": "JeffryBooher",
-      "created": 1407264876000,
-      "state": "triaged"
     },
     "8672": {
       "title": "Fix Find In Files test for non-English locales",
@@ -1963,39 +1985,47 @@
       "created": 1407455370000,
       "state": "new"
     },
-    "8703": {
-      "title": "Exclude `node_modules` by default from JS Code Hints.",
-      "assignee": null,
-      "user": "dangoor",
-      "created": 1407510254000,
-      "state": "new"
-    },
-    "8707": {
-      "title": "Fix outdated comments in StringUtils `truncate()`",
-      "assignee": null,
-      "user": "le717",
-      "created": 1407543262000,
-      "state": "new"
-    },
-    "8714": {
-      "title": "ALF Automation",
-      "assignee": null,
-      "user": "walfgithub",
-      "created": 1407732726000,
-      "state": "new"
-    },
     "8715": {
-      "title": "Update themes-settings.html",
+      "title": "Update themes-settings.html and strings.js",
       "assignee": null,
       "user": "Denisov21",
       "created": 1407750953000,
+      "state": "new",
+      "latestUserComment": 1407783455000
+    },
+    "8720": {
+      "title": "Parse less and scss files",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1407776334000,
       "state": "new"
     },
-    "8716": {
-      "title": "Update strings.js",
+    "8724": {
+      "title": "Make anchors in Quick Docs relative to page URL",
       "assignee": null,
-      "user": "Denisov21",
-      "created": 1407751184000,
+      "user": "MarcelGerber",
+      "created": 1407794796000,
+      "state": "new"
+    },
+    "8728": {
+      "title": "Use resultSet array length for total match count",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1407799722000,
+      "state": "new"
+    },
+    "8729": {
+      "title": "Warn user when project has too many files",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1407805777000,
+      "state": "new"
+    },
+    "8731": {
+      "title": "Dark Core UI",
+      "assignee": null,
+      "user": "larz0",
+      "created": 1407816823000,
       "state": "new"
     }
   }
