@@ -1,5 +1,5 @@
 {
-  "timestamp": 1407934788000,
+  "timestamp": 1408003742000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1046,11 +1046,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1408003742000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "8328": {
       "changes": {
@@ -1564,6 +1567,18 @@
         "PR Triage Complete"
       ]
     },
+    "8672": {
+      "changes": {
+        "1408003742000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8674": {
       "changes": {
         "1407407257000": {
@@ -1639,6 +1654,42 @@
     "8724": {
       "changes": {
         "1407934788000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8728": {
+      "changes": {
+        "1408003742000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8731": {
+      "changes": {
+        "1408003742000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8734": {
+      "changes": {
+        "1408003742000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1773,13 +1824,6 @@
       "state": "in triage",
       "latestUserComment": 1393550614000
     },
-    "7166": {
-      "title": "API to make exclude list user controllable (6781)",
-      "assignee": null,
-      "user": "oliver-moran",
-      "created": 1394573358000,
-      "state": "new"
-    },
     "7227": {
       "title": "Replace 'smart autocomplete' with a purpose-built QuickSearchField module",
       "assignee": "ingorichter",
@@ -1856,10 +1900,11 @@
     "8156": {
       "title": "Limit QuickView to literal color names in some languages",
       "assignee": "redmunds",
-      "user": "SAPlayer",
+      "user": "MarcelGerber",
       "created": 1403044797000,
       "state": "in review",
-      "latestUserComment": 1404500815000
+      "latestUserComment": 1404500815000,
+      "latestAssigneeComment": 1407971932000
     },
     "8174": {
       "title": "Break out query parsing from setting the query in the model...",
@@ -1941,14 +1986,6 @@
       "state": "triaged",
       "latestUserComment": 1407278976000
     },
-    "8672": {
-      "title": "Fix Find In Files test for non-English locales",
-      "assignee": null,
-      "user": "MarcelGerber",
-      "created": 1407279797000,
-      "state": "new",
-      "latestUserComment": 1407319685000
-    },
     "8678": {
       "title": "update recent language changes",
       "assignee": null,
@@ -1993,13 +2030,6 @@
       "created": 1407449167000,
       "state": "new"
     },
-    "8699": {
-      "title": "Turkish language files were synchronized with your root file.",
-      "assignee": null,
-      "user": "yasinkuyu",
-      "created": 1407455370000,
-      "state": "new"
-    },
     "8715": {
       "title": "Update themes-settings.html and strings.js",
       "assignee": null,
@@ -2027,29 +2057,31 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1407799722000,
-      "state": "new"
+      "state": "triaged"
     },
     "8729": {
       "title": "Warn user when project has too many files",
       "assignee": null,
       "user": "redmunds",
       "created": 1407805777000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1407956922000
     },
     "8731": {
       "title": "Dark Core UI",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "larz0",
       "created": 1407816823000,
-      "state": "new",
-      "latestUserComment": 1407907999000
+      "state": "in review",
+      "latestUserComment": 1407984106000,
+      "latestAssigneeComment": 1407983140000
     },
     "8734": {
       "title": "Add link to Troubleshooting page to Live Preview error messages",
       "assignee": null,
       "user": "redmunds",
       "created": 1407860496000,
-      "state": "new"
+      "state": "triaged"
     },
     "8736": {
       "title": "Show LESS errors in console",
@@ -2063,6 +2095,13 @@
       "assignee": null,
       "user": "MarcelGerber",
       "created": 1407886618000,
+      "state": "new"
+    },
+    "8753": {
+      "title": "[MERGEABLE] Splitview With Image and Custom View Support",
+      "assignee": null,
+      "user": "JeffryBooher",
+      "created": 1407949614000,
       "state": "new"
     }
   }
