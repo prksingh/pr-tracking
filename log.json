@@ -1,5 +1,5 @@
 {
-  "timestamp": 1408355090000,
+  "timestamp": 1408448927000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -7,11 +7,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "6073": {
       "changes": {
@@ -234,10 +237,18 @@
           "added": [
             "Review"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Review"
+        "Development"
       ]
     },
     "7820": {
@@ -737,11 +748,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "8232": {
       "changes": {
@@ -749,11 +763,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "8237": {
       "changes": {
@@ -1008,11 +1025,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "8320": {
       "changes": {
@@ -1020,11 +1040,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "8321": {
       "changes": {
@@ -1052,11 +1075,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "8323": {
       "changes": {
@@ -1092,11 +1118,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "8326": {
       "changes": {
@@ -1779,6 +1808,18 @@
         "PR Triage Complete"
       ]
     },
+    "8739": {
+      "changes": {
+        "1408448927000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8740": {
       "changes": {
         "1407934788000": {
@@ -1857,10 +1898,18 @@
           "added": [
             "Review"
           ]
+        },
+        "1408448927000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Review"
+        "Testing"
       ]
     },
     "8786": {
@@ -1921,6 +1970,30 @@
       },
       "current": [
         "Development"
+      ]
+    },
+    "8797": {
+      "changes": {
+        "1408448927000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "8798": {
+      "changes": {
+        "1408448927000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
       ]
     }
   },
@@ -2259,11 +2332,11 @@
     },
     "8728": {
       "title": "Use resultSet array length for total match count",
-      "assignee": null,
+      "assignee": "JeffryBooher",
       "user": "RaymondLim",
       "created": 1407799722000,
-      "state": "triaged",
-      "latestUserComment": 1408143115000
+      "state": "in review",
+      "latestUserComment": 1408403655000
     },
     "8734": {
       "title": "Add link to Troubleshooting page to Live Preview error messages",
@@ -2284,14 +2357,15 @@
       "assignee": null,
       "user": "MarcelGerber",
       "created": 1407886618000,
-      "state": "new"
+      "state": "triaged"
     },
     "8753": {
       "title": "[MERGEABLE] Splitview With Image and Custom View Support",
       "assignee": "redmunds",
       "user": "JeffryBooher",
       "created": 1407949614000,
-      "state": "in review"
+      "state": "in review",
+      "latestAssigneeComment": 1408410753000
     },
     "8756": {
       "title": "Update Italian language for Brackets 0.43",
@@ -2306,7 +2380,7 @@
       "user": "MiguelCastillo",
       "created": 1408042950000,
       "state": "new",
-      "latestUserComment": 1408148734000
+      "latestUserComment": 1408383658000
     },
     "8770": {
       "title": "Fixed Side Bar's quiet button hover border.",
@@ -2343,6 +2417,14 @@
       "created": 1408324459000,
       "state": "new",
       "latestUserComment": 1408330698000
+    },
+    "8803": {
+      "title": "Reverting match highlight colors.",
+      "assignee": null,
+      "user": "larz0",
+      "created": 1408397269000,
+      "state": "new",
+      "latestUserComment": 1408400316000
     }
   }
 }
