@@ -1,5 +1,5 @@
 {
-  "timestamp": 1408448927000,
+  "timestamp": 1408530686000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1856,6 +1856,18 @@
         "Ready"
       ]
     },
+    "8770": {
+      "changes": {
+        "1408530686000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8772": {
       "changes": {
         "1408355090000": {
@@ -1994,6 +2006,18 @@
       },
       "current": [
         "Waiting/Dependent"
+      ]
+    },
+    "8810": {
+      "changes": {
+        "1408530686000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
       ]
     }
   },
@@ -2330,14 +2354,6 @@
       "created": 1407794796000,
       "state": "triaged"
     },
-    "8728": {
-      "title": "Use resultSet array length for total match count",
-      "assignee": "JeffryBooher",
-      "user": "RaymondLim",
-      "created": 1407799722000,
-      "state": "in review",
-      "latestUserComment": 1408403655000
-    },
     "8734": {
       "title": "Add link to Troubleshooting page to Live Preview error messages",
       "assignee": null,
@@ -2382,13 +2398,6 @@
       "state": "new",
       "latestUserComment": 1408383658000
     },
-    "8770": {
-      "title": "Fixed Side Bar's quiet button hover border.",
-      "assignee": null,
-      "user": "larz0",
-      "created": 1408148664000,
-      "state": "new"
-    },
     "8779": {
       "title": "Ukrainian l18n",
       "assignee": null,
@@ -2396,19 +2405,13 @@
       "created": 1408286426000,
       "state": "new"
     },
-    "8791": {
-      "title": "Extension Manager tab focus styling fix.",
-      "assignee": null,
-      "user": "larz0",
-      "created": 1408311722000,
-      "state": "new"
-    },
     "8793": {
       "title": "Fixed incorrect active style",
       "assignee": null,
       "user": "larz0",
       "created": 1408320304000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1408506500000
     },
     "8794": {
       "title": "Smaller project panel text (by 1px).",
@@ -2417,14 +2420,6 @@
       "created": 1408324459000,
       "state": "new",
       "latestUserComment": 1408330698000
-    },
-    "8803": {
-      "title": "Reverting match highlight colors.",
-      "assignee": null,
-      "user": "larz0",
-      "created": 1408397269000,
-      "state": "new",
-      "latestUserComment": 1408400316000
     }
   }
 }
