@@ -1,5 +1,5 @@
 {
-  "timestamp": 1408530686000,
+  "timestamp": 1408626361000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1706,6 +1706,18 @@
         "PR Triage Complete"
       ]
     },
+    "8678": {
+      "changes": {
+        "1408626361000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8684": {
       "changes": {
         "1407435702000": {
@@ -1721,6 +1733,30 @@
     "8687": {
       "changes": {
         "1407435702000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8693": {
+      "changes": {
+        "1408626361000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8696": {
+      "changes": {
+        "1408626361000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -1898,11 +1934,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1408626361000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "8785": {
       "changes": {
@@ -1918,11 +1957,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1408626361000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "8786": {
       "changes": {
@@ -2300,8 +2342,8 @@
       "assignee": null,
       "user": "airycanon",
       "created": 1407348642000,
-      "state": "new",
-      "latestUserComment": 1407384421000
+      "state": "triaged",
+      "latestUserComment": 1408585157000
     },
     "8680": {
       "title": "Sprint -> Release",
@@ -2317,28 +2359,6 @@
       "user": "airycanon",
       "created": 1407424162000,
       "state": "triaged"
-    },
-    "8693": {
-      "title": "Finnish translation update (release 0.43)",
-      "assignee": null,
-      "user": "valtlait",
-      "created": 1407438231000,
-      "state": "new"
-    },
-    "8696": {
-      "title": "Finnish translation for “Getting Started” project update (release 0.43)",
-      "assignee": null,
-      "user": "valtlait",
-      "created": 1407449167000,
-      "state": "new"
-    },
-    "8715": {
-      "title": "Update themes-settings.html and strings.js",
-      "assignee": null,
-      "user": "Denisov21",
-      "created": 1407750953000,
-      "state": "new",
-      "latestUserComment": 1407783455000
     },
     "8720": {
       "title": "Parse less and scss files",
@@ -2383,35 +2403,12 @@
       "state": "in review",
       "latestAssigneeComment": 1408410753000
     },
-    "8756": {
-      "title": "Update Italian language for Brackets 0.43",
-      "assignee": null,
-      "user": "Denisov21",
-      "created": 1408019360000,
-      "state": "new"
-    },
-    "8759": {
-      "title": "Themes tab",
-      "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1408042950000,
-      "state": "new",
-      "latestUserComment": 1408383658000
-    },
     "8779": {
       "title": "Ukrainian l18n",
       "assignee": null,
       "user": "probil",
       "created": 1408286426000,
       "state": "new"
-    },
-    "8793": {
-      "title": "Fixed incorrect active style",
-      "assignee": null,
-      "user": "larz0",
-      "created": 1408320304000,
-      "state": "new",
-      "latestUserComment": 1408506500000
     },
     "8794": {
       "title": "Smaller project panel text (by 1px).",
@@ -2420,6 +2417,20 @@
       "created": 1408324459000,
       "state": "new",
       "latestUserComment": 1408330698000
+    },
+    "8819": {
+      "title": "Finnish translation update (release 0.43) [2]",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1408563922000,
+      "state": "new"
+    },
+    "8820": {
+      "title": "Finnish translation for “Getting Started” project update (release 0.43) [2]",
+      "assignee": null,
+      "user": "valtlait",
+      "created": 1408564111000,
+      "state": "new"
     }
   }
 }
