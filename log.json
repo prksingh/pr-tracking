@@ -1,5 +1,5 @@
 {
-  "timestamp": 1408626361000,
+  "timestamp": 1408710679000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1063,10 +1063,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1408710679000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "8322": {
@@ -2020,10 +2028,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1408710679000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Waiting/Dependent"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Waiting/Dependent"
       ]
     },
     "8797": {
@@ -2060,6 +2076,54 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "8829": {
+      "changes": {
+        "1408710679000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "8830": {
+      "changes": {
+        "1408710679000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "8831": {
+      "changes": {
+        "1408710679000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "8832": {
+      "changes": {
+        "1408710679000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     }
   },
@@ -2320,7 +2384,8 @@
       "user": "peterflynn",
       "created": 1407227634000,
       "state": "in triage",
-      "latestAssigneeComment": 1407435289000
+      "latestAssigneeComment": 1407435289000,
+      "latestUserComment": 1408686502000
     },
     "8664": {
       "title": "Update Galician language",
@@ -2365,7 +2430,8 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1407776334000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1408690317000
     },
     "8724": {
       "title": "Make anchors in Quick Docs relative to page URL",
@@ -2431,6 +2497,14 @@
       "user": "valtlait",
       "created": 1408564111000,
       "state": "new"
+    },
+    "8828": {
+      "title": "Update in LocalizationExample",
+      "assignee": null,
+      "user": "Denisov21",
+      "created": 1408656471000,
+      "state": "new",
+      "latestUserComment": 1408709258000
     }
   }
 }
