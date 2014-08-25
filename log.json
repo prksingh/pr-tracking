@@ -1,5 +1,5 @@
 {
-  "timestamp": 1408710679000,
+  "timestamp": 1408962479000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1114,11 +1114,14 @@
           "added": [
             "Bug Fixing / DOD"
           ]
+        },
+        "1408962479000": {
+          "removed": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
-      "current": [
-        "Bug Fixing / DOD"
-      ]
+      "current": []
     },
     "8324": {
       "changes": {
@@ -1621,6 +1624,18 @@
     "8658": {
       "changes": {
         "1407407257000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8659": {
+      "changes": {
+        "1408962479000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -2284,7 +2299,7 @@
       "user": "le717",
       "created": 1399581531000,
       "state": "in triage",
-      "latestUserComment": 1405813392000
+      "latestUserComment": 1408730265000
     },
     "7875": {
       "title": "Reveal cursor on panel expand",
@@ -2380,12 +2395,12 @@
     },
     "8659": {
       "title": "Show cause of error when opening drag-&-dropped files fails",
-      "assignee": "dangoor",
+      "assignee": null,
       "user": "peterflynn",
       "created": 1407227634000,
-      "state": "in triage",
+      "state": "triaged",
       "latestAssigneeComment": 1407435289000,
-      "latestUserComment": 1408686502000
+      "latestUserComment": 1408729309000
     },
     "8664": {
       "title": "Update Galician language",
@@ -2425,14 +2440,6 @@
       "created": 1407424162000,
       "state": "triaged"
     },
-    "8720": {
-      "title": "Parse less and scss files",
-      "assignee": null,
-      "user": "RaymondLim",
-      "created": 1407776334000,
-      "state": "new",
-      "latestUserComment": 1408690317000
-    },
     "8724": {
       "title": "Make anchors in Quick Docs relative to page URL",
       "assignee": null,
@@ -2445,7 +2452,8 @@
       "assignee": null,
       "user": "redmunds",
       "created": 1407860496000,
-      "state": "triaged"
+      "state": "triaged",
+      "latestUserComment": 1408729883000
     },
     "8736": {
       "title": "Show LESS errors in console",
@@ -2504,7 +2512,36 @@
       "user": "Denisov21",
       "created": 1408656471000,
       "state": "new",
-      "latestUserComment": 1408709258000
+      "latestUserComment": 1408795564000
+    },
+    "8841": {
+      "title": "Brazilian Portuguese translation update (0.43)",
+      "assignee": null,
+      "user": "brunnopleffken",
+      "created": 1408772236000,
+      "state": "new"
+    },
+    "8844": {
+      "title": "Changes for all the late feedback of pull request 8720.",
+      "assignee": "peterflynn",
+      "user": "RaymondLim",
+      "created": 1408816961000,
+      "state": "in triage"
+    },
+    "8846": {
+      "title": "Update strings.js",
+      "assignee": null,
+      "user": "chrispecoraro",
+      "created": 1408873333000,
+      "state": "new",
+      "latestUserComment": 1408873362000
+    },
+    "8849": {
+      "title": "Release 0.43 UI Polish + Fixes",
+      "assignee": null,
+      "user": "larz0",
+      "created": 1408920073000,
+      "state": "new"
     }
   }
 }
