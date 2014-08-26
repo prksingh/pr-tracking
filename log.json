@@ -1,5 +1,5 @@
 {
-  "timestamp": 1408962479000,
+  "timestamp": 1409051808000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2140,6 +2140,18 @@
       "current": [
         "Ready"
       ]
+    },
+    "8838": {
+      "changes": {
+        "1409051808000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
     }
   },
   "pullRequests": {
@@ -2526,7 +2538,8 @@
       "assignee": "peterflynn",
       "user": "RaymondLim",
       "created": 1408816961000,
-      "state": "in triage"
+      "state": "in triage",
+      "latestUserComment": 1409000923000
     },
     "8846": {
       "title": "Update strings.js",
@@ -2536,11 +2549,33 @@
       "state": "new",
       "latestUserComment": 1408873362000
     },
-    "8849": {
-      "title": "Release 0.43 UI Polish + Fixes",
+    "8856": {
+      "title": "Navigate through Extension Manager tabs via Ctrl-(Shift)-Tab",
+      "assignee": null,
+      "user": "MarcelGerber",
+      "created": 1408988824000,
+      "state": "new"
+    },
+    "8857": {
+      "title": "Removed conditional so that installed themes can be seen in the themes t...",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1408991516000,
+      "state": "new",
+      "latestUserComment": 1408991987000
+    },
+    "8859": {
+      "title": "Add \"Open Brackets Source\" functionality",
+      "assignee": null,
+      "user": "MarcelGerber",
+      "created": 1409003662000,
+      "state": "new"
+    },
+    "8864": {
+      "title": "Using box-shadow for link focus to stop links from shifting a few pixels when tabbed.",
       "assignee": null,
       "user": "larz0",
-      "created": 1408920073000,
+      "created": 1409026544000,
       "state": "new"
     }
   }
