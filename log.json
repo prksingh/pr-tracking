@@ -1,5 +1,5 @@
 {
-  "timestamp": 1409138497000,
+  "timestamp": 1409241440000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2117,6 +2117,18 @@
         "PR Triage Complete"
       ]
     },
+    "8815": {
+      "changes": {
+        "1409241440000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
     "8829": {
       "changes": {
         "1408710679000": {
@@ -2187,6 +2199,42 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "8879": {
+      "changes": {
+        "1409241440000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8881": {
+      "changes": {
+        "1409241440000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8892": {
+      "changes": {
+        "1409241440000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     }
   },
@@ -2452,11 +2500,12 @@
     },
     "8680": {
       "title": "Sprint -> Release",
-      "assignee": null,
+      "assignee": "ingorichter",
       "user": "MarcelGerber",
       "created": 1407368130000,
-      "state": "new",
-      "latestUserComment": 1407874349000
+      "state": "in triage",
+      "latestUserComment": 1407874349000,
+      "latestAssigneeComment": 1409154850000
     },
     "8724": {
       "title": "Make anchors in Quick Docs relative to page URL",
@@ -2542,25 +2591,25 @@
       "created": 1409026544000,
       "state": "new"
     },
-    "8878": {
-      "title": "Add less/scss files to getting started",
+    "8885": {
+      "title": "[REVIEW ONLY] Project manager revamp",
+      "assignee": null,
+      "user": "dangoor",
+      "created": 1409152433000,
+      "state": "new"
+    },
+    "8886": {
+      "title": "add less/scss files to getting started",
       "assignee": null,
       "user": "JeffryBooher",
-      "created": 1409093338000,
+      "created": 1409158987000,
       "state": "new"
     },
-    "8879": {
-      "title": "German translation",
+    "8893": {
+      "title": "Spanish translation for Release 43",
       "assignee": null,
-      "user": "MarcelGerber",
-      "created": 1409096973000,
-      "state": "new"
-    },
-    "8881": {
-      "title": "Ukrainian l18n",
-      "assignee": null,
-      "user": "probil",
-      "created": 1409121899000,
+      "user": "TomMalbran",
+      "created": 1409197916000,
       "state": "new"
     }
   }
