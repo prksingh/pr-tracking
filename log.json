@@ -1,5 +1,5 @@
 {
-  "timestamp": 1409314992000,
+  "timestamp": 1409661224000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -1671,11 +1671,14 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1409661224000": {
+          "removed": [
+            "PR Triage Complete"
+          ]
         }
       },
-      "current": [
-        "PR Triage Complete"
-      ]
+      "current": []
     },
     "8667": {
       "changes": {
@@ -2039,11 +2042,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1409661224000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "8788": {
       "changes": {
@@ -2462,8 +2468,8 @@
       "user": "Denisov21",
       "created": 1403889815000,
       "state": "in triage",
-      "latestUserComment": 1405626462000,
-      "latestAssigneeComment": 1405462774000
+      "latestUserComment": 1409598794000,
+      "latestAssigneeComment": 1409328019000
     },
     "8310": {
       "title": "[REVIEW ONLY] Add Find Whole Word functionality",
@@ -2480,14 +2486,6 @@
       "created": 1405294683000,
       "state": "in review",
       "latestAssigneeComment": 1405532848000
-    },
-    "8522": {
-      "title": "[REVIEW_ONLY] Splitview",
-      "assignee": "peterflynn",
-      "user": "JeffryBooher",
-      "created": 1406072138000,
-      "state": "in review",
-      "latestUserComment": 1407255762000
     },
     "8658": {
       "title": "Restore 'browser: false' to Brackets core's JSLint setup",
@@ -2560,15 +2558,6 @@
       "state": "new",
       "latestUserComment": 1408330698000
     },
-    "8828": {
-      "title": "Update in LocalizationExample",
-      "assignee": "TomMalbran",
-      "user": "Denisov21",
-      "created": 1408656471000,
-      "state": "in triage",
-      "latestUserComment": 1408795564000,
-      "latestAssigneeComment": 1409085894000
-    },
     "8846": {
       "title": "Update strings.js",
       "assignee": "JeffryBooher",
@@ -2596,20 +2585,65 @@
       "assignee": null,
       "user": "dangoor",
       "created": 1409152433000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1409324137000
     },
     "8905": {
       "title": "Unit tests for LESS/SCSS",
       "assignee": null,
       "user": "RaymondLim",
       "created": 1409267350000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1409351885000
     },
     "8910": {
       "title": "Fix minor TimingFunction validation issue",
       "assignee": null,
       "user": "MarcelGerber",
       "created": 1409314992000,
+      "state": "new"
+    },
+    "8913": {
+      "title": "Implement Splitview",
+      "assignee": null,
+      "user": "JeffryBooher",
+      "created": 1409343195000,
+      "state": "new",
+      "latestUserComment": 1409632467000
+    },
+    "8920": {
+      "title": "Fix several bugs with Live Preview and LESS/SCSS files",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1409355193000,
+      "state": "new"
+    },
+    "8922": {
+      "title": "Fix live dev highlight being out of place in edge cases",
+      "assignee": null,
+      "user": "MarcelGerber",
+      "created": 1409402474000,
+      "state": "new"
+    },
+    "8926": {
+      "title": "sprint 42 czech language",
+      "assignee": null,
+      "user": "kvarel",
+      "created": 1409497340000,
+      "state": "new"
+    },
+    "8929": {
+      "title": "Toggle Line Comment - removing leading whitespace breaks Jade preprocessor #8012",
+      "assignee": null,
+      "user": "mccricardo",
+      "created": 1409600349000,
+      "state": "new"
+    },
+    "8933": {
+      "title": "Getting Started Update for FR and new files for JP",
+      "assignee": null,
+      "user": "ArturOledzki",
+      "created": 1409656225000,
       "state": "new"
     }
   }
