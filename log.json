@@ -1,5 +1,5 @@
 {
-  "timestamp": 1409661224000,
+  "timestamp": 1409751849000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2223,6 +2223,18 @@
         "PR Triage Complete"
       ]
     },
+    "8864": {
+      "changes": {
+        "1409751849000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "8879": {
       "changes": {
         "1409241440000": {
@@ -2257,6 +2269,42 @@
       },
       "current": [
         "Ready"
+      ]
+    },
+    "8905": {
+      "changes": {
+        "1409751849000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8910": {
+      "changes": {
+        "1409751849000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8922": {
+      "changes": {
+        "1409751849000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
       ]
     }
   },
@@ -2462,15 +2510,6 @@
       "state": "in review",
       "latestUserComment": 1406508792000
     },
-    "8267": {
-      "title": "Update root strings.js ",
-      "assignee": "redmunds",
-      "user": "Denisov21",
-      "created": 1403889815000,
-      "state": "in triage",
-      "latestUserComment": 1409598794000,
-      "latestAssigneeComment": 1409328019000
-    },
     "8310": {
       "title": "[REVIEW ONLY] Add Find Whole Word functionality",
       "assignee": null,
@@ -2578,7 +2617,7 @@
       "assignee": null,
       "user": "larz0",
       "created": 1409026544000,
-      "state": "new"
+      "state": "triaged"
     },
     "8885": {
       "title": "[REVIEW ONLY] Project manager revamp",
@@ -2586,22 +2625,22 @@
       "user": "dangoor",
       "created": 1409152433000,
       "state": "new",
-      "latestUserComment": 1409324137000
+      "latestUserComment": 1409751849000
     },
     "8905": {
       "title": "Unit tests for LESS/SCSS",
       "assignee": null,
       "user": "RaymondLim",
       "created": 1409267350000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1409351885000
     },
     "8910": {
       "title": "Fix minor TimingFunction validation issue",
-      "assignee": null,
+      "assignee": "redmunds",
       "user": "MarcelGerber",
       "created": 1409314992000,
-      "state": "new"
+      "state": "in review"
     },
     "8913": {
       "title": "Implement Splitview",
@@ -2611,19 +2650,12 @@
       "state": "new",
       "latestUserComment": 1409632467000
     },
-    "8920": {
-      "title": "Fix several bugs with Live Preview and LESS/SCSS files",
-      "assignee": null,
-      "user": "peterflynn",
-      "created": 1409355193000,
-      "state": "new"
-    },
     "8922": {
       "title": "Fix live dev highlight being out of place in edge cases",
       "assignee": null,
       "user": "MarcelGerber",
       "created": 1409402474000,
-      "state": "new"
+      "state": "triaged"
     },
     "8926": {
       "title": "sprint 42 czech language",
@@ -2639,12 +2671,20 @@
       "created": 1409600349000,
       "state": "new"
     },
-    "8933": {
-      "title": "Getting Started Update for FR and new files for JP",
+    "8939": {
+      "title": "Finnish translation update",
       "assignee": null,
-      "user": "ArturOledzki",
-      "created": 1409656225000,
+      "user": "valtlait",
+      "created": 1409685388000,
       "state": "new"
+    },
+    "8949": {
+      "title": "Sidebar resize bug",
+      "assignee": null,
+      "user": "yashodhanmohan",
+      "created": 1409743141000,
+      "state": "new",
+      "latestUserComment": 1409746103000
     }
   }
 }
