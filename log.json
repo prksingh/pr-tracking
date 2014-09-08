@@ -1,5 +1,5 @@
 {
-  "timestamp": 1409924537000,
+  "timestamp": 1410193424000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2033,10 +2033,18 @@
           "added": [
             "Review"
           ]
+        },
+        "1410193424000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Review"
+        "Testing"
       ]
     },
     "8787": {
@@ -2100,11 +2108,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1410193424000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "8797": {
       "changes": {
@@ -2231,11 +2242,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1410193424000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "8838": {
       "changes": {
@@ -2747,7 +2761,7 @@
       "user": "le717",
       "created": 1409844548000,
       "state": "new",
-      "latestUserComment": 1409855838000
+      "latestUserComment": 1409940258000
     },
     "8964": {
       "title": "Italian language for Brackets 1.0 (#0.44)",
@@ -2777,32 +2791,69 @@
       "created": 1409877831000,
       "state": "new"
     },
-    "8976": {
-      "title": "Fix QuickView popover being in the wrong pane",
-      "assignee": null,
-      "user": "MarcelGerber",
-      "created": 1409880633000,
-      "state": "new"
-    },
     "8977": {
       "title": "Sort project list alphabetically",
       "assignee": null,
       "user": "brunnopleffken",
       "created": 1409886565000,
-      "state": "new"
-    },
-    "8979": {
-      "title": "ALF Automation",
-      "assignee": null,
-      "user": "walfgithub",
-      "created": 1409892858000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1409943391000
     },
     "8985": {
       "title": "Update to latest Source Sans Pro ",
       "assignee": null,
       "user": "le717",
       "created": 1409924537000,
+      "state": "new"
+    },
+    "8987": {
+      "title": "fix Issue #8953- \"Localizing package metadata in Extension Manager\"",
+      "assignee": null,
+      "user": "bchintx",
+      "created": 1409934137000,
+      "state": "new",
+      "latestUserComment": 1409982566000
+    },
+    "8992": {
+      "title": "Remove individual functions deprecated before 0.41",
+      "assignee": null,
+      "user": "le717",
+      "created": 1409945498000,
+      "state": "new"
+    },
+    "8995": {
+      "title": "Fix unit tests for non-english locales",
+      "assignee": null,
+      "user": "MarcelGerber",
+      "created": 1409954479000,
+      "state": "new"
+    },
+    "8997": {
+      "title": "Add status bar error indicator clear shortcut",
+      "assignee": null,
+      "user": "cheesypoof",
+      "created": 1409959164000,
+      "state": "new"
+    },
+    "9001": {
+      "title": "Use cm.findWordAt() in selectWordAt()",
+      "assignee": null,
+      "user": "MarcelGerber",
+      "created": 1410044298000,
+      "state": "new"
+    },
+    "9006": {
+      "title": "Get out of the infinite loop by allowing to scan backwards when the current token is a comment.",
+      "assignee": null,
+      "user": "RaymondLim",
+      "created": 1410110180000,
+      "state": "new"
+    },
+    "9015": {
+      "title": "Project manager revamp",
+      "assignee": null,
+      "user": "dangoor",
+      "created": 1410193390000,
       "state": "new"
     }
   }
