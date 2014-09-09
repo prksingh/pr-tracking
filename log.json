@@ -1,5 +1,5 @@
 {
-  "timestamp": 1410193424000,
+  "timestamp": 1410267762000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2257,10 +2257,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1410267762000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "8859": {
@@ -2626,15 +2634,6 @@
       "state": "triaged",
       "latestUserComment": 1407278976000
     },
-    "8680": {
-      "title": "Sprint -> Release",
-      "assignee": "ingorichter",
-      "user": "MarcelGerber",
-      "created": 1407368130000,
-      "state": "in triage",
-      "latestUserComment": 1407874349000,
-      "latestAssigneeComment": 1409154850000
-    },
     "8724": {
       "title": "Make anchors in Quick Docs relative to page URL",
       "assignee": null,
@@ -2662,7 +2661,9 @@
       "assignee": "redmunds",
       "user": "MarcelGerber",
       "created": 1407886618000,
-      "state": "in review"
+      "state": "in review",
+      "latestUserComment": 1410261817000,
+      "latestAssigneeComment": 1410202629000
     },
     "8794": {
       "title": "Smaller project panel text (by 1px).",
@@ -2708,7 +2709,7 @@
       "user": "RaymondLim",
       "created": 1409267350000,
       "state": "in review",
-      "latestUserComment": 1409351885000,
+      "latestUserComment": 1410237004000,
       "latestAssigneeComment": 1409792568000
     },
     "8910": {
@@ -2716,7 +2717,9 @@
       "assignee": "redmunds",
       "user": "MarcelGerber",
       "created": 1409314992000,
-      "state": "in review"
+      "state": "in review",
+      "latestUserComment": 1410265121000,
+      "latestAssigneeComment": 1410212924000
     },
     "8922": {
       "title": "Fix live dev highlight being out of place in edge cases",
@@ -2847,13 +2850,28 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1410110180000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1410225550000
     },
     "9015": {
       "title": "Project manager revamp",
       "assignee": null,
       "user": "dangoor",
       "created": 1410193390000,
+      "state": "new"
+    },
+    "9018": {
+      "title": "Clean up how Extension Manager handles long descriptions",
+      "assignee": "dangoor",
+      "user": "peterflynn",
+      "created": 1410217094000,
+      "state": "in triage"
+    },
+    "9021": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1410238439000,
       "state": "new"
     }
   }
