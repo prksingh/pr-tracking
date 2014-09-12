@@ -1,5 +1,5 @@
 {
-  "timestamp": 1410433303000,
+  "timestamp": 1410517105000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2426,6 +2426,18 @@
         "PR Triage Complete"
       ]
     },
+    "9001": {
+      "changes": {
+        "1410517105000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "9018": {
       "changes": {
         "1410350862000": {
@@ -2472,6 +2484,18 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "9062": {
+      "changes": {
+        "1410517105000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     }
   },
@@ -2768,7 +2792,7 @@
       "created": 1409267350000,
       "state": "in review",
       "latestUserComment": 1410298147000,
-      "latestAssigneeComment": 1410296808000
+      "latestAssigneeComment": 1410480457000
     },
     "8922": {
       "title": "Fix live dev highlight being out of place in edge cases",
@@ -2783,14 +2807,6 @@
       "user": "mccricardo",
       "created": 1409600349000,
       "state": "new"
-    },
-    "8949": {
-      "title": "Sidebar resize bug",
-      "assignee": null,
-      "user": "yashodhanmohan",
-      "created": 1409743141000,
-      "state": "triaged",
-      "latestUserComment": 1409746103000
     },
     "8950": {
       "title": "Updates the same URLs in all the other locales of the Getting Started project.",
@@ -2816,7 +2832,7 @@
       "latestUserComment": 1409940258000
     },
     "8964": {
-      "title": "Italian language for Brackets 1.0 (#0.44)",
+      "title": "Italian language for Brackets 0.44",
       "assignee": null,
       "user": "Denisov21",
       "created": 1409860235000,
@@ -2864,7 +2880,7 @@
       "user": "bchintx",
       "created": 1409934137000,
       "state": "new",
-      "latestUserComment": 1410321939000
+      "latestUserComment": 1410492014000
     },
     "8992": {
       "title": "Remove individual functions deprecated before 0.41",
@@ -2892,7 +2908,7 @@
       "assignee": null,
       "user": "MarcelGerber",
       "created": 1410044298000,
-      "state": "new"
+      "state": "triaged"
     },
     "9006": {
       "title": "Get out of the infinite loop by allowing to scan backwards when the current token is a comment.",
@@ -2924,15 +2940,6 @@
       "state": "triaged",
       "latestUserComment": 1410350256000
     },
-    "9034": {
-      "title": "Make Split View Panes Resizable",
-      "assignee": "redmunds",
-      "user": "JeffryBooher",
-      "created": 1410303580000,
-      "state": "in review",
-      "latestUserComment": 1410403053000,
-      "latestAssigneeComment": 1410380020000
-    },
     "9047": {
       "title": "Resolve the issue with the default scope being overriden",
       "assignee": "redmunds",
@@ -2940,25 +2947,55 @@
       "created": 1410362518000,
       "state": "in triage"
     },
-    "9051": {
-      "title": "[Review Only] Randy/splitview pane header",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1410366121000,
-      "state": "triaged"
-    },
     "9054": {
       "title": "Working Set View Extensibility",
       "assignee": null,
       "user": "JeffryBooher",
       "created": 1410375459000,
+      "state": "new",
+      "latestUserComment": 1410450645000
+    },
+    "9061": {
+      "title": "Removing cursor !important to allow themes easily override cursor colors",
+      "assignee": null,
+      "user": "MiguelCastillo",
+      "created": 1410444842000,
       "state": "new"
     },
-    "9057": {
-      "title": "Remove Arrow from Split View and FIx Open Next File issue",
+    "9065": {
+      "title": "Always Show the Statusbar",
       "assignee": null,
       "user": "JeffryBooher",
-      "created": 1410405769000,
+      "created": 1410463207000,
+      "state": "new"
+    },
+    "9069": {
+      "title": "[REVIEW ONLY] Simple Themes usability tweaks",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1410469577000,
+      "state": "new"
+    },
+    "9070": {
+      "title": "bringing back the triangle (partly) to fix 9067",
+      "assignee": null,
+      "user": "JeffryBooher",
+      "created": 1410476391000,
+      "state": "new"
+    },
+    "9072": {
+      "title": "Make Split View Panes Resizable",
+      "assignee": null,
+      "user": "JeffryBooher",
+      "created": 1410481255000,
+      "state": "new",
+      "latestUserComment": 1410487788000
+    },
+    "9073": {
+      "title": "Implement Pane Headers",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1410481895000,
       "state": "new"
     }
   }
