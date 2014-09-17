@@ -1,5 +1,5 @@
 {
-  "timestamp": 1410869877000,
+  "timestamp": 1410947158000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -616,10 +616,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1410947158000": {
+          "added": [
+            "Ready"
+          ]
         }
       },
       "current": [
-        "PR Triage Complete"
+        "PR Triage Complete",
+        "Ready"
       ]
     },
     "8177": {
@@ -2076,10 +2082,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1410947158000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "8789": {
@@ -2467,10 +2481,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1410947158000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Review"
       ]
     },
     "8995": {
@@ -2488,6 +2510,30 @@
     "9001": {
       "changes": {
         "1410517105000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9002": {
+      "changes": {
+        "1410947158000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "9006": {
+      "changes": {
+        "1410947158000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -2543,6 +2589,30 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "9037": {
+      "changes": {
+        "1410947158000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
+    },
+    "9044": {
+      "changes": {
+        "1410947158000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     },
     "9051": {
@@ -2913,8 +2983,8 @@
       "user": "peterflynn",
       "created": 1407227634000,
       "state": "in review",
-      "latestAssigneeComment": 1410821230000,
-      "latestUserComment": 1410829010000
+      "latestAssigneeComment": 1410940814000,
+      "latestUserComment": 1410935392000
     },
     "8667": {
       "title": "Fix focus jump from status bar to working set",
@@ -2930,14 +3000,6 @@
       "user": "MarcelGerber",
       "created": 1407794796000,
       "state": "triaged"
-    },
-    "8734": {
-      "title": "Add link to Troubleshooting page to Live Preview error messages",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1407860496000,
-      "state": "triaged",
-      "latestUserComment": 1408729883000
     },
     "8736": {
       "title": "Show LESS errors in console",
@@ -2960,7 +3022,8 @@
       "user": "chrispecoraro",
       "created": 1408873333000,
       "state": "in review",
-      "latestUserComment": 1408873362000
+      "latestUserComment": 1408873362000,
+      "latestAssigneeComment": 1410905470000
     },
     "8864": {
       "title": "Using box-shadow for link focus to stop links from shifting a few pixels when tabbed.",
@@ -2996,8 +3059,8 @@
       "user": "MarcelGerber",
       "created": 1409788696000,
       "state": "in triage",
-      "latestUserComment": 1409845375000,
-      "latestAssigneeComment": 1410829833000
+      "latestUserComment": 1410877817000,
+      "latestAssigneeComment": 1410900723000
     },
     "8960": {
       "title": "Remove CollectionUtils and StringUtils.htmlEscape()",
@@ -3028,7 +3091,8 @@
       "assignee": "JeffryBooher",
       "user": "MarcelGerber",
       "created": 1409877831000,
-      "state": "in review"
+      "state": "in review",
+      "latestAssigneeComment": 1410939813000
     },
     "8977": {
       "title": "Sort project list alphabetically",
@@ -3047,10 +3111,10 @@
     },
     "8987": {
       "title": "fix Issue #8953- \"Localizing package metadata in Extension Manager\"",
-      "assignee": null,
+      "assignee": "peterflynn",
       "user": "bchintx",
       "created": 1409934137000,
-      "state": "new",
+      "state": "in triage",
       "latestUserComment": 1410802651000
     },
     "8992": {
@@ -3086,7 +3150,7 @@
       "assignee": null,
       "user": "RaymondLim",
       "created": 1410110180000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1410621157000
     },
     "9015": {
@@ -3132,24 +3196,8 @@
       "assignee": "MiguelCastillo",
       "user": "peterflynn",
       "created": 1410469577000,
-      "state": "in triage"
-    },
-    "9093": {
-      "title": "Stop <select> menu from flickering.",
-      "assignee": "peterflynn",
-      "user": "larz0",
-      "created": 1410568968000,
       "state": "in triage",
-      "latestAssigneeComment": 1410817896000,
-      "latestUserComment": 1410809064000
-    },
-    "9094": {
-      "title": "Don't open next view during close all command",
-      "assignee": "RaymondLim",
-      "user": "JeffryBooher",
-      "created": 1410586726000,
-      "state": "in triage",
-      "latestUserComment": 1410593768000
+      "latestAssigneeComment": 1410899987000
     },
     "9097": {
       "title": "Enable UrlCodeHints for LESS/SCSS",
@@ -3179,41 +3227,57 @@
       "created": 1410724415000,
       "state": "triaged"
     },
-    "9109": {
-      "title": "Implement Split View Menus",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1410804878000,
-      "state": "new",
-      "latestUserComment": 1410827770000
-    },
-    "9110": {
-      "title": "Always show Working Set headers",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1410814167000,
-      "state": "new"
-    },
-    "9112": {
-      "title": "Split View Cosmetic Tweaks.",
-      "assignee": "redmunds",
-      "user": "larz0",
-      "created": 1410819703000,
-      "state": "in triage",
-      "latestAssigneeComment": 1410823360000
-    },
     "9115": {
       "title": "Fix bug #3963 (Home/End goes to start/end of entire line, not just current line-wrapped segment)",
       "assignee": null,
       "user": "peterflynn",
       "created": 1410852417000,
-      "state": "new"
+      "state": "new",
+      "latestUserComment": 1410933383000
     },
     "9116": {
       "title": "Romanian locale update",
       "assignee": null,
       "user": "micnic",
       "created": 1410857435000,
+      "state": "new"
+    },
+    "9122": {
+      "title": "Bug Fix #6822",
+      "assignee": null,
+      "user": "prateekagr98",
+      "created": 1410879345000,
+      "state": "new",
+      "latestUserComment": 1410926411000
+    },
+    "9134": {
+      "title": "fix some working set view issues",
+      "assignee": "redmunds",
+      "user": "JeffryBooher",
+      "created": 1410912934000,
+      "state": "in triage",
+      "latestUserComment": 1410937727000,
+      "latestAssigneeComment": 1410917579000
+    },
+    "9138": {
+      "title": "Hide Options icon when working set is hidden",
+      "assignee": null,
+      "user": "redmunds",
+      "created": 1410925880000,
+      "state": "new"
+    },
+    "9139": {
+      "title": "ALF Automation",
+      "assignee": null,
+      "user": "walfgithub",
+      "created": 1410929789000,
+      "state": "new"
+    },
+    "9140": {
+      "title": "Fix bug #8882 (Background flickers when opening themes dropdown)",
+      "assignee": null,
+      "user": "peterflynn",
+      "created": 1410931896000,
       "state": "new"
     }
   }
