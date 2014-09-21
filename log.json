@@ -1,5 +1,5 @@
 {
-  "timestamp": 1411042919000,
+  "timestamp": 1411267457000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2302,10 +2302,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1411267457000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "8846": {
@@ -2581,10 +2589,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1411267457000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "9034": {
@@ -2613,10 +2629,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1411267457000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Bug Fixing / DOD"
       ]
     },
     "9044": {
@@ -2633,10 +2657,18 @@
           "added": [
             "Review"
           ]
+        },
+        "1411267457000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Review"
+        "Testing"
       ]
     },
     "9051": {
@@ -2856,15 +2888,6 @@
       "state": "in triage",
       "latestUserComment": 1394656944000,
       "latestAssigneeComment": 1389737947000
-    },
-    "6513": {
-      "title": "Clicking an Image file in the project tree calls FileOpen command twice",
-      "assignee": "peterflynn",
-      "user": "couzteau",
-      "created": 1389684633000,
-      "state": "in triage",
-      "latestUserComment": 1401995182000,
-      "latestAssigneeComment": 1389748959000
     },
     "6594": {
       "title": "Full width inputs in the Search/Replace modal bars",
@@ -3137,14 +3160,6 @@
       "created": 1409924537000,
       "state": "new"
     },
-    "8987": {
-      "title": "fix Issue #8953- \"Localizing package metadata in Extension Manager\"",
-      "assignee": "peterflynn",
-      "user": "bchintx",
-      "created": 1409934137000,
-      "state": "in triage",
-      "latestUserComment": 1410802651000
-    },
     "8992": {
       "title": "Remove individual functions deprecated before 0.41",
       "assignee": null,
@@ -3301,19 +3316,6 @@
       "created": 1410996980000,
       "state": "new"
     },
-    "9153": {
-      "title": "Restore scroll position after Quick Open",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1411015712000,
-      "state": "new"
-    },
-    "9154": {
-      "title": "Show splitview icons in the sidebar popup menu",
-      "assignee": null,
-      "user": "peterflynn",
-      "created": 1411025546000,
-      "state": "new"
-    }
+    "9181": {}
   }
 }
