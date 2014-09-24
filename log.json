@@ -1,5 +1,5 @@
 {
-  "timestamp": 1411465784000,
+  "timestamp": 1411550688000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2098,10 +2098,18 @@
           "added": [
             "Testing"
           ]
+        },
+        "1411550688000": {
+          "removed": [
+            "Testing"
+          ],
+          "added": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
       "current": [
-        "Testing"
+        "Bug Fixing / DOD"
       ]
     },
     "8789": {
@@ -2197,10 +2205,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1411550688000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "8815": {
@@ -2318,11 +2334,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1411550688000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "8846": {
       "changes": {
@@ -2613,11 +2632,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1411550688000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9034": {
       "changes": {
@@ -2653,11 +2675,14 @@
           "added": [
             "Bug Fixing / DOD"
           ]
+        },
+        "1411550688000": {
+          "removed": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
-      "current": [
-        "Bug Fixing / DOD"
-      ]
+      "current": []
     },
     "9044": {
       "changes": {
@@ -2844,6 +2869,18 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "9233": {
+      "changes": {
+        "1411550688000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     }
   },
@@ -3131,13 +3168,6 @@
       "state": "new",
       "latestUserComment": 1409940258000
     },
-    "8967": {
-      "title": "Fix for #8958.",
-      "assignee": null,
-      "user": "larz0",
-      "created": 1409868237000,
-      "state": "new"
-    },
     "8971": {
       "title": "Sort Working Files locale-aware",
       "assignee": "ingorichter",
@@ -3274,13 +3304,6 @@
       "created": 1410724415000,
       "state": "triaged"
     },
-    "9116": {
-      "title": "Romanian locale update",
-      "assignee": null,
-      "user": "micnic",
-      "created": 1410857435000,
-      "state": "new"
-    },
     "9122": {
       "title": "Bug Fix #6822",
       "assignee": null,
@@ -3298,13 +3321,6 @@
       "latestUserComment": 1411021472000,
       "latestAssigneeComment": 1410987409000
     },
-    "9140": {
-      "title": "Fix bug #8882 (Background flickers when opening themes dropdown)",
-      "assignee": null,
-      "user": "peterflynn",
-      "created": 1410931896000,
-      "state": "new"
-    },
     "9147": {
       "title": "Don't MVM.updateLayout() until we're ready",
       "assignee": null,
@@ -3319,12 +3335,15 @@
       "created": 1410996980000,
       "state": "new"
     },
-    "9181": {},
     "9189": {},
     "9190": {},
     "9191": {},
     "9211": {},
-    "9212": {},
-    "9220": {}
+    "9226": {},
+    "9235": {},
+    "9239": {},
+    "9243": {},
+    "9245": {},
+    "9249": {}
   }
 }
