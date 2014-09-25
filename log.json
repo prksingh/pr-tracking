@@ -1,5 +1,5 @@
 {
-  "timestamp": 1411550688000,
+  "timestamp": 1411648384000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -249,6 +249,18 @@
       },
       "current": [
         "Development"
+      ]
+    },
+    "7774": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
       ]
     },
     "7820": {
@@ -1224,10 +1236,18 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1411648384000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Review"
       ]
     },
     "8332": {
@@ -1688,6 +1708,18 @@
         }
       },
       "current": []
+    },
+    "8666": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
     },
     "8667": {
       "changes": {
@@ -2524,11 +2556,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1411648384000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "8995": {
       "changes": {
@@ -2568,11 +2603,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1411648384000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "9006": {
       "changes": {
@@ -2733,11 +2771,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1411648384000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "9065": {
       "changes": {
@@ -2881,6 +2922,138 @@
       },
       "current": [
         "Ready"
+      ]
+    },
+    "9252": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "9255": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "9260": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "9267": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9268": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9270": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9271": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9272": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9273": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9274": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
+    "9278": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     }
   },
@@ -3132,13 +3305,6 @@
       "latestUserComment": 1408873362000,
       "latestAssigneeComment": 1410905470000
     },
-    "8864": {
-      "title": "Using box-shadow for link focus to stop links from shifting a few pixels when tabbed.",
-      "assignee": null,
-      "user": "larz0",
-      "created": 1409026544000,
-      "state": "triaged"
-    },
     "8922": {
       "title": "Fix live dev highlight being out of place in edge cases",
       "assignee": null,
@@ -3167,15 +3333,6 @@
       "created": 1409844548000,
       "state": "new",
       "latestUserComment": 1409940258000
-    },
-    "8971": {
-      "title": "Sort Working Files locale-aware",
-      "assignee": "ingorichter",
-      "user": "MarcelGerber",
-      "created": 1409876939000,
-      "state": "in review",
-      "latestUserComment": 1410869291000,
-      "latestAssigneeComment": 1410818641000
     },
     "8972": {
       "title": "Add \"showCursorWhenSelecting\" pref",
@@ -3230,14 +3387,6 @@
       "created": 1410044298000,
       "state": "triaged"
     },
-    "9006": {
-      "title": "Get out of the infinite loop by allowing to scan backwards when the current token is a comment.",
-      "assignee": null,
-      "user": "RaymondLim",
-      "created": 1410110180000,
-      "state": "triaged",
-      "latestUserComment": 1410621157000
-    },
     "9028": {
       "title": "Improve LocalizationExample extension & nls README instructions",
       "assignee": null,
@@ -3260,13 +3409,6 @@
       "created": 1410375459000,
       "state": "new",
       "latestUserComment": 1410450645000
-    },
-    "9061": {
-      "title": "Removing cursor !important to allow themes easily override cursor colors",
-      "assignee": null,
-      "user": "MiguelCastillo",
-      "created": 1410444842000,
-      "state": "new"
     },
     "9069": {
       "title": "[REVIEW ONLY] Simple Themes usability tweaks",
@@ -3321,13 +3463,6 @@
       "latestUserComment": 1411021472000,
       "latestAssigneeComment": 1410987409000
     },
-    "9147": {
-      "title": "Don't MVM.updateLayout() until we're ready",
-      "assignee": null,
-      "user": "JeffryBooher",
-      "created": 1410987477000,
-      "state": "new"
-    },
     "9150": {
       "title": "Update scroll metrics in all viewed editors",
       "assignee": null,
@@ -3340,10 +3475,12 @@
     "9191": {},
     "9211": {},
     "9226": {},
-    "9235": {},
     "9239": {},
     "9243": {},
-    "9245": {},
-    "9249": {}
+    "9263": {},
+    "9265": {},
+    "9266": {},
+    "9279": {},
+    "9280": {}
   }
 }
