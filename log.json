@@ -1,5 +1,5 @@
 {
-  "timestamp": 1411648384000,
+  "timestamp": 1411734376000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -2942,11 +2942,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1411734376000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9260": {
       "changes": {
@@ -2954,11 +2957,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1411734376000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9267": {
       "changes": {
@@ -3044,9 +3050,9 @@
         "Waiting/Dependent"
       ]
     },
-    "9278": {
+    "9277": {
       "changes": {
-        "1411648384000": {
+        "1411734376000": {
           "added": [
             "Development"
           ]
@@ -3054,6 +3060,26 @@
       },
       "current": [
         "Development"
+      ]
+    },
+    "9278": {
+      "changes": {
+        "1411648384000": {
+          "added": [
+            "Development"
+          ]
+        },
+        "1411734376000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Testing"
+          ]
+        }
+      },
+      "current": [
+        "Testing"
       ]
     }
   },
@@ -3402,14 +3428,6 @@
       "state": "triaged",
       "latestUserComment": 1410350256000
     },
-    "9054": {
-      "title": "Working Set View Extensibility",
-      "assignee": null,
-      "user": "JeffryBooher",
-      "created": 1410375459000,
-      "state": "new",
-      "latestUserComment": 1410450645000
-    },
     "9069": {
       "title": "[REVIEW ONLY] Simple Themes usability tweaks",
       "assignee": "MiguelCastillo",
@@ -3437,13 +3455,6 @@
       "assignee": null,
       "user": "MarcelGerber",
       "created": 1410724359000,
-      "state": "triaged"
-    },
-    "9105": {
-      "title": "Update Persian translation",
-      "assignee": null,
-      "user": "mohammadyaghobi",
-      "created": 1410724415000,
       "state": "triaged"
     },
     "9122": {
@@ -3476,11 +3487,12 @@
     "9211": {},
     "9226": {},
     "9239": {},
-    "9243": {},
-    "9263": {},
     "9265": {},
-    "9266": {},
-    "9279": {},
-    "9280": {}
+    "9280": {},
+    "9287": {},
+    "9288": {},
+    "9297": {},
+    "9298": {},
+    "9299": {}
   }
 }
