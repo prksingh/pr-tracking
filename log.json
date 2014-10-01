@@ -1,5 +1,5 @@
 {
-  "timestamp": 1412080739000,
+  "timestamp": 1412159841000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -217,11 +217,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "7708": {
       "changes": {
@@ -1727,10 +1730,18 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Ready"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Ready"
       ]
     },
     "8667": {
@@ -1991,6 +2002,18 @@
         "Ready"
       ]
     },
+    "8768": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
+      ]
+    },
     "8770": {
       "changes": {
         "1408530686000": {
@@ -2099,11 +2122,14 @@
           "added": [
             "Bug Fixing / DOD"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
-      "current": [
-        "Bug Fixing / DOD"
-      ]
+      "current": []
     },
     "8787": {
       "changes": {
@@ -2170,11 +2196,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "8790": {
       "changes": {
@@ -2213,11 +2242,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "8798": {
       "changes": {
@@ -2225,11 +2257,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "8810": {
       "changes": {
@@ -2822,11 +2857,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9089": {
       "changes": {
@@ -2834,11 +2872,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9090": {
       "changes": {
@@ -2846,11 +2887,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9091": {
       "changes": {
@@ -2858,11 +2902,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9092": {
       "changes": {
@@ -2870,11 +2917,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9097": {
       "changes": {
@@ -2930,11 +2980,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9233": {
       "changes": {
@@ -2996,11 +3049,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9260": {
       "changes": {
@@ -3023,11 +3079,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9268": {
       "changes": {
@@ -3047,11 +3106,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9271": {
       "changes": {
@@ -3059,11 +3121,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9272": {
       "changes": {
@@ -3071,11 +3136,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9273": {
       "changes": {
@@ -3083,11 +3151,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9274": {
       "changes": {
@@ -3095,11 +3166,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9277": {
       "changes": {
@@ -3136,6 +3210,42 @@
         "Testing"
       ]
     },
+    "9291": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "9300": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Testing"
+          ]
+        }
+      },
+      "current": [
+        "Testing"
+      ]
+    },
+    "9301": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Testing"
+          ]
+        }
+      },
+      "current": [
+        "Testing"
+      ]
+    },
     "9303": {
       "changes": {
         "1411987939000": {
@@ -3156,16 +3266,48 @@
         "Testing"
       ]
     },
+    "9313": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Testing"
+          ]
+        }
+      },
+      "current": [
+        "Testing"
+      ]
+    },
+    "9316": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Testing"
+          ]
+        }
+      },
+      "current": [
+        "Testing"
+      ]
+    },
     "9321": {
       "changes": {
         "1411987939000": {
           "added": [
             "Ready"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "9323": {
@@ -3192,9 +3334,36 @@
         "Waiting/Dependent"
       ]
     },
+    "9327": {
+      "changes": {
+        "1412159841000": {
+          "added": [
+            "Testing"
+          ]
+        }
+      },
+      "current": [
+        "Testing"
+      ]
+    },
     "9328": {
       "changes": {
         "1412080739000": {
+          "added": [
+            "Testing"
+          ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Testing"
+          ]
+        }
+      },
+      "current": []
+    },
+    "9358": {
+      "changes": {
+        "1412159841000": {
           "added": [
             "Testing"
           ]
@@ -3210,11 +3379,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1412159841000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     }
   },
   "pullRequests": {
@@ -3603,13 +3775,10 @@
     "9189": {},
     "9190": {},
     "9191": {},
-    "9226": {},
     "9347": {},
-    "9353": {},
-    "9355": {},
     "9365": {},
-    "9371": {},
     "9372": {},
-    "9373": {}
+    "9376": {},
+    "9384": {}
   }
 }
