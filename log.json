@@ -1,5 +1,5 @@
 {
-  "timestamp": 1412255753000,
+  "timestamp": 1412950521000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -93,11 +93,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "6854": {
       "changes": {
@@ -117,11 +120,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "7227": {
       "changes": {
@@ -300,11 +306,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "7820": {
       "changes": {
@@ -676,11 +685,15 @@
           "added": [
             "Ready"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
       "current": [
-        "PR Triage Complete",
-        "Ready"
+        "PR Triage Complete"
       ]
     },
     "8177": {
@@ -1025,9 +1038,15 @@
             "PR Triage Complete",
             "Review"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
       "current": [
+        "Bug Fixing / DOD",
         "PR Triage Complete",
         "Review"
       ]
@@ -1259,11 +1278,14 @@
           "added": [
             "Done"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Done"
+          ]
         }
       },
-      "current": [
-        "Done"
-      ]
+      "current": []
     },
     "8330": {
       "changes": {
@@ -2039,10 +2061,18 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Review"
       ]
     },
     "8770": {
@@ -2207,11 +2237,14 @@
           "added": [
             "Bug Fixing / DOD"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Bug Fixing / DOD"
+          ]
         }
       },
-      "current": [
-        "Bug Fixing / DOD"
-      ]
+      "current": []
     },
     "8789": {
       "changes": {
@@ -2578,8 +2611,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "8949": {
       "changes": {
@@ -2611,8 +2652,28 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "8967": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "8971": {
       "changes": {
@@ -2667,8 +2728,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "8985": {
       "changes": {
@@ -2676,8 +2745,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "8992": {
       "changes": {
@@ -2709,8 +2786,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "9001": {
       "changes": {
@@ -2777,8 +2862,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "9030": {
       "changes": {
@@ -2900,6 +2993,30 @@
     "9051": {
       "changes": {
         "1410433303000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9054": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9061": {
+      "changes": {
+        "1412950521000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -3077,8 +3194,40 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9150": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9181": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "9189": {
       "changes": {
@@ -3110,8 +3259,16 @@
           "added": [
             "PR Triage Complete"
           ]
+        },
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
         }
-      }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
     },
     "9196": {
       "changes": {
@@ -3134,15 +3291,11 @@
           "added": [
             "Waiting/Dependent"
           ]
-        }
-      },
-      "current": [
-        "Waiting/Dependent"
-      ]
-    },
-    "9233": {
-      "changes": {
-        "1411550688000": {
+        },
+        "1412950521000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
           "added": [
             "Ready"
           ]
@@ -3152,17 +3305,52 @@
         "Ready"
       ]
     },
+    "9226": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9233": {
+      "changes": {
+        "1411550688000": {
+          "added": [
+            "Ready"
+          ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
     "9251": {
       "changes": {
         "1412080739000": {
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9252": {
       "changes": {
@@ -3178,11 +3366,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9255": {
       "changes": {
@@ -3355,11 +3546,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9291": {
       "changes": {
@@ -3375,10 +3569,30 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Testing"
+      ]
+    },
+    "9298": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
       ]
     },
     "9300": {
@@ -3387,11 +3601,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9301": {
       "changes": {
@@ -3399,11 +3616,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9303": {
       "changes": {
@@ -3419,11 +3639,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9313": {
       "changes": {
@@ -3431,11 +3654,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9316": {
       "changes": {
@@ -3466,11 +3692,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9323": {
       "changes": {
@@ -3478,11 +3707,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9324": {
       "changes": {
@@ -3490,11 +3722,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "9327": {
       "changes": {
@@ -3502,11 +3737,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9328": {
       "changes": {
@@ -3529,11 +3767,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1412950521000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9368": {
       "changes": {
@@ -3562,9 +3803,33 @@
         "PR Triage Complete"
       ]
     },
+    "9373": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
     "9376": {
       "changes": {
         "1412255753000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9385": {
+      "changes": {
+        "1412950521000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -3613,6 +3878,78 @@
     "9394": {
       "changes": {
         "1412255753000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9422": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9434": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9439": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "Review"
+          ]
+        }
+      },
+      "current": [
+        "Review"
+      ]
+    },
+    "9469": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "PR Triage Complete"
+          ]
+        }
+      },
+      "current": [
+        "PR Triage Complete"
+      ]
+    },
+    "9486": {
+      "changes": {
+        "1412950521000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "9493": {
+      "changes": {
+        "1412950521000": {
           "added": [
             "PR Triage Complete"
           ]
@@ -3823,15 +4160,6 @@
       "state": "triaged",
       "latestUserComment": 1407522095000
     },
-    "8659": {
-      "title": "Show cause of error when opening drag-&-dropped files fails",
-      "assignee": "JeffryBooher",
-      "user": "peterflynn",
-      "created": 1407227634000,
-      "state": "in review",
-      "latestAssigneeComment": 1411018562000,
-      "latestUserComment": 1411027051000
-    },
     "8724": {
       "title": "Make anchors in Quick Docs relative to page URL",
       "assignee": null,
@@ -3889,17 +4217,8 @@
       "assignee": null,
       "user": "le717",
       "created": 1409844548000,
-      "state": "new",
+      "state": "triaged",
       "latestUserComment": 1409940258000
-    },
-    "8972": {
-      "title": "Add \"showCursorWhenSelecting\" pref",
-      "assignee": "JeffryBooher",
-      "user": "MarcelGerber",
-      "created": 1409877831000,
-      "state": "in review",
-      "latestAssigneeComment": 1410939813000,
-      "latestUserComment": 1410970692000
     },
     "8977": {
       "title": "Sort project list alphabetically",
@@ -3968,13 +4287,6 @@
       "state": "in triage",
       "latestAssigneeComment": 1410899987000
     },
-    "9097": {
-      "title": "Enable UrlCodeHints for LESS/SCSS",
-      "assignee": null,
-      "user": "MarcelGerber",
-      "created": 1410598518000,
-      "state": "triaged"
-    },
     "9104": {
       "title": "Introduce LocalizationUtils.languages, .userLanguages",
       "assignee": null,
@@ -3990,33 +4302,23 @@
       "state": "new",
       "latestUserComment": 1411011609000
     },
-    "9134": {
-      "title": "fix some working set view issues",
-      "assignee": "redmunds",
-      "user": "JeffryBooher",
-      "created": 1410912934000,
-      "state": "in triage",
-      "latestUserComment": 1411021472000,
-      "latestAssigneeComment": 1410987409000
-    },
-    "9150": {
-      "title": "Update scroll metrics in all viewed editors",
-      "assignee": null,
-      "user": "redmunds",
-      "created": 1410996980000,
-      "state": "new"
-    },
     "9189": {},
     "9190": {},
     "9191": {},
     "9347": {},
     "9365": {},
-    "9372": {},
-    "9376": {},
-    "9385": {},
     "9387": {},
     "9392": {},
-    "9394": {},
-    "9396": {}
+    "9396": {},
+    "9468": {},
+    "9470": {},
+    "9477": {},
+    "9488": {},
+    "9490": {},
+    "9495": {},
+    "9497": {},
+    "9498": {},
+    "9506": {},
+    "9512": {}
   }
 }
