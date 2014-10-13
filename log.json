@@ -1,5 +1,5 @@
 {
-  "timestamp": 1412950521000,
+  "timestamp": 1413202597000,
   "issueLabels": {
     "4690": {
       "changes": {
@@ -3845,11 +3845,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1413202597000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "9390": {
       "changes": {
@@ -4136,14 +4139,6 @@
       "state": "in review",
       "latestUserComment": 1406508792000
     },
-    "8310": {
-      "title": "[REVIEW ONLY] Add Find Whole Word functionality",
-      "assignee": null,
-      "user": "MarcelGerber",
-      "created": 1404511546000,
-      "state": "triaged",
-      "latestUserComment": 1407874514000
-    },
     "8375": {
       "title": "[Review Only] Create a list of long running promises and quit only when all of them are done.",
       "assignee": "redmunds",
@@ -4242,14 +4237,6 @@
       "created": 1409945498000,
       "state": "new"
     },
-    "8995": {
-      "title": "Fix unit tests for non-english locales",
-      "assignee": null,
-      "user": "MarcelGerber",
-      "created": 1409954479000,
-      "state": "triaged",
-      "latestUserComment": 1410971644000
-    },
     "8997": {
       "title": "Add status bar error indicator clear shortcut",
       "assignee": null,
@@ -4312,13 +4299,19 @@
     "9396": {},
     "9468": {},
     "9470": {},
-    "9477": {},
     "9488": {},
     "9490": {},
     "9495": {},
     "9497": {},
     "9498": {},
     "9506": {},
-    "9512": {}
+    "9512": {},
+    "9521": {},
+    "9522": {},
+    "9526": {},
+    "9527": {},
+    "9530": {},
+    "9533": {},
+    "9536": {}
   }
 }
