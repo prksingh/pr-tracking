@@ -1,5 +1,5 @@
 {
-  "timestamp": 1414595136000,
+  "timestamp": 1414669433000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -319,10 +319,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1414669433000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "7670": {
@@ -4721,11 +4729,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1414669433000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "9699": {
       "changes": {
@@ -4733,10 +4744,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1414669433000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "9706": {
@@ -5059,9 +5078,8 @@
     "9669": {},
     "9673": {},
     "9686": {},
-    "9721": {},
-    "9728": {},
-    "9730": {},
-    "9735": {}
+    "9735": {},
+    "9737": {},
+    "9743": {}
   }
 }
