@@ -1,5 +1,5 @@
 {
-  "timestamp": 1416503065000,
+  "timestamp": 1416617983000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -246,10 +246,18 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1416617983000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Testing"
       ]
     },
     "7555": {
@@ -385,10 +393,18 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1416617983000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Development"
       ]
     },
     "7708": {
@@ -4970,11 +4986,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1416617983000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "9876": {
       "changes": {
@@ -5103,6 +5122,18 @@
       "current": [
         "Development"
       ]
+    },
+    "9981": {
+      "changes": {
+        "1416617983000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
     }
   },
   "pullRequests": {
@@ -5122,15 +5153,6 @@
       "state": "in triage",
       "latestAssigneeComment": 1403113551000,
       "latestUserComment": 1403015556000
-    },
-    "6099": {
-      "title": "For #6093: Added button to show all results in a list",
-      "assignee": null,
-      "user": "SAPlayer",
-      "created": 1385319064000,
-      "state": "triaged",
-      "latestAssigneeComment": 1403202489000,
-      "latestUserComment": 1404917356000
     },
     "6325": {
       "title": "Resize QuickOpen results if the window size is changed, and add scroll bars",
@@ -5158,14 +5180,6 @@
       "latestUserComment": 1394656944000,
       "latestAssigneeComment": 1389737947000
     },
-    "6594": {
-      "title": "Full width inputs in the Search/Replace modal bars",
-      "assignee": "peterflynn",
-      "user": "TomMalbran",
-      "created": 1390188336000,
-      "state": "in triage",
-      "latestUserComment": 1398726651000
-    },
     "6854": {
       "title": "Add browser zoom commands",
       "assignee": "JeffryBooher",
@@ -5182,15 +5196,6 @@
       "created": 1395126464000,
       "state": "in review"
     },
-    "7306": {
-      "title": "use Chinese punctuation,add new item for string.js",
-      "assignee": "RaymondLim",
-      "user": "michaeljayt",
-      "created": 1395640571000,
-      "state": "in triage",
-      "latestUserComment": 1396913663000,
-      "latestAssigneeComment": 1395803303000
-    },
     "7337": {
       "title": "Fix for #6904 - Pressing [Enter] in Extension Manager Search box closes Extension Manager",
       "assignee": null,
@@ -5206,13 +5211,6 @@
       "created": 1396234686000,
       "state": "new",
       "latestUserComment": 1403530834000
-    },
-    "7759": {
-      "title": "实施预览 -> 实时预览",
-      "assignee": "RaymondLim",
-      "user": "XadillaX",
-      "created": 1399366089000,
-      "state": "in triage"
     },
     "7789": {
       "title": "Display current project name in main window",
@@ -5247,14 +5245,6 @@
       "created": 1403888794000,
       "state": "in review",
       "latestUserComment": 1406508792000
-    },
-    "8375": {
-      "title": "[Review Only] Create a list of long running promises and quit only when all of them are done.",
-      "assignee": "redmunds",
-      "user": "RaymondLim",
-      "created": 1405294683000,
-      "state": "in review",
-      "latestAssigneeComment": 1405532848000
     },
     "8658": {
       "title": "Restore 'browser: false' to Brackets core's JSLint setup",
@@ -5340,10 +5330,8 @@
       "latestUserComment": 1411011609000
     },
     "9189": {},
-    "9190": {},
     "9191": {},
     "9387": {},
-    "9392": {},
     "9396": {},
     "9526": {},
     "9540": {},
@@ -5363,13 +5351,9 @@
     "9775": {},
     "9777": {},
     "9784": {},
-    "9791": {},
     "9829": {},
-    "9835": {},
-    "9870": {},
     "9872": {},
     "9873": {},
-    "9874": {},
     "9876": {},
     "9885": {},
     "9901": {},
@@ -5378,13 +5362,14 @@
     "9918": {},
     "9932": {},
     "9940": {},
-    "9952": {},
     "9961": {},
     "9964": {},
-    "9967": {},
     "9968": {},
     "9969": {},
     "9971": {},
-    "9973": {}
+    "9973": {},
+    "9993": {},
+    "9994": {},
+    "9995": {}
   }
 }
