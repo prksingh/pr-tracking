@@ -1,5 +1,5 @@
 {
-  "timestamp": 1416920087000,
+  "timestamp": 1417033980000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -476,11 +476,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1417033980000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "7820": {
       "changes": {
@@ -5033,11 +5036,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1417033980000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "9905": {
       "changes": {
@@ -5144,11 +5150,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1417033980000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9981": {
       "changes": {
@@ -5250,14 +5259,6 @@
       "created": 1396234686000,
       "state": "new",
       "latestUserComment": 1403530834000
-    },
-    "7789": {
-      "title": "Display current project name in main window",
-      "assignee": "peterflynn",
-      "user": "le717",
-      "created": 1399581531000,
-      "state": "in triage",
-      "latestUserComment": 1408730265000
     },
     "7875": {
       "title": "Reveal cursor on panel expand",
@@ -5394,22 +5395,21 @@
     "9872": {},
     "9873": {},
     "9876": {},
-    "9901": {},
     "9905": {},
     "9915": {},
     "9932": {},
-    "9940": {},
     "9964": {},
     "9968": {},
     "9969": {},
     "9971": {},
     "9973": {},
     "9993": {},
-    "9994": {},
-    "9995": {},
     "10000": {},
     "10010": {},
-    "10011": {},
-    "10012": {}
+    "10012": {},
+    "10019": {},
+    "10020": {},
+    "10022": {},
+    "10024": {}
   }
 }
