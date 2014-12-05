@@ -1,5 +1,5 @@
 {
-  "timestamp": 1417707235000,
+  "timestamp": 1417788143000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -274,10 +274,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "7555": {
@@ -429,10 +437,18 @@
           "added": [
             "Review"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Review"
+        "Testing"
       ]
     },
     "7708": {
@@ -4428,11 +4444,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "9422": {
       "changes": {
@@ -4598,6 +4617,18 @@
         "PR Triage Complete"
       ]
     },
+    "9547": {
+      "changes": {
+        "1417788143000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
     "9557": {
       "changes": {
         "1415891577000": {
@@ -4721,11 +4752,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9627": {
       "changes": {
@@ -5144,11 +5178,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9915": {
       "changes": {
@@ -5270,11 +5307,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9981": {
       "changes": {
@@ -5290,6 +5330,18 @@
         }
       },
       "current": []
+    },
+    "9984": {
+      "changes": {
+        "1417788143000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
     },
     "9987": {
       "changes": {
@@ -5313,6 +5365,18 @@
         }
       },
       "current": []
+    },
+    "9999": {
+      "changes": {
+        "1417788143000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
     },
     "10022": {
       "changes": {
@@ -5340,11 +5404,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1417788143000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "10060": {
       "changes": {
@@ -5368,6 +5435,18 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "10084": {
+      "changes": {
+        "1417788143000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     }
   },
@@ -5566,7 +5645,6 @@
     "9743": {},
     "9752": {},
     "9775": {},
-    "9777": {},
     "9784": {},
     "9829": {},
     "9876": {},
@@ -5583,7 +5661,9 @@
     "10039": {},
     "10062": {},
     "10065": {},
-    "10069": {},
-    "10072": {}
+    "10087": {},
+    "10088": {},
+    "10091": {},
+    "10093": {}
   }
 }
