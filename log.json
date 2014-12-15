@@ -1,5 +1,5 @@
 {
-  "timestamp": 1418391409000,
+  "timestamp": 1418666324000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -254,11 +254,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1418666324000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "7362": {
       "changes": {
@@ -2091,10 +2094,18 @@
           "added": [
             "Review"
           ]
+        },
+        "1418666324000": {
+          "removed": [
+            "Review"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Review"
+        "Testing"
       ]
     },
     "8667": {
@@ -5156,10 +5167,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1418666324000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Testing"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Testing"
       ]
     },
     "9829": {
@@ -5670,10 +5689,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1418666324000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Waiting/Dependent"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Waiting/Dependent"
       ]
     },
     "10109": {
@@ -5729,10 +5756,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1418666324000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "10117": {
@@ -5801,11 +5836,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1418666324000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     }
   },
   "pullRequests": {
@@ -5996,23 +6034,18 @@
     "9876": {},
     "9932": {},
     "9964": {},
-    "9969": {},
     "9971": {},
     "9993": {},
     "10000": {},
     "10019": {},
-    "10034": {},
     "10036": {},
-    "10062": {},
     "10087": {},
     "10108": {},
-    "10109": {},
     "10122": {},
     "10128": {},
     "10139": {},
     "10141": {},
     "10150": {},
-    "10151": {},
-    "10156": {}
+    "10151": {}
   }
 }
