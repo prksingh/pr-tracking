@@ -1,5 +1,5 @@
 {
-  "timestamp": 1418666324000,
+  "timestamp": 1418738527000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -2102,11 +2102,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1418738527000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "8667": {
       "changes": {
@@ -5095,11 +5098,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1418738527000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9775": {
       "changes": {
@@ -5844,6 +5850,18 @@
         }
       },
       "current": []
+    },
+    "10175": {
+      "changes": {
+        "1418738527000": {
+          "added": [
+            "Ready"
+          ]
+        }
+      },
+      "current": [
+        "Ready"
+      ]
     }
   },
   "pullRequests": {
@@ -6046,6 +6064,7 @@
     "10139": {},
     "10141": {},
     "10150": {},
-    "10151": {}
+    "10151": {},
+    "10185": {}
   }
 }
