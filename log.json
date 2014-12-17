@@ -1,5 +1,5 @@
 {
-  "timestamp": 1418738527000,
+  "timestamp": 1418825354000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -3548,11 +3548,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1418825354000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9090": {
       "changes": {
@@ -5181,11 +5184,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1418825354000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9829": {
       "changes": {
@@ -5857,10 +5863,42 @@
           "added": [
             "Ready"
           ]
+        },
+        "1418825354000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
+      ]
+    },
+    "10196": {
+      "changes": {
+        "1418825354000": {
+          "added": [
+            "Ready"
+          ]
         }
       },
       "current": [
         "Ready"
+      ]
+    },
+    "10201": {
+      "changes": {
+        "1418825354000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     }
   },
@@ -6065,6 +6103,8 @@
     "10141": {},
     "10150": {},
     "10151": {},
-    "10185": {}
+    "10192": {},
+    "10198": {},
+    "10201": {}
   }
 }
