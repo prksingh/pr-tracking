@@ -1,5 +1,5 @@
 {
-  "timestamp": 1420542651000,
+  "timestamp": 1420649133000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -4698,11 +4698,14 @@
           "added": [
             "Testing"
           ]
+        },
+        "1420649133000": {
+          "removed": [
+            "Testing"
+          ]
         }
       },
-      "current": [
-        "Testing"
-      ]
+      "current": []
     },
     "9557": {
       "changes": {
@@ -5729,10 +5732,18 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1420649133000": {
+          "removed": [
+            "Waiting/Dependent"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Review"
       ]
     },
     "10085": {
@@ -5936,10 +5947,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1420649133000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Ready"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Ready"
       ]
     },
     "10196": {
@@ -5987,10 +6006,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1420649133000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "10238": {
@@ -6257,13 +6284,14 @@
     "10275": {},
     "10283": {},
     "10285": {},
-    "10288": {},
     "10294": {},
-    "10295": {},
     "10300": {},
     "10303": {},
     "10304": {},
     "10308": {},
-    "10312": {}
+    "10312": {},
+    "10320": {},
+    "10321": {},
+    "10324": {}
   }
 }
