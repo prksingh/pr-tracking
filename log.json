@@ -1,5 +1,5 @@
 {
-  "timestamp": 1421154637000,
+  "timestamp": 1421245204000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -5122,11 +5122,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1421245204000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "9770": {
       "changes": {
@@ -6055,11 +6058,14 @@
           "added": [
             "Review"
           ]
+        },
+        "1421245204000": {
+          "removed": [
+            "Review"
+          ]
         }
       },
-      "current": [
-        "Review"
-      ]
+      "current": []
     },
     "10224": {
       "changes": {
@@ -6234,15 +6240,6 @@
     }
   },
   "pullRequests": {
-    "5316": {
-      "title": "Guard against concurrent array mutation in Async.doInParallel",
-      "assignee": "peterflynn",
-      "user": "iwehrman",
-      "created": 1379982115000,
-      "state": "in triage",
-      "latestAssigneeComment": 1403113551000,
-      "latestUserComment": 1403015556000
-    },
     "6325": {
       "title": "Resize QuickOpen results if the window size is changed, and add scroll bars",
       "assignee": "peterflynn",
@@ -6418,17 +6415,19 @@
     "10300": {},
     "10303": {},
     "10304": {},
-    "10308": {},
     "10312": {},
     "10320": {},
     "10321": {},
     "10331": {},
     "10338": {},
     "10342": {},
-    "10343": {},
     "10346": {},
     "10350": {},
     "10358": {},
-    "10364": {}
+    "10364": {},
+    "10366": {},
+    "10368": {},
+    "10369": {},
+    "10372": {}
   }
 }
