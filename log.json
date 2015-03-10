@@ -1,5 +1,5 @@
 {
-  "timestamp": 1425038805000,
+  "timestamp": 1425989650000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -5488,10 +5488,18 @@
           "added": [
             "Ready"
           ]
+        },
+        "1425989650000": {
+          "removed": [
+            "Ready"
+          ],
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Ready"
+        "Development"
       ]
     },
     "9952": {
@@ -6155,11 +6163,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1425989650000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "10242": {
       "changes": {
@@ -6310,11 +6321,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1425989650000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "10521": {
       "changes": {
@@ -6326,6 +6340,18 @@
       },
       "current": [
         "Ready"
+      ]
+    },
+    "10578": {
+      "changes": {
+        "1425989650000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     },
     "10585": {
@@ -6427,13 +6453,6 @@
       "user": "mccricardo",
       "created": 1409600349000,
       "state": "new"
-    },
-    "8950": {
-      "title": "Updates the same URLs in all the other locales of the Getting Started project.",
-      "assignee": null,
-      "user": "wormeyman",
-      "created": 1409762078000,
-      "state": "triaged"
     },
     "8977": {
       "title": "Sort project list alphabetically",
@@ -6537,10 +6556,8 @@
     "10434": {},
     "10453": {},
     "10456": {},
-    "10459": {},
     "10468": {},
     "10474": {},
-    "10477": {},
     "10502": {},
     "10522": {},
     "10524": {},
@@ -6552,13 +6569,19 @@
     "10592": {},
     "10596": {},
     "10602": {},
-    "10641": {},
     "10642": {},
-    "10643": {},
-    "10645": {},
     "10647": {},
-    "10648": {},
-    "10652": {},
-    "10653": {}
+    "10653": {},
+    "10681": {},
+    "10685": {},
+    "10689": {},
+    "10702": {},
+    "10705": {},
+    "10708": {},
+    "10713": {},
+    "10716": {},
+    "10726": {},
+    "10727": {},
+    "10729": {}
   }
 }
