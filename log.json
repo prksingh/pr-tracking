@@ -1,5 +1,5 @@
 {
-  "timestamp": 1427885969000,
+  "timestamp": 1427963277000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -6275,6 +6275,18 @@
       },
       "current": [
         "PR Triage Complete"
+      ]
+    },
+    "10330": {
+      "changes": {
+        "1427963277000": {
+          "added": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": [
+        "Waiting/Dependent"
       ]
     },
     "10350": {
