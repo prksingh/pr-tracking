@@ -1,5 +1,5 @@
 {
-  "timestamp": 1428392296000,
+  "timestamp": 1428482400000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -6283,11 +6283,14 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1428482400000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
         }
       },
-      "current": [
-        "Waiting/Dependent"
-      ]
+      "current": []
     },
     "10350": {
       "changes": {
@@ -6452,13 +6455,6 @@
       "latestUserComment": 1402677048000,
       "latestAssigneeComment": 1406136802000
     },
-    "7227": {
-      "title": "Replace 'smart autocomplete' with a purpose-built QuickSearchField module",
-      "assignee": "ingorichter",
-      "user": "peterflynn",
-      "created": 1395126464000,
-      "state": "in review"
-    },
     "7337": {
       "title": "Fix for #6904 - Pressing [Enter] in Extension Manager Search box closes Extension Manager",
       "assignee": null,
@@ -6564,7 +6560,6 @@
     "10300": {},
     "10304": {},
     "10320": {},
-    "10321": {},
     "10331": {},
     "10342": {},
     "10346": {},
@@ -6607,7 +6602,7 @@
     "10819": {},
     "10822": {},
     "10830": {},
-    "10831": {},
-    "10834": {}
+    "10843": {},
+    "10844": {}
   }
 }
