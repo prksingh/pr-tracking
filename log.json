@@ -1,5 +1,5 @@
 {
-  "timestamp": 1429249199000,
+  "timestamp": 1430396901000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -408,11 +408,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     },
     "7670": {
       "changes": {
@@ -4036,11 +4039,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9274": {
       "changes": {
@@ -5347,11 +5353,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9899": {
       "changes": {
@@ -5483,11 +5492,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9950": {
       "changes": {
@@ -6376,11 +6388,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "10585": {
       "changes": {
@@ -6427,10 +6442,37 @@
           "added": [
             "Waiting/Dependent"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Waiting/Dependent"
+          ]
+        }
+      },
+      "current": []
+    },
+    "10860": {
+      "changes": {
+        "1430396901000": {
+          "added": [
+            "Development"
+          ]
         }
       },
       "current": [
-        "Waiting/Dependent"
+        "Development"
+      ]
+    },
+    "10861": {
+      "changes": {
+        "1430396901000": {
+          "added": [
+            "Development"
+          ]
+        }
+      },
+      "current": [
+        "Development"
       ]
     },
     "10893": {
@@ -6439,11 +6481,14 @@
           "added": [
             "Ready"
           ]
+        },
+        "1430396901000": {
+          "removed": [
+            "Ready"
+          ]
         }
       },
-      "current": [
-        "Ready"
-      ]
+      "current": []
     }
   },
   "pullRequests": {
@@ -6611,7 +6656,6 @@
     "10642": {},
     "10647": {},
     "10653": {},
-    "10681": {},
     "10685": {},
     "10702": {},
     "10705": {},
@@ -6622,13 +6666,19 @@
     "10822": {},
     "10854": {},
     "10868": {},
-    "10873": {},
     "10878": {},
     "10882": {},
-    "10904": {},
     "10907": {},
     "10908": {},
-    "10912": {},
-    "10914": {}
+    "10926": {},
+    "10927": {},
+    "10937": {},
+    "10939": {},
+    "10952": {},
+    "10978": {},
+    "10989": {},
+    "10990": {},
+    "11015": {},
+    "11022": {}
   }
 }
