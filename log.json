@@ -1,5 +1,5 @@
 {
-  "timestamp": 1435141254000,
+  "timestamp": 1435229479000,
   "issueLabels": {
     "2": {
       "changes": {
@@ -5606,11 +5606,14 @@
           "added": [
             "Development"
           ]
+        },
+        "1435229479000": {
+          "removed": [
+            "Development"
+          ]
         }
       },
-      "current": [
-        "Development"
-      ]
+      "current": []
     },
     "9964": {
       "changes": {
@@ -6591,10 +6594,18 @@
           "added": [
             "Development"
           ]
+        },
+        "1435229479000": {
+          "removed": [
+            "Development"
+          ],
+          "added": [
+            "Review"
+          ]
         }
       },
       "current": [
-        "Development"
+        "Review"
       ]
     },
     "11093": {
@@ -6892,6 +6903,7 @@
     "11293": {},
     "11295": {},
     "11299": {},
-    "11301": {}
+    "11301": {},
+    "11307": {}
   }
 }
